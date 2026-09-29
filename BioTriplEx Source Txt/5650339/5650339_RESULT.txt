@@ -1,0 +1,145 @@
+miR-146a expression was upregulated in human OS tissues
+To confirm the expression level of miR-146a in human OS tissues, we used the 2015 The cancer Genome Atlas (TCGA) gene sequencing data ( https://genome-cancer.ucsc.edu/ ) to examine miR-146a expression in OS tissues, indicating that miR-146a was highly expressed in OS tissues (n=237) compared to the adjacent normal tissues (n=25) (Figure  1A ). miR-146a expression was also upregulated in OS tissues (n=25) compared with the pair-matched normal tissues (n-25) (Figure  1B ). To uncover the link between miR-146a expression and tumor growth in OS tissues, we detected the expression of miR-146a in OS with tumor size ≥3cm (n=74) or tumor size <3cm (n=119), indicating that miR-146a expression was substantially upregulated in OS with tumor size ≥3cm compared with those with tumor size <3cm (Figure  1C ).
+The correlation of miR-146a expression with clinicopathologic features and prognosis of OS patients
+We further analysed the association of miR-146a expression with clinicopathologic characteristics and prognosis of OS patients. As indicated in Table  1 , miR-146a expression was positively associated with tumor size ( P =0.004), but had no correlation with age, gender, lymph node infiltration and distant metastasis in OS patients (each  P >0.05). According to the overall survival time, survival status and miR-146a expression level, we used the cutoff finder ( http://molpath.charite.de/cutoff/load.jsp ) to define the high expression level (cutoff ≥ 5.509) or low expression level (cutoff <5.509) of miR-146a in OS tissues (Figure  1D ). We then analyzed the association between miR-146a high expression and overall survival and recurrence in OS patients by using Kaplan-Meier and Multivariate analysis, indicating that miR-146a expression was not an independent prognostic factor for overall survival ( Supplementary Table 1 ) and tumor recurrence ( Supplementary Table 2 ) in OS patients. Overall survival curve demonstrated that OS patients with miR-146a high expression had no difference in comparison with the patients with miR-146a low expression (Figure  1E ), but the recurrence curve showed that the patients with miR-146a high expression had higher tumor recurrence rate than the patients with miR-146a low expression (Figure  1F ).
+
+           Table 1 
+           The correlation of miR-146a expression with clinicopathological factors of OS patients 
+           
+             
+           Variables 
+                 Cases (n) 
+                 miR-146a low 
+                 Expression high 
+                 P  value 
+               
+                 
+               Total 
+                 193 
+                 131 
+                 62 
+               
+                 
+             
+               
+             Age (years) 
+                 
+                 
+                 
+                 
+               
+                 
+                ≥20 
+                 83 
+                 61 
+                 22 
+                 
+               
+                 
+                < 20 
+                 110 
+                 70 
+                 40 
+                 0.148 
+               
+                 
+               Gender 
+                 
+                 
+                 
+                 
+               
+                 
+                Male 
+                 89 
+                 57 
+                 32 
+                 
+               
+                 
+                Female 
+                 104 
+                 74 
+                 30 
+                 0.293 
+               
+                 
+               Tumor size (cm) 
+                 
+                 
+                 
+                 
+               
+                 
+                ≥3 
+                 74 
+                 41 
+                 33 
+                 
+               
+                 
+                <3 
+                 119 
+                 90 
+                 29 
+                 0.004 
+               
+                 
+               Lymph node infiltration 
+                 
+                 
+                 
+                 
+               
+                 
+                No 
+                 97 
+                 69 
+                 28 
+                 
+               
+                 
+                Yes 
+                 96 
+                 62 
+                 34 
+                 0.331 
+               
+                 
+               Distant metastases 
+                 
+                 
+                 
+                 
+               
+                 
+                No 
+                 168 
+                 115 
+                 53 
+                 
+               
+                 
+                Yes 
+                 25 
+                 16 
+                 9 
+                 0.657 
+               
+                 
+             
+               
+           
+             
+        
+The effects of miR-146a on OS cell growth
+Having verified the positive correlation of miR-146a expression with tumor size of OS patients (Figure  1C  and Table  1 ), we then explored the functions of miR-146a in OS growth. We first examined the expression levels of miR-146a in different OS cell lines (U-2 OS, Saos-2, MG-63, SW-1353, HOS and 143B), and found that miR-146a was highly expressed in U-2 OS and Saos-2 cell lines but lowly expressed in MG-63 and HOS cell lines (Figure  2A ). Then, miR-146a shRNA vector was transfect intro U-2 OS and Saos-2 cell lines with miR-146a high expression. After transfection for 48h, miR-146a expression levels were determined by qRT-PCR, indicating a decreased miR-146a expression in sh-miR-146a group compared to NC group (Figure  2B ). Then, MTT and colony formation assays showed that knockdown of miR-146a significantly reduced cell proliferation activity (Figure  2C  and  2D ) and colony formation (Figure  2E ) in OS cells.
+Meanwhile, miR-146a overexpression vector was used to transfect into MG-63 and HOS cell lines with miR-146a low expression. After transfection for 48h, miR-146a expression levels were markedly increased in miR-146a group compared with NC group (Figure  3A ). MTT and colony formation assays showed that overexpression of miR-146a promoted cell growth of MG-63 and HOS cells (Figure  3B  and  3C ).
+ZNRF3 was a target gene of miR-146a in OS cells
+To confirm the molecular mechanism by which miR-146a regulates cell growth in OS cells, we identified the potential target genes of miR-146a by using prediction websites ( http://starbase.sysu.edu.cn/targetSite.phpfor ). As shown in Figure  4A , under the stringent conditions including very high stringency (≥5), cancer types (≥5) and prediction software (≥3), six target genes were identified to have the potential to bind with miR-146a, of which zinc and ring finger 3 (ZNRF3) was considered as the most suitable candidate target gene of the miR-146a due to its highest binding force ( Supplementary Table 3 ). To further verify whether miR-146a directly binds to the 3’ UTR of ZNRF3, the wild type 3’ UTR or the mutant 3’ UTR target sequences of ZNRF3 (Figure  4B ) were cloned into the luciferase reporter vector in MG-63 and HOS cells. It was demonstrated that miR-146a decreased the expression levels of ZNRF3 in OS cells (Figure  4C ). Moreover, miR-146a overexpression lowered the luciferase activity of wild type 3` UTR of ZNRF3 in OS cells, but had no effect on that of mutation 3` UTR of ZNRF3 (Figure  4D ).
+ZNRF3 suppressed cell proliferation and colony formation of OS cells
+To demonstrate the association of miR-146a expression with ZNRF3 in OS tissues, we first measured the expression level of ZNRF3 in OS tissues (n=237) and adjacent normal tissues (n=25) by TCGA data, which uncovered that ZNRF3 expression was substantially downregulated in OS tissues (Figure  5A ). ZNRF3 expression was also decreased in OS tissues compared with pair-matched normal tissues (Figure  5B ). The correlation analysis showed the negative correlation of miR-146a with ZNRF3 expression in OS tissues (Figure  5C ). Furthermore, we constructed the ZNRF3 overexpression stably transfected MG-63 and HOS cell lines, and confirmed its transfection efficiency by qRT-PCR and western blotting assays (Figure  5D ). Then, ectopic expression of ZNRF3 significantly repressed cell proliferation (Figure  5E ) and colony formation (Figure  5F ), but knockdown of ZNRF3 by sh-ZNRF3 (Figure  5G ) promoted cell proliferation in OS cells (Figure  5H ).
+ZNRF3 rescued the proliferation-promoting effects of miR-146a via GSK-3β/β-catenin pathway
+To uncover the molecular mechanism by which ZNRF3 rescues the proliferation-promoting effects induced by miR-146a, we co-transfected ZNRF3 and miR-146a overexpression vectors into MG-63 and HOS cells, indicating that ZNRF3 overexpression reduced miR-146a-induced cell proliferation (Figure  6A ). Moreover, the expression levels of GSK-3β and β-catenin as potential downstream factors of ZNRF3 were detected by Western blot, indicating that miR-146a increased the activity of GSK-3β/β-catenin pathway, but this effect was reversed by ZNRF3 in OS cells (Figure  6B ). Then, we co-transfected sh-ZNRF3 and miR-146a knockdown vectors into OS U2-OS and Saos-2 cells, and found that knockdown of ZNRF3 attenuated the effects of sh-miR-146a induced increased expression of ZNRF3 (Figure  6C  and  6D ) and decreased proliferation of OS cells (Figure  6E ).
+miR-146a knockdown inhibited xenograft tumor growth
+Having confirmed the proliferation-promoting role of miR-146a in OS cells  in vitro,  we further verified the effects of miR-146a on OS cell growth  in vivo . A subcutaneous U-2OS tumor model was esbablished to assess the growth activity of xenograft tumors affected by miR-146a. During the 3 weeks’ investigation, the tumor length and width of the xenograft tumors was examined every other day. We found that the proliferation rates of tumors were significantly decreased by sh-miR-146a (Figure  7A  and  7B ). The average weight and volumes in sh-miR-146a group were lowered compared with those in NC group (Figure  7C  and  7D ). Further, western blotting analysis showed that knockdown of miR-146a downregulated the expression of ZNRF3 in xenograft tumor tissues (Figure  7E ).

@@ -1,0 +1,1583 @@
+DNA Methylation Status and Expression Level of mRNA in PDAC Tissues
+To examine the relationship between the extent of DNA methylation of mucin genes and the expression level of mRNA in paired pancreatic tissues, we evaluated 34 tissue samples (17 paired, neoplastic and non-neoplastic areas of PDAC specimens).
+A plot of the U-index for  MUC1  against the mRNA level for MUC1 showed a significant correlation (R 2  = 0.406, P<0.001) ( Figure 1 ). This result indicates that the extent of DNA methylation status of  MUC1  is a trigger for regulation of expression of MUC1 mRNA in pancreatic tissue.
+A plot of the U-index for  MUC2  against the mRNA level for MUC2 showed no significant correlation (data not shown). A plot of the U-index for  MUC4  against the mRNA level for MUC4 showed no significant correlation, either (data not shown). However, as shown in the following paragraph, the DNA methylation status of  MUC2  and  MUC4  could be applied in the analysis of pancreatic juice.
+Correlation between DNA Methylation Status in Pancreatic Juice and Mucin Expression
+Representative cases of comparison of the DNA methylation status using MSE of pancreatic juice and expression of mucins examined by IHC in paired pancreatic tissues from PDAC, intestinal-type IPMN and gastric-type IPMN are shown in  Figure 2 . Pancreatic juice from patients with PDAC showed unmethylated  MUC1 , methylated  MUC2 , and unmethylated  MUC4  in MSE analysis, and paired pancreatic tissues were MUC1-positive, MUC2-negative and MUC4-positive ( Figure 2A ). Pancreatic juice from patients with intestinal-type IPMN showed unmethylated  MUC1 , unmethylated  MUC2  and unmethylated  MUC4 , and paired pancreatic tissues were MUC1-positive, MUC2-positive and MUC4-positive ( Figure 2B ). Pancreatic juice from patients with gastric-type IPMN showed unmethylated  MUC1 , methylated  MUC2  and methylated  MUC4 , and paired pancreatic tissues were MUC1-positive and MUC2-negative and MUC4-negative ( Figure 2C ). These results indicate that the DNA methylation status of the three mucin genes ( MUC1 ,  MUC2  and  MUC4 ) in pancreatic juice matches with the expression level of the three mucins (MUC1, MUC2 and MUC4) in tissue. Thus, MSE analysis of pancreatic juice may be useful for assessment of mucin expression levels.
+Differences in DNA Methylation among Neoplastic Lesions in Pancreatic Juice Analysis
+To examine differences in DNA methylation of  MUC1 ,  MUC2  and  MUC4  among pancreatic neoplastic lesions, we evaluated pancreatic juice samples from 15 patients with PDAC, 11 patients with gastric-type IPMN, 8 with intestinal-type IPMN, 9 with other IPMN types, and 2 non-neoplastic pancreases ( Table 1 ). The promoter methylation status of the three mucins was detected by MSE and the U-index was calculated using the band intensity. Interestingly, pancreatic juices obtained from the 2 non-neoplastic pancreases were similar to those for gastric-type IPMN (data not shown). The median U-index, 95% confidence interval and p values in a Kolmogorov-Smirnov test are shown in  Table S2 . For MUC1, gastric-type IPMN had a significantly lower U index (P>0.001) compared to other diseases, including intestinal-type IPMN and PDAC ( Figure 3A ). The area under the curve (AUC) for distinguishing gastric-type IPMN from other neoplasms was 0.803 (ROC curve shown in  Figure S1A ; U-index threshold of 44.65 points). For MUC2, the intestinal-type IPMN had a significantly higher U-index (P>0.001) compared to the other neoplasms, including gastric-type IPMN and PDAC, and the U-index for gastric-type IPMN was significantly lower (P = 0.002) than that for PDAC ( Figure 3B ). The AUC for distinguishing intestinal-type IPMN from other neoplasms was 0.882 (ROC curve shown in  Figure S1B ; U-index threshold of 82.71 points). For MUC4, gastric-type IPMN had a significantly lower U-index (P = 0.018) than intestinal-type IPMN ( Figure 3C ). The AUC for distinguishing gastric-type IPMN from intestinal-type IPMN was 0.740 (ROC curve shown in  Figure S1C ; U-index threshold of 83.22 points). The threshold values, AUCs, and P values are summarized in  Table 2 .
+
+           10.1371/journal.pone.0093760.t001 
+           Table 1 
+           Origin of pancreatic juice samples. 
+           
+             
+           
+             
+                 
+               
+                 
+               Disease state 
+                   Number 
+                 
+                   
+               
+                 
+               PDAC 
+                   15 
+                 
+                   
+                 Intestinal-type IPMN 
+                   8 
+                 
+                   
+                 Other-type IPMN 
+                   
+                 
+                   
+                 Pancreatobiliary-type IPMN 
+                   4 
+                 
+                   
+                 Intestinal-type IPMN with Colloid Carcinoma 
+                   3 
+                 
+                   
+                 Oncocytic-type IPMN 
+                   1 
+                 
+                   
+                 Intraductal tubulopapillary neoplasm 
+                   1 
+                 
+                   
+                 Gastric-type IPMN 
+                   11 
+                 
+                   
+                 Non-neoplastic pancreas 
+                   2 
+                 
+                   
+                 Total 
+                   45 
+                 
+                   
+               
+                 
+             
+               
+           
+             
+           
+               PDAC: pancreatic ductal adenocarcinoma, IPMN: intraductal papillary mucinous neoplasm. 
+             
+               
+           
+             
+        
+
+           10.1371/journal.pone.0093760.t002 
+           Table 2 
+           Summary of P values in T tests, AUCs and threshold values. 
+           
+             
+           
+             
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+               
+                 
+               1. MUC1 
+                 
+                   
+               
+                 
+               PDAC vs IPMN-IN 
+                   PDAC vs IPMN-Oh 
+                   PDAC vs IPMN-GA 
+                   PDAC vs Other 
+                 
+                   
+                 P 
+                   AUC 
+                   Th. 
+                   P 
+                   AUC 
+                   Th. 
+                   P 
+                   AUC 
+                   Th. 
+                   a 
+ P 
+                   AUC 
+                   Th. 
+                 
+                   
+                 0.355 
+                   0.617 
+                   76.25 
+                   0.514 
+                   0.526 
+                   55.03 
+                   0.001 
+                   0.815 
+                   55.03 
+                   0.057 
+                   0.613 
+                   55.03 
+                 
+                   
+                 
+                   IPMN-IN vs IPMN-Oh 
+                   IPMN-IN vs IPMN-GA 
+                   IPMN-IN vs Other 
+                 
+                   
+                 
+                   
+                   
+                   P 
+                   AUC 
+                   Th. 
+                   P 
+                   AUC 
+                   Th. 
+                   P 
+                   AUC 
+                   Th. 
+                 
+                   
+                 
+                   
+                   
+                   0.256 
+                   0.611 
+                   76.25 
+                   0.002 
+                   0.837 
+                   76.25 
+                   0.064 
+                   0.693 
+                   76.25 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   IPMN-Oh vs IPMN-GA 
+                   IPMN-Oh vs Other 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   P 
+                   AUC 
+                   Th. 
+                   P 
+                   AUC 
+                   Th. 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   0.050 
+                   0.752 
+                   44.65 
+                   0.701 
+                   0.556 
+                   84.27 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   IPMN-GA vs Other 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   P 
+                   AUC 
+                   Th. 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   <0.001 
+                   0.803 
+                   44.65 
+                 
+                   
+                 2. MUC2 
+ 
+ 
+                 
+                   
+                 PDAC vs IPMN-IN 
+                   PDAC vs IPMN-Oh 
+                   PDAC vs IPMN-GA 
+                   PDAC vs Other 
+                 
+                   
+                 P 
+                   AUC 
+                   Th. 
+                   P 
+                   AUC 
+                   Th. 
+                   P 
+                   AUC 
+                   Th. 
+                   a 
+ P 
+                   AUC 
+                   Th. 
+                 
+                   
+                 0.005 
+                   0.875 
+                   82.71 
+                   0.457 
+                   0.622 
+                   37.41 
+                   0.002 
+                   0.821 
+                   35.99 
+                   0.522 
+                   0.576 
+                   35.99 
+                 
+                   
+                 
+                   
+                   
+                   IPMN-IN vs IPMN-Oh 
+                   IPMN-IN vs IPMN-GA 
+                   IPMN-IN vs Other 
+                 
+                   
+                 
+                   
+                   
+                   P 
+                   AUC 
+                   Th. 
+                   P 
+                   AUC 
+                   Th. 
+                   P 
+                   AUC 
+                   Th. 
+                 
+                   
+                 
+                   
+                   
+                   0.018 
+                   0.833 
+                   82.71 
+                   <0.001 
+                   0.923 
+                   82.71 
+                   <0.001 
+                   0.882 
+                   82.71 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   IPMN-Oh vs IPMN-GA 
+                   IPMN-Oh vs Other 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   P 
+                   AUC 
+                   Th. 
+                   P 
+                   AUC 
+                   Th. 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   0.106 
+                   0.735 
+                   8.46 
+                   0.687 
+                   0.540 
+                   37.41 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   IPMN-GA vs Other 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   P 
+                   AUC 
+                   Th. 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   0.001 
+                   0.822 
+                   8.46 
+                 
+                   
+                 3. MUC4 
+ 
+ 
+                 
+                   
+                 PDAC vs IPMN-IN 
+                   PDAC vs IPMN-Oh 
+                   PDAC vs IPMN-GA 
+                   PDAC vs Other 
+                 
+                   
+                 b 
+ P 
+                   AUC 
+                   Th. 
+                   b 
+ P 
+                   AUC 
+                   Th. 
+                   b 
+ P 
+                   AUC 
+                   Th. 
+                   b 
+ P 
+                   AUC 
+                   Th. 
+                 
+                   
+                 0.825 
+                   0.533 
+                   98.20 
+                   0.030 
+                   0.770 
+                   68.98 
+                   0.065 
+                   0.708 
+                   92.54 
+                   0.052 
+                   0.680 
+                   92.54 
+                 
+                   
+                 
+                   
+                   
+                   IPMN-IN vs IPMN-Oh 
+                   IPMN-IN vs IPMN-GA 
+                   IPMN-IN vs Other 
+                 
+                   
+                 
+                   
+                   
+                   P 
+                   AUC 
+                   Th. 
+                   P 
+                   AUC 
+                   Th. 
+                   P 
+                   AUC 
+                   Th. 
+                 
+                   
+                 
+                   
+                   
+                   0.019 
+                   0.792 
+                   83.22 
+                   0.019 
+                   0.740 
+                   83.22 
+                   0.061 
+                   0.642 
+                   83.22 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   IPMN-Oh vs IPMN-GA 
+                   IPMN-Oh vs Other 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   P 
+                   AUC 
+                   Th. 
+                   b 
+ P 
+                   AUC 
+                   Th. 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   0.980 
+                   0.504 
+                   48.98 
+                   0.111 
+                   0.676 
+                   68.98 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   IPMN-GA vs Other 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   b 
+ P 
+                   AUC 
+                   Th. 
+                 
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   0.101 
+                   0.659 
+                   48.98 
+                 
+                   
+               
+                 
+             
+               
+           
+             
+           a 
+               Welch T test, 
+             
+               
+             b 
+               Mann-Whitney U test, PDAC: pancreatic ductal adenocarcinoma, IPMN: intraductal papillary mucinous neoplasm, IPMN-IN: intestinal-type IPMN, IPMN, IPMN-Oh: other-type IPMN, IPMN-GA: gastric-type IPMN, Th.: Threshold value. 
+             
+               
+           
+             
+        
+Distinction of Pancreatic Neoplastic Lesions Based on Aberrant Methylation of Three Mucins
+A predictive model for identification of pancreatic disease was constructed using the U-indexes of MUC1, MUC2 and MUC4 based on quadratic ( Table 3 ) or canonical ( Table 4 ) discriminant analysis. The model based on quadratic discrimination analysis had specificity and sensitivity of 87% and 80% for PDAC; 100% and 88% for intestinal-type IPMN (dangerous type); and 88% and 77% for gastric-type IPMN (safe type) and non-neoplastic case. With canonical discriminant analysis, the model had a specificity and sensitivity of 77% and 73% for PDAC; 95% and 88% for intestinal-type IPMN; and 91% and 69% for gastric-type IPMN. These data are summarized in  Table S3 . The accuracies of the quadratic and canonical discriminant analyses were 76% and 64%, respectively, in examination of 45 pancreatic juice samples. Thus, quadratic discrimination analysis was more suitable for construction of the predictive model for pancreatic disease type using analysis of pancreatic juice.
+
+           10.1371/journal.pone.0093760.t003 
+           Table 3 
+           Summary of predictive model findings for disease type in Quadratic discrimination analysis. 
+           
+             
+           
+             
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+               
+                 
+               
+                   
+                   Probability of prediction 
+                   
+                   
+                 
+                   
+                 Final diagnosis 
+                   Setting of disease type 
+                   PDAC 
+                   IPMN-IN 
+                   Other 
+                   IPMN-GA 
+                   Predicted disease type 
+                   Accuracy 
+                 
+                   
+               
+                 
+               PDAC 
+                   PDAC 
+                   50.0% 
+                   35.6% 
+                   8.1% 
+                   6.3% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   71.9% 
+                   0.0% 
+                   2.7% 
+                   25.4% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   70.2% 
+                   0.0% 
+                   5.4% 
+                   24.5% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   48.3% 
+                   0.0% 
+                   7.7% 
+                   44.0% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   75.4% 
+                   0.0% 
+                   2.8% 
+                   21.8% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   77.2% 
+                   0.4% 
+                   5.0% 
+                   17.4% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   77.2% 
+                   0.0% 
+                   2.6% 
+                   20.2% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   77.2% 
+                   1.7% 
+                   5.8% 
+                   15.3% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   46.8% 
+                   9.0% 
+                   21.8% 
+                   22.3% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   71.0% 
+                   0.0% 
+                   2.8% 
+                   26.2% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   73.7% 
+                   1.5% 
+                   7.2% 
+                   17.7% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   57.2% 
+                   3.1% 
+                   35.3% 
+                   4.4% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   32.7% 
+                   7.2% 
+                   56.7% 
+                   3.4% 
+                   Other 
+                   - 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   45.2% 
+                   0.6% 
+                   53.9% 
+                   0.3% 
+                   Other 
+                   - 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   14.3% 
+                   0.3% 
+                   28.7% 
+                   56.7% 
+                   IPMN-GA 
+                   - 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   24.1% 
+                   65.6% 
+                   7.0% 
+                   3.3% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   34.5% 
+                   52.5% 
+                   9.0% 
+                   4.0% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   2.1% 
+                   91.1% 
+                   6.0% 
+                   0.8% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   6.5% 
+                   75.4% 
+                   17.8% 
+                   0.3% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   0.5% 
+                   95.0% 
+                   4.3% 
+                   0.2% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   0.1% 
+                   89.2% 
+                   10.6% 
+                   0.0% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   0.4% 
+                   94.3% 
+                   5.0% 
+                   0.2% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   1.6% 
+                   37.5% 
+                   58.6% 
+                   2.4% 
+                   Other 
+                   - 
+                 
+                   
+                 IPMN-PB 
+                   Other 
+                   30.3% 
+                   0.9% 
+                   68.5% 
+                   0.3% 
+                   Other 
+                   yes 
+                 
+                   
+                 IPMN-PB 
+                   Other 
+                   0.4% 
+                   6.7% 
+                   86.2% 
+                   6.7% 
+                   Other 
+                   yes 
+                 
+                   
+                 IPMN-PB 
+                   Other 
+                   11.9% 
+                   0.1% 
+                   87.9% 
+                   0.1% 
+                   Other 
+                   yes 
+                 
+                   
+                 IPMN-PB 
+                   Other 
+                   38.8% 
+                   0.3% 
+                   18.2% 
+                   42.7% 
+                   IPMN-GA 
+                   - 
+                 
+                   
+                 IPMN-IN with CC 
+                   Other 
+                   5.9% 
+                   41.1% 
+                   50.6% 
+                   2.3% 
+                   Other 
+                   yes 
+                 
+                   
+                 IPMN-IN with CC 
+                   Other 
+                   72.5% 
+                   1.2% 
+                   7.5% 
+                   18.8% 
+                   PDAC 
+                   - 
+                 
+                   
+                 IPMN-IN with CC 
+                   Other 
+                   12.9% 
+                   0.0% 
+                   15.5% 
+                   71.6% 
+                   IPMN-GA 
+                   - 
+                 
+                   
+                 IPMN-On 
+                   Other 
+                   1.2% 
+                   0.0% 
+                   7.7% 
+                   91.1% 
+                   IPMN-GA 
+                   - 
+                 
+                   
+                 ITPN 
+                   Other 
+                   10.8% 
+                   16.3% 
+                   72.8% 
+                   0.2% 
+                   Other 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   1.2% 
+                   0.0% 
+                   8.0% 
+                   90.8% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   2.2% 
+                   0.0% 
+                   7.5% 
+                   90.3% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   0.1% 
+                   0.0% 
+                   6.1% 
+                   93.8% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   7.2% 
+                   0.0% 
+                   16.4% 
+                   76.4% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   5.7% 
+                   0.0% 
+                   11.7% 
+                   82.7% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   0.4% 
+                   0.0% 
+                   21.7% 
+                   77.9% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   7.5% 
+                   0.0% 
+                   15.8% 
+                   76.7% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   44.1% 
+                   0.0% 
+                   11.0% 
+                   45.0% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   61.3% 
+                   0.4% 
+                   8.8% 
+                   29.5% 
+                   PDAC 
+                   - 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   66.7% 
+                   11.7% 
+                   9.3% 
+                   12.3% 
+                   PDAC 
+                   - 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   69.4% 
+                   2.3% 
+                   9.5% 
+                   18.8% 
+                   PDAC 
+                   - 
+                 
+                   
+                 Pancreatitis 
+                   IPMN-GA 
+                   12.8% 
+                   0.3% 
+                   26.1% 
+                   60.8% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 NL 
+                   IPMN-GA 
+                   1.4% 
+                   0.0% 
+                   8.0% 
+                   90.6% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+               
+                 
+             
+               
+           
+             
+           
+               PDAC: pancreatic ductal adenocarcinoma, IPMN: intraductal papillary mucinous neoplasm, IPMN-IN: intestinal-type IPMN, IPMN-PB: pancreatobiliary-type IPMN, IPMN-IN with CC: intestinal-type IPMN with colloid carcinoma, IPMN-On: oncocytic-type IPMN, ITPN: intraductal tubulopapillary neoplasm, IPMN-GA: gastric-type IPMN, NL: no lesion, Other: Other-type IPMN. 
+             
+               
+           
+             
+        
+
+           10.1371/journal.pone.0093760.t004 
+           Table 4 
+           Summary of predictive model findings for disease type in Canonical discriminant analysis. 
+           
+             
+           
+             
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+               
+                 
+               
+                   
+                   Probability of prediction 
+                   
+                   
+                 
+                   
+                 Final diagnosis 
+                   Setting of disease type 
+                   PDAC 
+                   IPMN-IN 
+                   Other 
+                   IPMN-GA 
+                   Predicted disease type 
+                   Accuracy 
+                 
+                   
+               
+                 
+               PDAC 
+                   PDAC 
+                   48.6% 
+                   33.8% 
+                   15.3% 
+                   2.4% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   54.2% 
+                   1.7% 
+                   4.2% 
+                   39.9% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   61.0% 
+                   11.1% 
+                   8.3% 
+                   19.6% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   48.9% 
+                   1.4% 
+                   10.2% 
+                   39.5% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   63.9% 
+                   5.0% 
+                   6.7% 
+                   24.4% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   63.8% 
+                   11.4% 
+                   13.6% 
+                   11.2% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   73.0% 
+                   4.1% 
+                   8.1% 
+                   14.7% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   63.4% 
+                   13.8% 
+                   15.1% 
+                   7.7% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   64.5% 
+                   13.8% 
+                   19.5% 
+                   2.2% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   53.5% 
+                   1.5% 
+                   4.3% 
+                   40.8% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   58.2% 
+                   20.9% 
+                   10.9% 
+                   9.9% 
+                   PDAC 
+                   yes 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   18.6% 
+                   11.0% 
+                   56.0% 
+                   14.5% 
+                   Other 
+                   - 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   18.4% 
+                   30.1% 
+                   41.2% 
+                   10.3% 
+                   Other 
+                   - 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   14.4% 
+                   11.6% 
+                   71.4% 
+                   2.6% 
+                   Other 
+                   - 
+                 
+                   
+                 PDAC 
+                   PDAC 
+                   25.7% 
+                   0.7% 
+                   22.4% 
+                   51.2% 
+                   IPMN-GA 
+                   - 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   38.9% 
+                   45.3% 
+                   12.8% 
+                   2.9% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   41.4% 
+                   42.8% 
+                   14.5% 
+                   1.3% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   25.3% 
+                   63.0% 
+                   8.7% 
+                   2.9% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   13.0% 
+                   77.8% 
+                   9.0% 
+                   0.3% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   18.8% 
+                   72.1% 
+                   7.0% 
+                   2.1% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   8.4% 
+                   84.5% 
+                   6.3% 
+                   0.8% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   17.8% 
+                   72.5% 
+                   7.6% 
+                   2.2% 
+                   IPMN-IN 
+                   yes 
+                 
+                   
+                 IPMN-IN 
+                   IPMN-IN 
+                   23.2% 
+                   1.0% 
+                   61.9% 
+                   13.8% 
+                   Other 
+                   - 
+                 
+                   
+                 IPMN-PB 
+                   Other 
+                   14.5% 
+                   8.2% 
+                   74.8% 
+                   2.5% 
+                   Other 
+                   yes 
+                 
+                   
+                 IPMN-PB 
+                   Other 
+                   60.4% 
+                   2.2% 
+                   33.8% 
+                   3.6% 
+                   PDAC 
+                   - 
+                 
+                   
+                 IPMN-PB 
+                   Other 
+                   11.6% 
+                   6.7% 
+                   80.2% 
+                   1.4% 
+                   Other 
+                   yes 
+                 
+                   
+                 IPMN-PB 
+                   Other 
+                   45.1% 
+                   1.8% 
+                   21.1% 
+                   32.0% 
+                   PDAC 
+                   - 
+                 
+                   
+                 IPMN-IN with CC 
+                   Other 
+                   18.9% 
+                   51.5% 
+                   22.1% 
+                   7.6% 
+                   IPMN-IN 
+                   - 
+                 
+                   
+                 IPMN-IN with CC 
+                   Other 
+                   58.0% 
+                   20.7% 
+                   10.6% 
+                   10.7% 
+                   PDAC 
+                   - 
+                 
+                   
+                 IPMN-IN with CC 
+                   Other 
+                   19.9% 
+                   0.8% 
+                   15.9% 
+                   63.4% 
+                   IPMN-GA 
+                   - 
+                 
+                   
+                 IPMN-On 
+                   Other 
+                   8.2% 
+                   0.3% 
+                   7.2% 
+                   84.3% 
+                   IPMN-GA 
+                   - 
+                 
+                   
+                 ITPN 
+                   Other 
+                   8.5% 
+                   76.9% 
+                   14.1% 
+                   0.5% 
+                   IPMN-IN 
+                   - 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   6.9% 
+                   0.1% 
+                   1.0% 
+                   92.0% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   10.2% 
+                   0.2% 
+                   4.5% 
+                   85.0% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   3.2% 
+                   0.0% 
+                   0.7% 
+                   96.1% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   14.5% 
+                   0.5% 
+                   16.2% 
+                   68.8% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   15.2% 
+                   0.3% 
+                   9.2% 
+                   75.4% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   12.3% 
+                   2.4% 
+                   5.9% 
+                   79.5% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   13.7% 
+                   0.9% 
+                   17.3% 
+                   68.1% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   80.6% 
+                   0.7% 
+                   5.2% 
+                   13.5% 
+                   PDAC 
+                   - 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   49.9% 
+                   6.4% 
+                   17.1% 
+                   26.7% 
+                   PDAC 
+                   - 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   52.4% 
+                   14.6% 
+                   22.6% 
+                   10.4% 
+                   PDAC 
+                   - 
+                 
+                   
+                 IPMN-GA 
+                   IPMN-GA 
+                   55.3% 
+                   28.8% 
+                   8.3% 
+                   7.7% 
+                   PDAC 
+                   - 
+                 
+                   
+                 Pancreatitis 
+                   IPMN-GA 
+                   17.4% 
+                   0.7% 
+                   24.9% 
+                   57.0% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+                 NL 
+                   IPMN-GA 
+                   8.6% 
+                   0.3% 
+                   7.3% 
+                   83.7% 
+                   IPMN-GA 
+                   yes 
+                 
+                   
+               
+                 
+             
+               
+           
+             
+           
+               PDAC: pancreatic ductal adenocarcinoma, IPMN: intraductal papillary mucinous neoplasm, IPMN-IN: intestinal-type IPMN, IPMN-PB: pancreatobiliary-type IPMN, IPMN-IN with CC: intestinal-type IPMN with colloid carcinoma, IPMN-On: oncocytic-type IPMN, ITPN: intraductal tubulopapillary neoplasm, IPMN-GA: gastric-type IPMN, NL: no lesion, Other: Other-type IPMN. 
+             
+               
+           
+             
+        

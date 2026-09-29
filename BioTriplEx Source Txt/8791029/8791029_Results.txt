@@ -1,0 +1,550 @@
+Progranulin Expression, Knockdown, and Over-Expression in NSC-34 Cells
+NSC-34 vector control cells, and cells that either stably over-express human PGRN (NSC-34/hPGRN) or under-express murine PGRN (NSC-34/shPGRN) were generated ( Supplementary Figure 1 ). PGRN levels were depleted by approximately 50% in NSC-34/shPGRN cells, a reduction equivalent to that associated with FTD-GRN ( Supplementary Figures 1A,B ). To confirm their neuron-like identity NSC-34 cells were stained for the motor neuron marker SMI32, which recognizes dephosphorylated epitopes of neurofilaments ( Supplementary Figure 1C ). Neither depletion nor over-expression of PGRN altered TDP-43 mRNA or protein expression ( Supplementary Figure 1D ).
+Progranulin Regulates NSC-34 Cell Neurite Outgrowth, Morphology, and Survival
+Progranulin expression had a strong impact on the shape and size of the cell body. At 48 h of culture, cell bodies of NSC-34/hPGRN have greater area and are flattened compared to the controls and NSC-34/shPGRN cells, which are typically small and circular ( Figures 1A,B ). Neurite length was greater in NSC-34/hPGRN cells than control or NSC-34/shPGRN cells when serum was present (10 or 1%). Extension in NSC-34/shPGRN often appeared to be poorly condensed and disorganized, which we refer to as “tortuous” ( Figures 1A,B ). Serum-deprivation stimulates differentiation in NSC-34 cells ( Eggett et al., 2000 ) and, correspondingly, over an 8 day period in the absence of serum, all cells exhibited neurite extension with no significant difference detected in neurite length between NSC-34/hPGRN and NSC-34/shPGRN cells ( Figure 1C ). Extensive cell death occurs in the NSC-34/shPGRN cells after 8 days in serum free medium, at which point measurements were discontinued. PGRN is secreted but also localizes cytoplasmically, due, at least in part, to endocytosis into lysosomes ( Hu et al., 2010 ;  Petoukhov et al., 2013 ;  Zhou et al., 2015 ,  2017 ). Neurons secrete PGRN in an activity dependent manner ( Petoukhov et al., 2013 ). There are in addition multiple paracrine extracellular sources of PGRN including microglia ( Ryan et al., 2009 ;  Hu et al., 2010 ) and de-differentiated Schwann cells ( Hyung et al., 2019 ). We therefore tested whether extracellular PGRN, mimicking the secreted protein, reproduces the morphological and survival phenotypes associated with endogenous PGRN expression. Exogenous PGRN added to the medium reproduced the effects of stable PGRN expression as WT NSC-34 cells displayed longer neurite outgrowth compared to cells cultured without PGRN on nitrocellulose coated plates pre-treated with PGRN in the presence of 10% serum ( Figure 1D ). Cell survival of NSC-34/shPGRN cells in 8-day serum-reduced culture decreased relative to WT NSC-34 cells as expected ( Ryan et al., 2009 ), but adding PGRN to the medium restores NSC-34/shPGRN cell numbers to the levels of control NSC-34 cells ( Figure 1E ).
+Gene Expression Profiling
+Given that the cells undergo active morphological differentiation within 2 days incubation in 1% serum with no loss of viability ( Figure 1 ), all subsequent molecular analyzes were performed under these conditions. Gene expression microarrays were used to identify how the mRNA phenotype of NSC-34 cells responds to PGRN expression levels. The anticipated expression level of PGRN were confirmed in each of the NSC-34/shPGRN, control and NSC-34/hPGRN cell lines prior to the analysis ( Supplementary Figure 2A ). Genes showing statistically significant changes in expression were identified by FlexAarray analysis software. Principal component analysis confirmed that the data from each of NSC-34/shPGRN, NSC-34/hPGRN and vector controls cells segregates independently ( Supplementary Figure 2B ). Among genes that showed the greatest fold down-regulation in NSC-34/shPGRN cells compared to NSC-34/hPGRN cells ( Table 1 ) were several associated with neurotransmission (dopamine decarboxylase, vesicular GABA transporter, alpha-2 adrenergic receptor), cytoskeletal organization (Stathmin 2, FGD2, SRGAP3), and RNA-binding proteins with roles in neuron development, survival, or congenital motor disorders (IGF2BP1, TSHZ1, GLE1).
+
+           TABLE 1 
+           Top 20 down-regulated genes in NSC-34/shPGRN cells compared with NSC-34/hPGRN cells. 
+           
+             
+           Gene symbol 
+                 Gene and implication 
+                 Fold change (down regulated) 
+               
+                 
+             
+               
+             HMCN1 
+                 Hemicentin-1 
+                 6.18 
+               
+                 
+               TTF1 
+                 Transcription termination factor 1 
+                 5.05 
+               
+                 
+               WFDC3 
+                 WAP four-disulfide core domain protein 
+                 5.01 
+               
+                 
+               SDSL 
+                 Serine dehydratase-like 
+                 3.74 
+               
+                 
+               STC1 
+                 stanniocalcin 
+                 3.69 
+               
+                 
+               IGF2BP1 
+                 Insulin-like growth factor 2 mRNA binding protein1 Axonal outgrowth 1 
+                 3.58 
+               
+                 
+               DDC 
+                 dopamine decarboxylase 
+                 3.44 
+               
+                 
+               STRA6 
+                 Stimulated by retinoic acid 6 
+                 3.08 
+               
+                 
+               STMN2 
+                 Stathmin 2 
+                 2.75 
+               
+                 
+               SLC32A1 
+                 Vesicular GABA transporter 
+                 2.65 
+               
+                 
+               FGD2 
+                 RhoGEF and PH domain containing 2 CDC42- specific exchange factor 
+                 2.63 
+               
+                 
+               6430517E21RIK 
+                 Similar to human fam5b 
+                 2.54 
+               
+                 
+               ADRA2A 
+                 Alpha-2-Adrenergic receptor 
+                 2.53 
+               
+                 
+               SRGAP3 
+                 Slit-Robo Rho GTPase-activating protein 3 Severe mental retardation 
+                 2.49 
+               
+                 
+               TSHZ1 
+                 Teashirt zinc finger homeobox 1 Motor neuron development, survival and function 
+                 2.49 
+               
+                 
+               CES1 
+                 Carboxylesterase 1 
+                 2.47 
+               
+                 
+               DKK1 
+                 Dickkopf-related protein 1 
+                 2.47 
+               
+                 
+               4933405K21RIK 
+                 GLE1A and GLE1B RNA export mediator Lethal congenital contracture syndrome and ALS 
+                 2.46 
+               
+                 
+               2310005C01RIK 
+                 neuronal nitric oxide synthase 
+                 2.43 
+               
+                 
+               EG433865 
+                 similar to spermidine/spermine N1-acetyltransferase 
+                 2.42 
+               
+                 
+             
+               
+           
+             
+           Azzouz et al., 2002 ;  Bucheler et al., 2002 ;  Johnson et al., 2003 ), cytoskeletal organization (Stathmin 2, FGD2, SRGAP3) ( Endris et al., 2002 ;  Budhachandra et al., 2008 ;  Hayakawa et al., 2008 ;  Carlson et al., 2011 ;  Klim et al., 2019 ) and RNA-binding proteins with roles in neuron development, survival, or congenital motor disorders (IGF2BP1, TSHZ1, GLE1) ( Nousiainen et al., 2008 ;  Gaynes et al., 2015 ;  Zhang et al., 2018 ;  Chaimowicz et al., 2019 ). Note the presence of genes associated with neurotransmission, cytoskeletal organization, and congenital neurological disorders. Among genes that showed the greatest fold down-regulation in NSC-34/shPGRN cells compared to NSC-34/hPGRN cells were several associated with neurotransmission (dopamine decarboxylase, vesicular GABA transporter, alpha-2 adrenergic receptor) ( 
+ 
+ 
+             
+               
+           
+             
+        
+Ingenuity Pathway analysis identified potential PGRN-sensitive functional networks ( Table 2 ). Among “biological function” networks PGRN knockdown was associated with neurological disease, behavior and nervous system development and function. The strong neurological disease-related signature in the downregulated data set of NSC-34/shPGRN cells implies that they exhibit disease-relevant molecular signals of neuronal disturbance, and this data set was, therefore, prioritized for further analysis. The top five IPA Associated Network Functions for PGRN knockdown cells versus PGRN over-expressors, based on a 1.5-fold cutoff difference for transcript expression, are given in  Table 3 . Details of each of the IPA Associated Network Functions are given in  Supplementary Figure 3 . Manual inspection of IPA network 1 predicts a potential sub-network associated with histone remodeling. Network 2 predicts two sub-networks associated with sterol metabolism and triglyceride metabolism, respectively. Network 4 predicts a sub-network associated with activation of RNA polymerase or RNA processing and Network 5 predicts two possible sub-networks associated with neuronal voltage-activated calcium channel ion-pore structure or regulation, and synaptic neurotransmitter vesicle formation/exocytosis.
+
+           TABLE 2 
+           Ingenuity Pathway Analysis of Top Predicted Biological Functions associated with knockdown or over-expression of PGRN in NSC-34 cells. 
+           
+             
+           Treatment groups 
+                 Top scoring IPA biological functions 
+               
+                 
+               
+                 Diseases and disorders 
+                 Molecular and cellular functions 
+                 Physiological system development and function 
+               
+                 
+             
+               
+             NSC-34/shPGRN vs vector control NSC-34- DOWN 
+                 Neurological Disease 
+                 Cell Morphology 
+                 Behavior 
+               
+                 
+               
+                 p  value 4.95E-06–2.20E-02 
+                 p  value 1.34E-05–1.92E-02 
+                 p  value 5.25E-06–2.04E-02 
+               
+                 
+               
+                 # molecules 128 
+                 # molecules 121 
+                 # molecules 56 
+               
+                 
+               NSC-34/shPGRN vs NSC-34/hPGRN DOWN 
+                 Neurological Disease 
+                 Lipid Metabolism 
+                 Nervous System Development and Function 
+               
+                 
+               
+                 p  value 1.08E-05–1.99E-02 
+                 p  value 1.67E-05–1.87E-02 
+                 p  value 3.89E-06–1.94E-02 
+               
+                 
+               
+                 # molecules 108 
+                 # molecules 74 
+                 # molecules 118 
+               
+                 
+               NSC-34/shPGRN vs vector control NSC-34- UP 
+                 Cardiovascular Disease 
+                 Cellular Growth and Proliferation 
+                 Embryonic Development 
+               
+                 
+               
+                 p  value 1.38E-06–1.23E-02 
+                 p  value 1.11E-05–1.21E-02 
+                 p  value 1.56E-06–1.16E-02 
+               
+                 
+               
+                 # molecules 67 
+                 # molecules 148 
+                 # molecules 106 
+               
+                 
+               NSC-34/shPGRN vs NSC-34/hPGRN - UP 
+                 Cancer 
+                 Cellular Growth and Proliferation 
+                 Cardiovascular System Development and Function 
+               
+                 
+               
+                 p  value 1.98E-09–1.56E-02 
+                 p  value 4.74E-07–1.50E-02 
+                 p  value 2.09E-05–1.56E-02 
+               
+                 
+               
+                 # molecules 172 
+                 # molecules 147 
+                 # molecules 63 
+               
+                 
+             
+               
+           
+             
+           Note that molecules that decrease when PGRN is knocked down have a predicted association with neurological disease, behavior and nervous system development and function. Down regulated gene sets are indicated as DOWN and up-regulated as UP. 
+ 
+ 
+             
+               
+           
+             
+        
+
+           TABLE 3 
+           IPA Associated Network Functions predicted for molecules downregulated by more than 1.5-fold between NSC-34/shPGRN PGRN knockdown and PGRN overexpressing NSC-34/hPGRN cells. 
+           
+             
+           Rank 
+                 ID Associated Network Functions 
+                 Score 
+               
+                 
+             
+               
+             1 
+                 Cell Cycle, Tissue Morphology, Cell-mediated Immune Response 
+                 47 
+               
+                 
+               2 
+                 Lipid Metabolism, Small Molecule Biochemistry, Vitamin and Mineral Metabolism 
+                 39 
+               
+                 
+               3 
+                 Infectious Disease, Cellular Development, Cellular Growth, and Proliferation 
+                 39 
+               
+                 
+               4 
+                 Cell Signaling, Gene Expression, Cell Cycle 
+                 38 
+               
+                 
+               5 
+                 Cell-To-Cell Signaling and Interaction, Nervous System Development and Function, Amino Acid Metabolism 
+                 34 
+               
+                 
+             
+               
+           
+             
+        
+Database for Annotation, Visualization, and Integrated Discovery Bioinformatics Resources were used to determine enrichment of GO terms and provide functional annotation clustering with groups, or clusters, of functionally related GO and KEGG terms ranked by an enrichment score ( Huang da et al., 2009b , a ). The DAVID analyses were stratified into: (i) signals that are downregulated in PGRN knockdown cells versus PGRN overexpressing cells; (ii) signals that are down regulated in PGRN knockdown cells with respect both to PGRN overexpressing cells and control cells (“commons”); (iii) the “neuronal commons,” that is genes extracted from the “common” subset that have a well-defined CNS function assessed by manually surveying their entries in the Uniprot, Genecards and OMIM databases. 657 genes in total go down in the [shPGRN vs hPGRN] gene set. The common gene set [shPGRN vs CTL/hPGRN] contains 264 molecules (40% of all down-regulated genes in the [shPGRN vs hPGRN] gene set). There are 55 genes in the “neuronal commons” gene subset, representing one fifth (20.8%) of the common gene set. Predicted functional annotation clustering is given in  Figure 2A  for clusters with an enrichment score of one or above. The top 10 most enriched individual GO-terms are given in  Figure 2B . Both the cluster analysis and individual GO-terms indicate effects on synaptic function in the NSC-34/shPGRN cells (compare with IPA network 5,  Supplementary Figure 3 ), associated, in particular, with synaptic vesicle cycling and SNARE interactions in vesicular transport and neuron projection. Functional annotation clustering ( Figure 2A ) and the list of top individual GO terms ( Figure 2B ) also show a strong signal for sterol biosynthetic pathways (compare with IPA network 2,  Supplementary Figure 3 ).
+The top GO-terms and annotation clusters that are upregulated in NSC-34/shPGRN cells relative to both control cells and PGRN over-expressing cells (commons-up) are summarized in  Supplementary Table 2 . This revealed several signals for neuron-related terms, but, rather than being centered on synaptic structural functions, as was observed among the down-regulated data set ( Figure 2 ), the up-regulated terms are related to semaphorin signaling and extracellular axon guidance pathways. The GO term “membrane” was enriched in both the down-regulated ( Figure 2B ) and up-regulated transcript data sets ( Supplementary Table 2 ). Among the molecules included in the two “membrane” GO terms (up and down regulated), are many with receptor-like properties ( Table 4 ). Substantially more signals for receptor tyrosine kinase transcripts (AXL, EPHB4, NGFR, and PDGFRB) are up-regulated in NSC-34/shPGRN cells compared to those that are down-regulated (RET). Similarly signals for molecules in the semaphorin-signaling pathway (NRP1, NRP2, PLXNA1, SEMA7A, SEMA6B), Notch-related receptors (NOTCH1 and NOTCH4), and receptors- in the Wnt-signaling pathway (FZD3, FZD7, LGR6) were up-regulated when PGRN was depleted. In comparison, the number of differentially regulated G-protein linked receptor mRNAs in either the up- or the down-regulated groups is similar (5 vs 6). Receptor-like proteins associated with the immune response were down-regulated in NSC-34/shPGRN cells (CD109, CD180, CD40, Fc receptor IgA IgM, CSF2RA, TREML1, and TNFSF8). Although PGRN is a powerful survival agent in NSC-34 cells we did not detect any signals associated with apoptosis or its inhibition in NSC-34/shPGRN cells. This is, however, unsurprising as the conditions chosen for the gene expression analyses were not associated with extensive cell death.
+
+           TABLE 4 
+           A comparison of membrane proteins identified within the GO term “membrane” with receptor-like properties that are either down regulated or up regulated in shPGRN cells relative to both control cells and PGRN over-expressing cells. 
+           
+             
+           
+                 Down regulated 
+                 
+                 Up regulated 
+               
+                 
+               
+ 
+ 
+               
+                 
+               Symbol 
+ 
+ 
+                 Gene name 
+ 
+ 
+                 Symbol 
+ 
+ 
+                 Gene name 
+ 
+ 
+               
+                 
+             
+               
+             
+                 RECEPTOR TYROSINE KINASES 
+ 
+ 
+                 
+                 RECEPTOR TYROSINE KINASES 
+ 
+ 
+               
+                 
+               RET 
+                 Ret proto-oncogene (Ret) 
+                 AXL 
+                 AXL receptor tyrosine kinase (Axl) 
+               
+                 
+               
+                 G-PROTEIN COUPLED 
+ 
+ 
+                 EPHB4 
+                 EPHB4 Epr receptor B4 (Ephb4) 
+               
+                 
+               GPR19 
+                 G protein-coupled receptor 19 (Gpr19) 
+                 NGFR 
+                 Nerve growth factor receptor (Ngfr) 
+               
+                 
+               GPR85 
+                 G protein-coupled receptor 85 (Gpr85) 
+                 PDGFRB 
+                 Platelet derived growth factor receptor, beta polypeptide (Pdgfrb) 
+               
+                 
+               OPRL1 
+                 Opioid receptor-like 1 (Oprl1) 
+                 
+                 G-PROTEIN COUPLED 
+ 
+ 
+               
+                 
+               PTGER3 
+                 Prostaglandin E receptor 3 (subtype EP3) (Ptger3) 
+                 ADRA1D 
+                 Adrenenrgic receptor, alpha 1d (adra1d) 
+               
+                 
+               SSTR2 
+                 Somatostatin receptor 2 (Sstr2) 
+                 GPR82 
+                 G protein-coupled receptor 82 (Gpr82) 
+               
+                 
+               
+                 WNT-SIGNALING 
+ 
+ 
+                 GRM1 
+                 Glutamate receptor, metabotropic 1 (Grm1) 
+               
+                 
+               
+                 Nil 
+                 PTGIR 
+                 Prostaglandin 1 receptor (IP) (Ptgir) 
+               
+                 
+               
+                 SEMAPHORIN-SIGNALING 
+ 
+ 
+                 P2RY6 
+                 Pyrimidinergic receptor P2Y, G-protein coupled 6 (P2ry6) 
+               
+                 
+               
+                 Nil 
+                 TSHR 
+                 Thyroid stimulating hormone receptor (Tshr) 
+               
+                 
+               
+                 NOTCH RECEPTORS 
+ 
+ 
+                 
+                 WNT-SIGNALING 
+ 
+ 
+               
+                 
+               
+                 Nil 
+                 FZD3 
+                 Frizzled class receptor 3 (Fzd3) 
+               
+                 
+               
+                 IMMUNE RECEPTORS 
+ 
+ 
+                 FZD7 
+                 Frizzled class receptor 7 (Fzd 7) 
+               
+                 
+               CD109 
+                 CD109 antigen (Cd109) 
+                 LGR6 
+                 Leucine-rich repeat-containing G protein-coupled receptor 6 (Lgr6) 
+               
+                 
+               CD180 
+                 CD180 antigen (Cd180) 
+                 
+                 SEMAPHORIN-SIGNALING 
+ 
+ 
+               
+                 
+               CD40 
+                 CD40 antigen (Cd40) 
+                 NRP1 
+                 Neuropilin 1 (Nrp1) 
+               
+                 
+               FCAMR 
+                 FC receptor, IgA, IgM, high affinity (Fcamr) 
+                 NRP2 
+                 Neuropilin 2 (Nrp2) 
+               
+                 
+               CSF2RA 
+                 Colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage) 
+                 PLXNA1 
+                 Plexin A1 (Plxna1) 
+               
+                 
+               TREML1 
+                 Triggering receptor expressed on myeloid cells-like 1 (Treml1) 
+                 
+                 NOTCH RECEPTORS 
+ 
+ 
+               
+                 
+               TNFSF8 
+                 Tumor necrosis factor (ligand) superfamily, member 8 (Tnfsf8) 
+                 NOTCH1 
+                 Notch 1 (Notch1) 
+               
+                 
+               
+                 OTHERS 
+ 
+ 
+                 NOTCH4 
+                 Notch 4 (Notch4) 
+               
+                 
+               GABRB3 
+                 Gamma-aminobutyric acid (GABA) A receptor, subunit beta 3 (Gabrb3) 
+                 
+                 IMMUNE RECEPTORS 
+ 
+ 
+               
+                 
+               SORCS3 
+                 Sortilin-related VPS10 domain containing receptor 3 (Sorcs3) 
+                 CD200 
+                 CD200 antigen (cd200) 
+               
+                 
+               VLDLR 
+                 Very low density lipoprotein receptor (Vldlr) 
+                 NCR1 
+                 Natural cytotoxicity triggering receptor 1 (Ncr1) 
+               
+                 
+               
+                 
+                 
+                 OTHERS 
+ 
+ 
+               
+                 
+               
+                 
+                 RELL1 
+                 RELT-like 1 (Rell1) 
+               
+                 
+               
+                 
+                 EFNA4 
+                 Ephrin A4 (Efna4) 
+               
+                 
+               
+                 
+                 FGFRL1 
+                 Fibroblast growth factor receptor-like 1 (Fgfrl1) 
+               
+                 
+               
+                 
+                 GFRA3 
+                 Glial cell line derived neurotrophic factor family receptor alpha 3 
+               
+                 
+               
+                 
+                 IGF2R 
+                 Insulin-like growth factor 2 receptor (Igf2r) 
+               
+                 
+               
+                 
+                 SHH 
+                 Sonic hedgehog (Shh) 
+               
+                 
+             
+               
+           
+             
+        
+Validation of Gene Expression
+The reduced expression of genes involved in the neuronal cytoskeleton and neurotransmission in cells with depleted PGRN expression was confirmed by RT-PCR ( Figure 3A ). This is consistent with a role for PGRN expression in the maintenance of a differentiated state in NSC-34 cells ( Figure 3A ). Interestingly, there was often little difference in mRNA expression between control and NSC-34/hPGRN cells. We tested specifically for active growth cone formation using growth associated protein 43 (GAP-43, also called neuromodulin) ( Maier et al., 2013 ), and, for evidence of cholinergic differentiation using vesicular acetylcholine transporter (SLC18A3) and choline acetyl transferase (ChAT) as markers ( Figure 3B ). Expression of GAP-43, and SLC18A3 cells were unchanged between control and NSC-34/hPGRN cells but were decreased in NSC-34/shPGRN, further supporting a role for PGRN in supporting neuron-like structural differentiation in NSC-34 cells. In contrast ChAT mRNA levels, were unaffected by PGRN depletion. Increased expression of neurotrophic receptor transcripts in NSC-34/shPGRN cells was confirmed, with strong signals observed for NGFR (nerve growth factor receptor) and FZD3 (Frizzled 3, a wnt receptor) ( Figure 3C ). A concerted change in genes associated with lipid metabolism was confirmed ( Figure 3D ) with most genes downregulated in NSC-34/shPGRN cells compared to control or NSC-34/hPGRN cells as predicted. Not all lipid metabolism genes were downregulated, however, as mRNA for ceramide synthase 2 (CER2) was strongly upregulated.
+Neither IPA nor DAVID predicted a strong lysosomal response to PGRN depletion even though deletion of PGRN results in altered expression of lysosomal genes and proteins in other cell lines and  Grn  knockout mice ( Tanaka et al., 2017 ;  Huang et al., 2020 ). To evaluate whether PGRN depletion alters lysosome gene expression in NSC-34 cells we measured the relative mRNA levels of the lysosome proteins lysosomal associated membrane protein 1 (LAMP1) and cathepsin D (CTSD). There was no indication of increased expression of these genes in NSC-34/shPGRN cells ( Figure 3E ), and an apparent decrease in expression of cathepsin D, which implies a lack of extensive lysosome biogenesis upon partial PGRN depletion in this model.
+Lipid Groups Are Differentially Regulated in Progranulin Knockdown NSC-34 Cells
+Since the transcriptomic data suggested that lipid metabolic pathways are sensitive to PGRN depletion, we undertook mass spectrometric lipidomic analyses on NSC-34/shPGRN and NSC-34/hPGRN cells. Principal component analysis confirmed that all 3 replicates from the same cell construct segregate separately from the other constructs ( Supplementary Figure 4 ). High or low PGRN expression had no effect on the levels of the quantitatively dominant lipid groups ( Figure 4A ). In contrast, three lipid classes that are quantitatively less abundant, phosphatidic acid, ceramides and cholesteryl ester show upregulation of specific lipid members between high and low PGRN expressors ( Figures 4B–D ).
+Influence of Progranulin on Protein Expression
+The influence of PGRN expression on cellular protein composition was determined comparing NSC-34/hPGRN, NSC-34/shPGRN cells, and control cells, respectively ( Supplementary Figure 5 ). The largest variability was detected between PGRN enriched NSC-34/hPGRN cells and NSC-34/shPGRN knockdown cells. Enrichment of GO and Kegg terms identified functional annotation clusters associated with cell adhesion, and metabolism ( Figures 5A,B ). Functional annotation clusters ( Figure 5C ) and enriched GO terms ( Figure 5D ) for proteins that were overexpressed in NSC-34/shPGRN cells were linked to cell adhesion, RNA binding, RNA processing and metabolism.
+Progranulin Binds to Multiple Membrane Proteins Both on the Cell Surface and in the Endoplasmic Reticulum/Golgi/Lysosome Network
+As the observed PGRN-dependent phenotypes in NSC-34 cells are reproduced by extracellular PGRN ( Figures 1D,E ), implying an action on extracellular membrane proteins ( Chitramuthu et al., 2017a ;  Paushter et al., 2018 ), we therefore extended the proteomic analysis to probe specifically for potential PGRN membrane binding proteins using a LRC proteomic strategy ( Frei et al., 2012 ,  2013 ;  Figure 6A ). In total 1746 glycopeptides were identified and quantified. Of these, the cut-off criterion employed for inclusion as putative PGRN-binders was a log2 fold binding enrichment > 0.6 (which is equivalent to an approximately 1.5-fold change in absolute values), and a  p  value < 0.02 ( Supplementary Table 3 ). This yields 33 proteins. Most of the putative PGRN-binding proteins are associated with the plasma membrane, ER, or lysosome membranes ( Figure 6B ). Applying STRING analysis to this data set generated a potential interaction network of candidate lysosomal PGRN binding proteins that includes sortilin (SORT1, log2 fold enrichment 1.00 or 2 in natural numbers) and prosaposin (PSAP, log2 enrichment 0.716 or 1.64 in natural numbers) ( Figure 6C ). GO analysis of biological processes gave the highest score for lysosomal transport ( Figure 6D ). The presence of ER/Golgi/lysosome proteins is likely to be due to their exposure on the cell surface rather than uptake of labeled PGRN into the cells as the binding experiments were all conducted at 4°C. The highest scoring plasma membrane protein ( Supplementary Table 3 ) was the tetraspanin TSPAN4 (log2 fold enhancement 3.96 or 15.5-fold in natural numbers). A second tetraspanin, TSPAN31 (log2 fold enhancement 1.86 or 3.6-fold in natural numbers), was also captured. Two members of the RTK-family, RET (log2 fold enrichment 1.25 or 2.4-fold in natural numbers), which is the kinase subunit of the glial cell-derived nerve growth factor (GDNF) receptor, and PTK7 (protein tyrosine kinase 7, log2 fold enrichment 0.942875 or 1.92-fold in natural numbers), which is an inactive RTK homolog. In the insulin-binding control arm, multiple peptides for insulin (INSR) were identified (log2 fold enrichment 2.23 or 4.69 in natural values).
+Progranulin Increases Activity of Different Receptor Tyrosine Kinases in Different Cell Types
+Receptor phosphotyrosine antibody arrays were employed to screen for RTKs that are sensitive to PGRN expression levels ( Figure 7A ). RET, PDGFR-alpha (Platelet derived growth factor -alpha), Mer, and weakly, TrkA (high affinity nerve growth factor receptor), MusK (Muscle-Specific Kinase), and EphA3 (EPH Receptor A3) were more highly tyrosine phosphorylated in NSC-34/hPGRN cells than in vector controls or NSC-34/shPGRN knockdown cells ( Figure 7B ). Other reports, using the same phosphotyrosine receptor array screening technique, but analyzing non-neuronal cells, revealed that EphA2 was the likely RTK target for PGRN ( Neill et al., 2016 ). Given that EphA3 phosphorylation is only weakly enhanced by PGRN expression in NSC-343 cells, we tested PGRN in MDA-MD-468 mammary epithelial cells and detected phosphorylation of the insulin receptor, the epidermal growth factor (EGF) receptor, and ErbB2 (an EGF-receptor family member), as well as members of the EphA family of receptors ( Figure 7A ). PGRN expression, therefore, activates different sets of tyrosine kinase receptors in different cell types implying cell context-dependent signaling. The antibody array results were validated by Western blot analyses using phospho-receptor specific antibodies ( Figures 7C,D ). RET expression is greatly reduced in NSC-34/shPGRN cells, suggesting that at least some of the differences observed in receptor RET tyrosine phosphorylation reflect differential expression of the RET protein, as was also predicted from the mRNA microarray analyses.

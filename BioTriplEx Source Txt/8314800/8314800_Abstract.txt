@@ -1,0 +1,9 @@
+Title: Roles and Interplay of SARS-CoV-2 Serology With Clinical Stages of Disease in COVID-19.
+Abstract: Background
+Currently, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) serology is recommended only for seroprevalence. We think it could be useful in differentiating coronavirus disease 2019 (COVID-19) stages, which could in terms of helping improve our therapeutic interventions.
+Methods
+The medical records of adult patients admitted to the hospital with probable COVID-19 were extracted and analyzed. We excluded patients with no serology and no clear outcome at the end of data collection. Patient demographics, medical history, and biochemical and clinical data were retrieved.
+Results
+A total of 202 patients were included; 57% were males, the majority were Hispanic (45%), followed by African Americans (22%). Hypertension is the most common comorbidity, followed by diabetes mellitus and chronic kidney disease. We classified them into three groups based on their serology: subacute stage (47 patients) with both immunoglobulin M (IgM) and IgG negative; acute stage (116 patients) with IgM positive and late-stage (39 patients) with IgM negative and IgG positive. We found that elevated lactate dehydrogenase (LDH) and ferritin were present in the IgM+ and IgM-/IgG+ subgroups (p-value of 0.0061 and p-value 0.0013, respectively) while C-reactive protein (CRP) and D-dimer were more elevated in the IgM-/IgG- and IgM+ subgroups (P <0.0001 and p-value of 0.0452, respectively). The IgM+ group had the worst prognosis, with high mortality despite receiving remdesivir and dexamethasone.
+Conclusion
+Our findings suggest that the use of serology in patients hospitalized with COVID-19 could predict prognosis; this will need to be validated in a larger prospective study.

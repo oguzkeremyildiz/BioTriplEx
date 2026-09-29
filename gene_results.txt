@@ -1,0 +1,381 @@
+5147974_Abstract.txt
+291/histone/histone deacetylase 3
+7564071_Abstract.txt
+475/cell cycle/cell division cycle 6
+7953906_Abstract.txt
+8285542_Discussion.txt
+4082/endoplasmic reticulum/endoplasmic reticulum protein 44
+7817995_Abstract.txt
+447/sulfite oxidase/sulfite oxidase
+6995577_Abstract.txt
+277/transthyretin amyloidosis/transthyretin
+5023968_Discussion.txt
+9888429_Abstract.txt
+6237877_Discussion.txt
+7664851_3. Discussion.txt
+7217914_Abstract.txt
+7953906_Discussion.txt
+8853288_Discussion.txt
+4541/bone morphogenetic proteins/bone morphogenetic protein 15
+6914845_Abstract.txt
+1907/cell cycle/cell division cycle 6
+8276170_Abstract.txt
+1062/cyclin-dependent kinase inhibitor/cyclin dependent kinase inhibitor 3
+5996034_Discussion.txt
+5066/protein tyrosine phosphatase non-receptor type/protein tyrosine phosphatase non-receptor type 21
+5706903_Abstract.txt
+9570260_3. Discussion.txt
+9288359_Discussion.txt
+9604124_3. Discussion.txt
+2928/protein tyrosine kinase/protein tyrosine kinase 2
+2993/growth factor receptor-related binding/growth factor receptor bound protein 10
+9422/fatty acid/fatty acid desaturase 3
+2218/immunoglobulin superfamily/immunoglobulin superfamily member 23
+2118/leukocyte receptor cluster/leukocyte receptor cluster member 9
+4084/nuclear factor/nuclear export mediator factor
+8247374_Abstract.txt
+8285542_Abstract.txt
+328/tumor protein p63/tumor protein p63
+653/sterol regulatory element binding transcription factor 1/sterol regulatory element binding transcription factor 1
+2024/fatty acid/fatty acid desaturase 3
+8885558_Abstract.txt
+566/dihydropyrimidine dehydrogenase/dihydropyrimidine dehydrogenase
+5009375_Discussion.txt
+1751/prostate cancer stem cells/prostate stem cell antigen
+9587286_Abstract.txt
+824/transforming growth factor/transforming growth factor alpha
+6914845_Discussion.txt
+2194/interleukin 20/interleukin 20
+2289/melanocortin 1/melanocortin 1 receptor
+7765946_Abstract.txt
+7552903_Discussion.txt
+8786523_4. Discussion.txt
+9886470_Abstract.txt
+2275485_DISCUSSION.txt
+7162859_Abstract.txt
+5650339_Abstract.txt
+5672786_Abstract.txt
+8508478_Abstract.txt
+7345849_4. Discussion.txt
+7345849_Abstract.txt
+9587286_Discussion.txt
+7704199_Abstract.txt
+396/cell cycle/cell division cycle 6
+884/cell cycle/cell division cycle 6
+1229/cell cycle/cell division cycle 6
+8791029_Abstract.txt
+1229/receptor kinase which/receptor like tyrosine kinase
+1352/receptor tyrosine kinases/receptor like tyrosine kinase
+9006883_Abstract.txt
+9789017_Abstract.txt
+9719507_Abstract.txt
+9524383_Abstract.txt
+3660299_Discussion.txt
+2706/insulin/insulin
+2807459_Discussion.txt
+5302952_DISCUSSION.txt
+5009375_Abstract.txt
+969/transcription 5/transcription factor like 5
+2275485_Abstract.txt
+31/androgen receptor/androgen receptor
+300/androgen receptor/androgen receptor
+5854761_Abstract.txt
+8184989_Discussion.txt
+5996034_Abstract.txt
+379/spermine oxidase/spermine oxidase
+5896876_Discussion.txt
+2525/parvalbumin immunoreactivity/parvalbumin
+5773598_Abstract.txt
+3979708_Abstract.txt
+9361766_Abstract.txt
+1268/brain-derived neurotrophic factor/brain derived neurotrophic factor
+4598861_Abstract.txt
+6237877_Abstract.txt
+9576726_Discussion.txt
+1871/fatty acid/fatty acid desaturase 3
+2372/fatty acid/fatty acid desaturase 3
+5672/fatty acid/fatty acid desaturase 3
+4058662_Abstract.txt
+9067626_Abstract.txt
+2580/this transcription factor/transcription factor 3
+542/upstream regulator nuclear factor/upstream transcription factor 1
+9576726_Abstract.txt
+4016835_5. Discussion.txt
+5113/angiotensinogen/angiotensinogen
+2913650_DISCUSSION.txt
+3979708_Discussion.txt
+9416477_Abstract.txt
+9818593_Abstract.txt
+1240/nicotinamide adenine/nicotinamide phosphoribosyltransferase
+1799/renin/renin
+5945714_Discussion.txt
+527/estrogen receptor alpha/estrogen related receptor alpha
+9361766_Discussion.txt
+9095386_4. Discussion.txt
+639/6-phosphofructo-2-kinase/fructose-2 6-bisphosphatase isoform 3/6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3
+2773/vesicle-associated membrane protein 3/vesicle associated membrane protein 3
+1346/reactive oxygen species/reactive oxygen species modulator 1
+2291/tumor suppressor gene/tumor suppressor candidate 3
+9570260_Abstract.txt
+7578153_Discussion.txt
+8314800_Abstract.txt
+8276170_Discussion.txt
+1727/cell cycle/cell division cycle 6
+2280/cell cycle progression/cell cycle progression 1
+7704199_4. Discussion.txt
+1010/cell cycle/cell division cycle 6
+9006883_Discussion.txt
+9416477_4. Discussion.txt
+6692/cell cycle progression/cell cycle progression 1
+4068/thyroid hormone receptor/thyroid stimulating hormone receptor
+4101/retinoic acid receptor/retinoic acid receptor alpha
+4038/nuclear receptors/nuclear receptor coactivator 3
+4333/nuclear receptors/nuclear receptor coactivator 3
+6868/tyrosine kinase/tyrosine kinase 2
+1276/prolyl hydroxylase/prolyl 3-hydroxylase 3
+4302655_Discussion.txt
+8232996_Discussion.txt
+5650339_DISCUSSION.txt
+8786523_Abstract.txt
+730/thioredoxin-interacting protein/thioredoxin interacting protein
+1404/reactive oxygen species/reactive oxygen species modulator 1
+5158030_Discussion.txt
+4104/hyaluronan synthase 2/hyaluronan synthase 2
+4865/multiple receptor tyrosine kinases/muscle associated receptor tyrosine kinase
+5331/phosphatidylinositol 3-kinase/phosphatidylinositol 4-kinase alpha
+6754375_Discussion.txt
+2838/eukaryotic translation initiation factor/eukaryotic translation initiation factor 5
+679/transcriptional activation/transcription activation suppressor
+3873/that transcriptional activation/transcription activation suppressor
+3878/transcriptional activation/transcription activation suppressor
+9565127_4. Discussion.txt
+5672786_Discussion.txt
+4844106_Abstract.txt
+881/reactive oxygen species/reactive oxygen species modulator 1
+7552903_Abstract.txt
+4370594_Abstract.txt
+6972945_Discussion.txt
+2215/leptin which/leptin
+2373/protein kinase/protein tyrosine kinase 2
+2015/leptin recepter/leptin receptor
+10545/vascular cellular adhesion molecule 1/vascular cell adhesion molecule 1
+7029304_Abstract.txt
+3320601_Abstract.txt
+7609066_Discussion.txt
+8592735_Abstract.txt
+5147974_Discussion.txt
+2745/histone/histone deacetylase 3
+9408187_4. Discussion.txt
+6340956_Discussion.txt
+4186/uncoupling protein/uncoupling protein 3
+6964/fatty acid/fatty acid desaturase 3
+5302952_Abstract.txt
+595/histone deacetylase/histone deacetylase 9
+9818593_4. Discussion.txt
+5851/superoxide dismutase/superoxide dismutase 3
+4354/nicotinamide adenine/nicotinamide phosphoribosyltransferase
+5879/glutathione peroxidase/glutathione peroxidase 7
+4440/reactive oxygen species/reactive oxygen species modulator 1
+4510/reactive oxygen species decreased/reactive oxygen species modulator 1
+5626936_Abstract.txt
+238/reactive oxygen species/reactive oxygen species modulator 1
+6340956_Abstract.txt
+350/sphingomyelin synthase/sphingomyelin synthase 1
+7817995_Discussion.txt
+1817/mitofusins 1/mitofusin 1
+5516/cytochrome c oxidase/cytochrome c oxidase assembly factor 7
+3628/mitochondrial fission/mitochondrial fission factor
+8247374_Discussion.txt
+347/dihydropyrimidine dehydrogenase/dihydropyrimidine dehydrogenase
+8902169_Abstract.txt
+9888429_Discussion.txt
+3727/natural killer cells/natural killer cell triggering receptor
+3984243_Abstract.txt
+205/epidermal growth factor/epidermal growth factor
+277/four epidermal growth factor receptors/fibroblast growth factor receptor 4
+9408187_Abstract.txt
+9718849_Abstract.txt
+4636297_Discussion.txt
+2454/tankyrase which/tankyrase
+2740/tankyrase which/tankyrase
+4951690_Abstract.txt
+617/glutathione peroxidase 3/glutathione peroxidase 3
+6753626_Abstract.txt
+1269/cell cycle/cell division cycle 6
+7564071_4. Discussion.txt
+673/cell cycle/cell division cycle 6
+1760/mitotic spindle/mitotic spindle positioning
+4302655_Abstract.txt
+7139946_Abstract.txt
+8123883_Abstract.txt
+4550874_Abstract.txt
+337/gap junction protein/gap junction protein epsilon 1
+6737833_Abstract.txt
+5773598_Discussion.txt
+3823138_Discussion.txt
+8766/cell cycle or/cell division cycle associated 3
+3270/myogenic differentiation/myogenic differentiation 1
+6952/myogenic differentiation/myogenic differentiation 1
+8551/myogenic differentiation/myogenic differentiation 1
+7765946_3. Discussion.txt
+5444857_Abstract.txt
+1569/myoglobin creatine/myoglobin
+8791029_Discussion.txt
+5071/insulin/insulin
+5133/insulin/insulin
+5227/insulin/insulin
+9512/nerve growth factor/nerve growth factor
+6324/lysosomal transport in predicted protein/lysosomal associated membrane protein 3
+3758/heparan sulfate proteoglycans/heparan sulfate proteoglycan 2
+2508/ceramide synthase 2/ceramide synthase 2
+4021/lysosomal trafficking/lysosomal trafficking regulator
+7852/scaffold proteins/symplekin scaffold protein
+4363/membrane protein/membrane frizzled-related protein
+7739/membrane protein/membrane frizzled-related protein
+11323/membrane protein/membrane frizzled-related protein
+4844106_Discussion.txt
+2807459_Abstract.txt
+6995577_4. Discussion.txt
+104/transthyretin amyloidogenesis/transthyretin
+7210/transthyretin amyloidogenesis/transthyretin
+8416/transthyretin amyloidogenesis/transthyretin
+9980199_Discussion.txt
+3664/fatty acid/fatty acid desaturase 3
+2913650_Abstract.txt
+8853288_Abstract.txt
+5158030_Abstract.txt
+8123883_3. Discussion.txt
+3472/sonic hedgehog signaling/sonic hedgehog signaling molecule
+1783/cell cycle/cell division cycle 6
+2441/cell cycle progression/cell cycle progression 1
+7029304_4. Discussion.txt
+1383/cell cycle/cell division cycle 6
+2562/cell division/cell division cycle 27
+5023968_Abstract.txt
+9565127_Abstract.txt
+3775523_Abstract.txt
+630/androgen receptor/androgen receptor
+1076/transcriptional activation/transcription activation suppressor
+9095386_3. Results and Discussion.txt
+4698282_Discussion.txt
+4285/interleukin 5/interleukin 5
+1377/transcription 3/transcription factor 3
+3790/tubulin gamma 2/tubulin gamma 2
+9095386_Abstract.txt
+9288359_Abstract.txt
+354/fibroblast growth factor receptors/fibroblast growth factor receptor 3
+7409151_Abstract.txt
+9992796_Discussion.txt
+7664851_Abstract.txt
+8184989_Abstract.txt
+5833457_Discussion.txt
+2234/tumor necrosis/tumor necrosis factor
+2259/mitogen-activated protein kinases/mitogen-activated protein kinase kinase 3
+5206/reactive oxygen species-sensitive signals/reactive oxygen species modulator 1
+5346/membrane-associated non-receptor tyrosine kinases/megakaryocyte-associated tyrosine kinase
+3320601_Discussion.txt
+9622975_Abstract.txt
+4016835_Abstract.txt
+6753626_Discussion.txt
+7203/tyrosine kinase/tyrosine kinase 2
+7483/tyrosine kinase/tyrosine kinase 2
+7632/tyrosine kinase/tyrosine kinase 2
+9604124_Abstract.txt
+4598861_Discussion.txt
+343/bone marrow stromal cells they/bone marrow stromal cell antigen 2
+8508478_4. Discussion.txt
+4636297_Abstract.txt
+831/tankyrase which/tankyrase
+1040/tankyrase 1/tankyrase 2
+9992796_Abstract.txt
+1248/tumor necrosis/tumor necrosis factor
+6707240_Abstract.txt
+4463699_3. Discussion.txt
+1297/serine protease/serine protease 48
+748/calponin 2/calponin 2
+9719507_Discussion.txt
+5854761_Discussion.txt
+3660299_Abstract.txt
+1386/insulin/insulin
+8314800_Discussion.txt
+6972945_Abstract.txt
+314/tumor necrosis factor/tumor necrosis factor
+7217914_Discussion.txt
+6051636_Discussion.txt
+6581/tumorogenesis p53 protein/tumor protein p53
+1946/cell cycle/cell division cycle 6
+7368/cell cycle/cell division cycle 6
+8592735_3. Results and Discussion.txt
+8320/cell cycle/cell division cycle 6
+8645/cell cycle/cell division cycle 6
+9489697_Abstract.txt
+7139946_3. Discussion.txt
+10819/nicotinamide adenine/nicotinamide phosphoribosyltransferase
+7409151_3. Discussion.txt
+3636/thrombospondin 4/thrombospondin 4
+4327/reactive oxygen species in/reactive oxygen species modulator 1
+3775523_DISCUSSION.txt
+1293/androgen agonist/androgen receptor
+4370594_Discussion.txt
+976/tyrosine kinase/tyrosine kinase 2
+1291/contactin associated protein-like/contactin associated protein 1
+860/tumor suppressor gene that/tumor suppressor candidate 3
+6441/tumor suppressor genes/tumor suppressor candidate 3
+8902169_Discussion.txt
+8976/protein tyrosine kinases/protein tyrosine kinase 2
+5575/fibrinogen beta chain/fibrinogen beta chain
+6273/endoplasmic reticulum in/endoplasmic reticulum protein 29
+4722/3-phosphoinositide-dependent protein kinase-1 which/3-phosphoinositide dependent protein kinase 1
+6317/store-operated calcium entry in response/store-operated calcium entry associated regulatory factor
+3518/innate immunity/innate immunity activator
+4463699_Abstract.txt
+1244/kelch-like family member 35/kelch like family member 35
+1379/adenylate cyclase 10/adenylate cyclase 10
+1284/calponin 2/calponin 2
+3823138_Abstract.txt
+298/double homeobox 4/double homeobox 4
+5706903_DISCUSSION.txt
+9489697_Discussion.txt
+9067626_Discussion.txt
+9382/this transcription factor/transcription factor 3
+7553/purine/purine nucleoside phosphorylase
+5243/top 10 transcription factors/transcription factor 20
+4698282_Abstract.txt
+1010/estrogen receptor/estrogen receptor 1
+9886470_4. Discussion.txt
+3098/transmembrane proteins/transmembrane protein 44
+8232996_Abstract.txt
+9718849_Discussion.txt
+4951690_Discussion.txt
+5945714_Abstract.txt
+1454/estrogen receptor/estrogen receptor 1
+1200/progesterone receptor/progesterone receptor
+5626936_Discussion.txt
+5299/mitogen-activated protein kinases/mitogen-activated protein kinase kinase 3
+5833457_Abstract.txt
+946/epidermal growth factor receptor/epidermal growth factor receptor
+339/heparan sulfate/heparan sulfate proteoglycan 2
+9251272_Abstract.txt
+6707240_Discussion.txt
+2050/drug target dihydrofolate reductase/dihydrofolate reductase
+2062/dihydrofolate reductase/dihydrofolate reductase
+7162859_Discussion.txt
+7256/cell cycle/cell division cycle 6
+7714/cell cycle time 10/cell division cycle 20
+5444857_Discussion.txt
+7609066_Abstract.txt
+7578153_Abstract.txt
+6754375_Abstract.txt
+1230/transcriptional activation/transcription activation suppressor
+9524383_DISCUSSION.txt
+4550874_Discussion.txt
+9980199_Abstract.txt
+288/glucose-6-phosphate/glucose-6-phosphate dehydrogenase
+3984243_Discussion.txt
+9622975_Discussion.txt
+10208/cytidine deaminase/cytidine deaminase
+23096/endoplasmic reticulum/endoplasmic reticulum protein 44
+8923756_Abstract.txt
+5896876_Abstract.txt
+6051636_Abstract.txt
+442/matrix metalloproteinase 9/matrix metallopeptidase 9

@@ -1,34 +1,80 @@
 package org.example;
-import java.util.*;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
+
+/**
+ * One {@code [Term]} stanza of an OBO ontology: an id, a name and any number of synonyms.
+ *
+ * <p>{@link #findMatches} is the original Knuth-Morris-Pratt matcher from the CS&nbsp;401 baseline.
+ * It is kept as the reference implementation &mdash; {@code DictionaryTest} checks the fast
+ * {@link org.example.ner.DictionaryExtractor} against it &mdash; but the pipeline itself uses the
+ * indexed matcher, because running one KMP pass per term costs {@code O(terms * text)}.
+ */
 public class Term {
 
-    private final HashMap<String, ArrayList<String>> attributeMap;
+    private final Map<String, List<String>> attributeMap;
     private final Type type;
 
-    public Term(ArrayList<String> lines, Type type) {
+    public Term(List<String> lines, Type type) {
         this.type = type;
-        this.attributeMap = new HashMap<>();
+        this.attributeMap = new LinkedHashMap<>();
         for (String line : lines) {
-            String key = line.substring(0, line.indexOf(":"));
+            int separator = line.indexOf(':');
+            if (separator < 0) {
+                continue;
+            }
+            String key = line.substring(0, separator);
             String value;
             if (!key.equals("synonym")) {
-                value = line.substring(line.indexOf(":") + 2);
+                value = line.substring(separator + 1).trim();
             } else {
-                value = line.substring(line.indexOf("\"") + 1, line.lastIndexOf("\""));
+                // synonym: "hemangiosarcoma" EXACT []
+                int open = line.indexOf('"');
+                int close = line.lastIndexOf('"');
+                if (open < 0 || close <= open) {
+                    continue;
+                }
+                value = line.substring(open + 1, close);
             }
-            if (!attributeMap.containsKey(key)) {
-                attributeMap.put(key, new ArrayList<>());
+            if (value.isEmpty()) {
+                continue;
             }
-            attributeMap.get(key).add(value);
+            attributeMap.computeIfAbsent(key, k -> new ArrayList<>()).add(value);
         }
     }
 
-    private static void computeLPSArray(String pat, int M, int[] lps) {
+    /** Values of an OBO attribute ({@code name}, {@code synonym}, {@code id}), never null. */
+    public List<String> get(String key) {
+        return attributeMap.getOrDefault(key, Collections.emptyList());
+    }
+
+    public String getFirst(String key) {
+        List<String> values = get(key);
+        return values.isEmpty() ? null : values.get(0);
+    }
+
+    public String getId() {
+        return getFirst("id");
+    }
+
+    public String getName() {
+        return getFirst("name");
+    }
+
+    public Type getType() {
+        return type;
+    }
+
+    private static void computeLPSArray(String pat, int m, int[] lps) {
         int len = 0;
         lps[0] = 0;
         int i = 1;
-        while (i < M) {
+        while (i < m) {
             if (pat.charAt(i) == pat.charAt(len)) {
                 len++;
                 lps[i] = len;
@@ -44,27 +90,33 @@ public class Term {
         }
     }
 
-    private static ArrayList<Integer> search(String pat, String txt) {
-        int M = pat.length();
-        int N = txt.length();
-        int[] lps = new int[M];
-        ArrayList<Integer> result = new ArrayList<>();
-        computeLPSArray(pat, M, lps);
+    /**
+     * Knuth-Morris-Pratt search. Returns the zero based start offsets of every occurrence of
+     * {@code pat} in {@code txt}, on the same coordinate system as the gold {@code spans}.
+     */
+    public static List<Integer> search(String pat, String txt) {
+        List<Integer> result = new ArrayList<>();
+        int m = pat.length();
+        int n = txt.length();
+        if (m == 0 || m > n) {
+            return result;
+        }
+        int[] lps = new int[m];
+        computeLPSArray(pat, m, lps);
         int i = 0;
         int j = 0;
-        while ((N - i) >= (M - j)) {
+        while ((n - i) >= (m - j)) {
             if (pat.charAt(j) == txt.charAt(i)) {
                 j++;
                 i++;
             }
-            if (j == M) {
-                result.add(i - j + 1);
+            if (j == m) {
+                result.add(i - j);
                 j = lps[j - 1];
-            } else if (i < N && pat.charAt(j) != txt.charAt(i)) {
+            } else if (i < n && pat.charAt(j) != txt.charAt(i)) {
                 if (j != 0) {
                     j = lps[j - 1];
-                }
-                else {
+                } else {
                     i = i + 1;
                 }
             }
@@ -72,30 +124,28 @@ public class Term {
         return result;
     }
 
-    private void addMatches(HashMap<String, ArrayList<Integer>> matches, ArrayList<String> list, String text) {
+    private void addMatches(Map<String, List<Integer>> matches, List<String> list, String text) {
         for (String key : list) {
-            ArrayList<Integer> match = search(key, text);
+            List<Integer> match = search(key, text);
             if (!match.isEmpty()) {
                 matches.put(key, match);
             }
         }
     }
 
-    public HashMap<String, ArrayList<Integer>> findMatches(String text) {
-        HashMap<String, ArrayList<Integer>> matches = new HashMap<>();
+    /** Surface form to offsets, for every surface form of this term found in {@code text}. */
+    public Map<String, List<Integer>> findMatches(String text) {
+        Map<String, List<Integer>> matches = new HashMap<>();
         switch (type) {
             case GENE:
-                addMatches(matches, attributeMap.get("id"), text);
-                addMatches(matches, attributeMap.get("name"), text);
+                addMatches(matches, get("id"), text);
+                addMatches(matches, get("name"), text);
                 break;
             case DISEASE:
-                if (attributeMap.containsKey("synonym")) {
-                    addMatches(matches, attributeMap.get("synonym"), text);
-                }
-                addMatches(matches, attributeMap.get("name"), text);
+                addMatches(matches, get("synonym"), text);
+                addMatches(matches, get("name"), text);
                 break;
             default:
-                // to do
                 break;
         }
         return matches;
@@ -104,10 +154,9 @@ public class Term {
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
-        for (String key : attributeMap.keySet()) {
-            ArrayList<String> values = attributeMap.get(key);
-            for (String value : values) {
-                sb.append(key).append(" -> ").append(value).append("\n");
+        for (Map.Entry<String, List<String>> entry : attributeMap.entrySet()) {
+            for (String value : entry.getValue()) {
+                sb.append(entry.getKey()).append(" -> ").append(value).append("\n");
             }
         }
         return sb.toString();

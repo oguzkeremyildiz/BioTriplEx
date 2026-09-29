@@ -1,0 +1,351 @@
+absence of	decreased expression	1
+achieved through the activation	causative activation	1
+activation	increased expression	1
+activation in the development	causative activation	1
+activation triggers	causative activation	1
+active role ... in the development	pathological role	1
+adverse outcome	negative prognostic marker	1
+adverse prognostic factor	negative prognostic marker	1
+altered ... expression	relation undefined	1
+anti-cancer drug resistance	therapy resistance	1
+associated with	relation undefined	5
+associated with ... metastasis	negative prognostic marker	4
+associated with ... progression	prognostic indicator	3
+associated with a high frequency of ... metastasis	negative prognostic marker	1
+associated with higher risk	negative prognostic marker	1
+associated with the development	pathological role	1
+associated with the progression	modulator increase disease	1
+association	relation undefined	1
+association between the ... polymorphism	associated mutation	1
+association of a ... polymorphism	associated mutation	1
+biological functions	pathological role	1
+biomarker	biomarker	5
+biomarker for ... prognosis	prognostic indicator	2
+biomarker for diagnosis	diagnostic tool	1
+biomarker for early diagnosis	diagnostic tool	1
+candidate ... gene	relation undefined	1
+candidate for ... treatment	therapeutic target	1
+candidate gene	relation undefined	1
+causal role	pathological role	1
+causative ... gene mutation	causative mutation	1
+caused by an x-linked mutation	causative mutation	1
+caused by the deficiency	causative inhibition	1
+caused mostly by ... gene mutations	causative mutation	1
+causing	pathological role	1
+chemoresistance	therapy resistance	5
+chemotherapy resistance	therapy resistance	2
+chemotherapy-resistant	therapy resistance	1
+clinical application to the treatment	therapeutic target	1
+confer susceptibility	genetic susceptibility	1
+contribute to	pathological role	1
+contributes significantly	pathological role	1
+contributing to	relation undefined	1
+correlated with post-operative recurrence	prognostic indicator	1
+correlated with survival	prognostic indicator	1
+critical ... gene	relation undefined	1
+critical factor	relation undefined	1
+critical regulator	pathological role	1
+critical role	relation undefined	1
+decreased ... expression	decreased expression	1
+decreased ... survival	negative prognostic marker	1
+decreased expression	increased expression	1
+decreased risk	genetic susceptibility	1
+decreased survival	negative prognostic marker	1
+deletion	associated mutation	1
+deletions	associated mutation	9
+deregulated	dysregulation	1
+development	pathological role	6
+development and progression	pathological role	1
+diagnose	diagnostic tool	1
+diagnostic ... targets	diagnostic tool	1
+diagnostic biomarker	diagnostic tool	1
+diagnostic marker	diagnostic tool	1
+diagnostic potential	diagnostic tool	2
+differentially regulated	dysregulation	1
+direct correlation between the severity of ... disease phenotype	modulator increase disease	1
+directed precision therapy	therapeutic target	1
+down-regulated	decreased expression	1
+down-regulation	decreased expression	1
+downregulated	decreased expression	4
+downregulation	decreased expression	3
+drive ... growth	modulator increase disease	1
+drug resistance	therapy resistance	4
+due to ... mutations	causative mutation	2
+due to mutations	causative mutation	1
+early treatment failure	therapy resistance	1
+elevated ... expression	increased expression	2
+elevated ... protein levels	increased expression	1
+elevated expression	increased expression	1
+elevated in the serum	increased expression	1
+elevated levels of ... mrna	increased expression	1
+elevation	increased expression	2
+elevation in the spontaneous levels	increased expression	1
+enhanced expression	increased expression	1
+epigenetic marker	epigenetic marker	2
+executes carcinogenic properties	pathological role	1
+exerts a variety of functions	pathological role	1
+express significantly higher levels	increased expression	1
+expressed	increased expression	1
+expressed at a higher level	increased expression	1
+expressed lower levels	decreased expression	1
+expressing	increased expression	2
+expression	increased expression	1
+expression ... is lost	decreased expression	1
+expression ... was higher	increased expression	1
+expression ... was significantly increased	increased expression	1
+expression are both reduced	decreased expression	1
+expression are significantly higher	increased expression	1
+expression is dramatically altered	dysregulation	1
+expression is elevated	increased expression	1
+expression is upregulated	increased expression	1
+expression of ... was remarkably increased	increased expression	1
+focal deletions	associated mutation	1
+function activating mutation	causative activation	1
+fundamental in ... progression	pathological role	1
+gene mutation	associated mutation	1
+gene variant	associated mutation	2
+germline ... variant	associated mutation	2
+germline missense variant	associated mutation	2
+germline mutations	associated mutation	1
+germline variant	associated mutation	1
+good diagnostic choice	diagnostic tool	1
+good prognosis	positive prognostic marker	1
+greater upsurges	increased expression	1
+haploinsufficiency	associated mutation	1
+hemizygous mutations	associated mutation	1
+heterozygous deletion	associated mutation	1
+heterozygous or homozygous deletions	associated mutation	1
+heterozygous variants cause	causative mutation	1
+high ... expression	increased expression	7
+high ... expression score	increased expression	1
+high ... levels	increased expression	1
+high expression	increased expression	8
+high induction	increased expression	1
+high level	increased expression	1
+high levels	increased expression	2
+high serum ... levels	increased expression	1
+high serum levels	increased expression	1
+high-expression	increased expression	1
+high-expression level	increased expression	1
+higher ... expression	increased expression	1
+higher ... levels	increased expression	1
+higher concentration	increased expression	1
+higher expression	increased expression	2
+higher serum ... levels	increased expression	1
+highest ... expression	increased expression	1
+highest ... expression ... level	increased expression	1
+highest levels	increased expression	1
+highly expressed	increased expression	4
+homozygous deletion	associated mutation	2
+homozygous deletion and inactivation	decreased expression	1
+immunotherapeutic	therapeutic target	1
+immunotherapy	therapeutic target	1
+implicated in	relation undefined	2
+implicated in the etiology	pathological role	1
+implicating	relation undefined	1
+implications in treatment outcome	prognostic indicator	1
+important role	relation undefined	1
+important role in the development	pathological role	1
+important roles	relation undefined	1
+inactivation	associated mutation	1
+inactivation or loss	decreased expression	1
+increase	increased expression	1
+increase in ... expression	increased expression	1
+increase in expression	increased expression	1
+increase of ... mrna levels	increased expression	1
+increased	increased expression	1
+increased ... expression	increased expression	1
+increased ... levels	increased expression	2
+increased ... salivary levels	increased expression	1
+increased ... serum levels	increased expression	1
+increased level	increased expression	1
+increased levels	increased expression	2
+index for ... outcomes	prognostic indicator	1
+indicator of malignant features	negative prognostic marker	1
+induce	pathological role	1
+induced	increased expression	1
+induced 10- to 15-fold	increased expression	1
+inferior clinical outcomes	negative prognostic marker	1
+inferior prognosis	negative prognostic marker	1
+inhibited tumor metastasis	modulator decrease disease	1
+initiate the tumorigenesis	pathological role	1
+initiation and development	pathological role	2
+inversely correlated with high ... survival	negative prognostic marker	1
+involved in	relation undefined	1
+involved in ... progression	modulator increase disease	1
+involved in the immune microenvironment-associated pathogenesis	pathological role	1
+involved in the invasiveness and metastasis	modulator increase disease	1
+involved in the progression	pathological role	1
+involvement	relation undefined	1
+involvement in	pathological role	1
+key regulatory factor	pathological role	1
+key role in ... the progression	pathological role	1
+lack ... expression	decreased expression	1
+lead to	pathological role	1
+leading to	pathological role	1
+leads to	relation undefined	1
+levels ... increased	increased expression	1
+levels are increased	increased expression	1
+levels were increased	increased expression	1
+link	relation undefined	2
+linked with	relation undefined	1
+locus-specific alterations	associated mutation	1
+lof mutations	associated mutation	2
+loss	decreased expression	5
+loss of	decreased expression	1
+loss of heterozygosity	associated mutation	1
+loss or inactivation	decreased expression	1
+loss-of-function mutations	causative mutation	3
+lost or inactivated	causative inhibition	1
+low expression	decreased expression	1
+lower expression	decreased expression	1
+lower levels of ... expression	decreased expression	1
+lower overall survival	negative prognostic marker	1
+lower proportion of ... expression	decreased expression	1
+major role	pathological role	1
+markers	biomarker	1
+markers of ... invasion	negative prognostic marker	1
+mediate the metastasis	modulator increase disease	1
+metastasis suppressor	modulator decrease disease	1
+metastatic progression	modulator increase disease	1
+missense mutations	associated mutation	1
+missense p.leu319pro mutation	associated mutation	1
+missense variant	associated mutation	1
+molecular marker	biomarker	1
+molecular target for anti-cancer drug development	therapeutic target	1
+mrna expression was significantly elevated	increased expression	1
+multidrug resistance	therapy resistance	1
+multiple roles in the pathogenesis	pathological role	1
+mutated	associated mutation	2
+mutation	associated mutation	3
+mutations	associated mutation	1
+mutations ... cause	causative mutation	1
+mutations are strongly associated	associated mutation	1
+mutations expressly cause	causative mutation	1
+mutations may contribute to a higher risk	genetic susceptibility	1
+nonsense germline variant	associated mutation	1
+nonsense variants	associated mutation	1
+oncogene	causative mutation	4
+oncogenic activities	pathological role	1
+oncogenic mutation	causative mutation	1
+oncogenic potential	causative mutation	1
+over-expression	increased expression	1
+overexpressed	increased expression	10
+overexpressing	increased expression	2
+overexpression	increased expression	12
+partial deregulation	dysregulation	1
+partial loss of ... activity is sufficient to induce	causative inhibition	1
+partial or complete gene deletions	associated mutation	1
+partial, or complete deletions	associated mutation	1
+pathogeneses	pathological role	1
+pathogenesis	pathological role	3
+pathogenesis and progression	pathological role	1
+pathogenic variants	causative mutation	1
+pathognomonic	diagnostic tool	1
+pathological ... remodeling	pathological role	1
+pathological mechanism	pathological role	1
+play a role	pathological role	1
+play an important role	relation undefined	2
+playing a significant role	relation undefined	1
+plays a key role	relation undefined	1
+plays a role in the pathophysiology	pathological role	1
+plays a role in the transformation and pathogenesis	pathological role	1
+poor clinical behavior	modulator increase disease	1
+poor outcome	negative prognostic marker	2
+poor overall survival	negative prognostic marker	2
+poor patients’ prognosis	negative prognostic marker	1
+poor prognosis	negative prognostic marker	10
+poor response to induction chemotherapy	therapy resistance	1
+poor response to induction therapy	therapy resistance	1
+poor risk (pr) category	negative prognostic marker	1
+poor survival	negative prognostic marker	2
+positively associated with ... progression	negative prognostic marker	1
+positively correlated with low ... survival	negative prognostic marker	1
+possible role	relation undefined	1
+predetermines the metastatic potential	modulator increase disease	2
+predict favorable outcome	positive prognostic marker	1
+predict the malignant progression	negative prognostic marker	1
+predictive of response to pharmacological treatment	prognostic indicator	1
+predictive of worse prognostic	negative prognostic marker	1
+predictors of poor outcome	negative prognostic marker	1
+prerequisite for disease development	pathological role	1
+proangiogenic and proinflammatory activity	pathological role	1
+prognosis marker	prognostic indicator	1
+prognostic and predictive values	prognostic indicator	1
+prognostic biomarkers	prognostic indicator	1
+prognostic factor	prognostic indicator	4
+prognostic factors	prognostic indicator	1
+prognostic indicator	prognostic indicator	1
+prognostic marker	prognostic indicator	5
+prognostic marker for poor outcome	negative prognostic marker	1
+prognostic role	prognostic indicator	1
+prognostic significance	prognostic indicator	1
+prognostic value	prognostic indicator	2
+promote development	modulator increase disease	1
+promote inflammation-related ... progression	modulator increase disease	1
+promoted ... progression	modulator increase disease	3
+promotes ... tumor growth	modulator increase disease	1
+promoting factor	modulator increase disease	2
+protective	modulator decrease disease	1
+radioresistance	therapy resistance	1
+reduced expression	decreased expression	1
+reduced expression levels	decreased expression	1
+regulates	pathological role	1
+regulation	relation undefined	2
+regulatory factor	pathological role	1
+related	relation undefined	2
+relevant to risk of developing	genetic susceptibility	2
+resistance to chemotherapy	therapy resistance	7
+responsible for	relation undefined	2
+restrict the recurrence	modulator decrease disease	1
+result from heterozygous germline dn mutations	causative mutation	1
+results from lof mutations	causative mutation	1
+risk factor	genetic susceptibility	1
+risk stratification	prognostic indicator	1
+role	relation undefined	8
+role in ... development	pathological role	1
+role in the initiation and progression	pathological role	1
+selective inhibition may provide substantial benefit	therapeutic target	1
+serum levels ... were increased	increased expression	1
+short survival rate	negative prognostic marker	1
+shorter survival	negative prognostic marker	2
+significantly elevated	increased expression	1
+significantly upregulated	increased expression	4
+silenced	decreased expression	2
+stimulate the development	pathological role	1
+strategy for the treatment	therapeutic target	1
+strong ... positivity	increased expression	1
+strongly upregulated	increased expression	1
+suitable therapy	therapeutic target	1
+supporting the development	pathological role	1
+suppress ... metastasis	modulator decrease disease	1
+survival of patients	negative prognostic marker	1
+susceptibility gene	genetic susceptibility	2
+target	therapeutic target	1
+target for ... therapy	therapeutic target	1
+target for cancer chemotherapy	therapeutic target	1
+targeted therapies	therapeutic target	1
+targets for ... treatment	therapeutic target	1
+therapeutic implications	therapeutic target	1
+therapeutic intervention	therapeutic target	1
+therapeutic potential	therapeutic target	1
+therapeutic target	therapeutic target	7
+therapeutic targets	therapeutic target	3
+therapeutic use	therapeutic target	1
+therapeutic value	therapeutic target	1
+tumorigenesis and progression	pathological role	1
+unfavorable prognostic factor	negative prognostic marker	1
+unfavorable prognostic influence	negative prognostic marker	1
+unfavourable prognosis	negative prognostic marker	1
+up-regulated	increased expression	1
+up-regulation	increased expression	3
+upregulate	increased expression	1
+upregulate ... expression	increased expression	1
+upregulated	increased expression	17
+upregulated ... expression	increased expression	1
+upregulation	increased expression	6
+upregulation of ... expression	increased expression	1
+very rarely mutated	associated mutation	1
+very-poor prognostic profile	negative prognostic marker	1
+worse overall and disease-free survival	negative prognostic marker	1
+worse prognosis	negative prognostic marker	1

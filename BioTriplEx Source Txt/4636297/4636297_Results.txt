@@ -1,0 +1,114 @@
+Dual inhibition of PI3K/Akt and Wnt/β-catenin signaling by SMA in colon cancer cells
+The hyperproliferation of colonic epithelium is one of the earliest changes observed during the tumorigenesis of CRC [ 27 , 28 ]. We investigated whether SMA suppresses colon cancer proliferation by using a colony formation assay in HT29 cells, which possess an  APC  mutation, and CT26 cells, which do not. SMA significantly inhibited colony formation by colon cancer cells in a concentration-dependent manner ( Fig 1A ). In the cell proliferation assay, the IC 50  (50% maximal inhibitory concentration) of SMA was lower in CT26 cells than in HT29 cells ( Table 1 ). However, the inhibitory effect of SMA at concentrations above 10 μM was greater in HT29 cells than in CT26 cells ( Fig 1B ). In HT29 colon cancer cells, as we previously reported in endothelial cells, phosphorylation of PI3K and its downstream signals, Akt and mTOR phosphorylation, were blocked by SMA ( Fig 1C ). However, 50 μM SMA did not suppress Akt phosphorylation completely to the vehicle-treated control level. Because SMA at the same concentration completely suppressed colony formation, the results imply that PI3K/Akt signaling was not the only pathway mediating the inhibitory action of SMA against colon cancer cell proliferation. To identify other possible signaling pathways mediating the anti-proliferative action of SMA, we examined the involvement of β-catenin, which is associated with CRC tumorigenesis, in SMA action. The β-catenin level is regulated by GSK3β, which is inhibited by PI3K/Akt. Treatment with GSK3β inhibitors, BIO or LiCl, under serum-starved conditions, induced the proliferations of colon cancer cells, CT26, HT29, and HCT116. These cell proliferations were suppressed by SMA ( Fig 1D and 1E ). The IC 50  of SMA in BIO- or LiCl-induced cell proliferation was higher than in serum-induced proliferation ( Table 1 ).
+
+           10.1371/journal.pone.0141753.t001 
+           Table 1 
+           50 ) of SMA in cancer cell proliferation. The half maximal inhibitory concentration (IC 
+           
+             
+           
+             
+                 
+                 
+                 
+                 
+               
+                 
+               
+                   50  (μM) IC 
+                 
+                   
+                 CT26 (WT APC, WT β-catenin) 
+                   HT29 (MT APC, WT β-catenin) 
+                   HCT116 (WT APC, MT β-catenin) 
+                   A549 (MT APC, WT β-catenin) 
+                 
+                   
+               
+                 
+               Serum-induced 
+                   18.2 
+                   30.2 
+                   25.1 
+                   13.5 
+                 
+                   
+                 BIO-induced 
+                   28.8 
+                   50.4 
+                   52.4 
+                   28.8 
+                 
+                   
+                 LiCl-induced 
+                   30.9 
+                   50.1 
+                   50.1 
+                   28.1 
+                 
+                   
+               
+                 
+             
+               
+           
+             
+        
+Next, we found that SMA alters nuclear β-catenin level. Immunofluorescence staining with anti-β-catenin antibody and confocal microscopy demonstrated that cytosolic β-catenin was highly translocated to the nucleus after stimulation with serum ( Fig 2A ) or Wnt3α ( Fig 2B ) in HT29 cells. This nuclear translocation was significantly suppressed by SMA. In addition, Western blot analysis also demonstrated that serum-induced nuclear β-catenin accumulation was significantly suppressed by SMA. In fact, nuclear β-catenin was not detectable at SMA concentrations of 10 or 50 μM ( Fig 2C ). In addition, total cellular β-catenin levels were decreased by SMA. Given that nuclear β-catenin binds to members of the TCF/LEF1 family of transcriptional factors to induce target gene expressions, we examined the effects of SMA on TCF/LEF1 transcriptional activity using a TCF/LEF reporter gene dual-luciferase assay. Treating reporter gene-transfected cells with SMA significantly inhibited Wnt3α (10 ng/mL)- or serum-enhanced TCF/LEF transcription activities ( Fig 2D ). Furthermore, Western blot analysis of β-catenin/TCF/LEF target gene expressions showed that SMA significantly suppressed the expressions of cyclin D1 and c-myc in HT29 cells ( Fig 2E ).
+Effect of SMA on tankyrase enzyme activity, axin levels, and β-catenin destruction complex
+The SMA-induced decrease in total β-catenin levels suggests that SMA enhances the activity of the β-catenin destruction complex. In fact, SMA increased the level of the phosphorylated form of β-catenin ( Fig 3A ). This increase in β-catenin phosphorylation in SMA-treated cells may have been achieved by increased GSK3β activity due to suppression of PI3K/Akt activity or by increased levels of tankyrase-regulated axin proteins. As expected, there was an inhibitory effect of SMA on PI3K/Akt, and SMA suppressed GSK3β phosphorylation in a concentration-dependent manner ( Fig 3A ). At the same time, SMA increased axin1 and axin2 levels ( Fig 3A ). Because axin levels are regulated by tankyrase, we also investigated whether increased axin levels in SMA-treated cells were due to tankyrase inhibition by comparing the effect of SMA to the effect of XAV939, which is a selective and potent tankyrase inhibitor. SMA showed a low level of inhibition of tankyrase enzyme activity (IC 50  of 50.1 μM and 15.5 μM for tankyrase 1 and 2, respectively) compared to XAV939 ( Fig 3B  and  Table 2 ). However, SMA strongly inhibited TCF/LEF transcription activity to almost the same extent as XAV939 ( Fig 3C ). The IC 50  values of SMA and XAV939 on TCF/LEF transcription activity were 39.8 nM and 28.1 nM, respectively ( Table 2 ).
+
+           10.1371/journal.pone.0141753.t002 
+           Table 2 
+           50  of SMA with respect to tankyrase and TCF/LEF transcription activities. The IC 
+           
+             
+           
+             
+                 
+                 
+                 
+               
+                 
+               
+                   50 
+ IC 
+                 
+                   
+                 Tankyrase 1 activity 
+                   Tankyrase 2 activity 
+                   TCF/LEF transcription activity 
+                 
+                   
+               
+                 
+               SMA 
+                   50.1 μM 
+                   15.5 μM 
+                   39.8 nM 
+                 
+                   
+                 XAV939 
+                   * 
+ 11 nM 
+                   * 
+ 4 nM 
+                   28.1 nM 
+                 
+                   
+               
+                 
+             
+               
+           
+             
+           17 ]. *Previously reported [ 
+             
+               
+           
+             
+        
+SMA inhibited tumor growth in syngenic and xenograft mouse colon cancer models
+To investigate the  in vivo  antitumor effect of SMA and its potential use in combination chemotherapy, we used a CT26 syngenic tumor model and a HT29 xenograft model in mice and compared the effects of SMA with the effects of 5-FU, which is commonly used to treat solid tumors, including colon cancer (drug treatment scheme is shown in  Fig 4A ). In the CT26 syngenic tumor model, SMA dose-dependently suppressed tumor growth in a manner similar to 5-FU ( Fig 4B and 4C ). However, 5-FU at 50 mg/kg showed obvious toxic effects, such as hair loss and significant body weight reduction at the fourth day of treatment ( Fig 4D ). Unlike 5-FU, SMA at the same dose did not produce such changes. Similarly, in the HT29 xenograft tumor model, SMA was found to have a dose-dependent anti-tumor effect ( Fig 4E ). In addition, when SMA (50 mg/kg) was administered with low dose 5-FU (10 mg/kg), the effects were greater than those of 5-FU (10 mg/kg) or SMA (50 mg/kg) alone ( Fig 4D ), and SMA did not reduce body weight ( Fig 4F ).
+Anti-tumor effect of SMA alone and in combination with cisplatin in the A549 lung cancer xenograft model
+Next, we examined whether SMA could exert anti-proliferative activity in A549 human non-small cell lung cancer cells (NSCLC), which possess mutant APC and wild type β-catenin similar to HT29 colon cancer cells. Treatment with SMA inhibited A549 human lung cancer cell proliferation ( Fig 1 ), and the IC 50  value of SMA against serum- or GSK3β inhibitor-induced cancer cell proliferation was the lowest in A549 cells ( Table 1 ). The anti-tumor effect and action mechanism of SMA were further examined in a mouse tumor model with a xenograft of A549 cells (drug treatment scheme is shown in  Fig 5A ). As shown in  Fig 5B , SMA significantly suppressed tumor growth in this model. Because cisplatin is often the first treatment option for monotherapy or for combination chemotherapy in patients with advanced NSCLC, we also compared the effect of SMA with cisplatin. In the A549 xenograft model, 50 mg/kg SMA had an anti-tumor effect similar to 1 mg/kg cisplatin. Furthermore, combined therapy with cisplatin (1 mg/kg) and SMA (50 mg/kg) had a much stronger anti-tumor effect than cisplatin or SMA alone ( Fig 5B and 5C ). Western blot analyses of tumor tissues showed SMA significantly suppressed the phosphorylation of PI3K (p85), Akt, and GSK3β ( Fig 5D ). In contrast, axin levels were increased by SMA. Cisplatin treatment induced a similar but less potent effect on the phosphorylation of the signaling proteins. SMA in a combination regimen with cisplatin induced strong inhibitory effects on the signaling molecules. Nuclear β-catenin levels in tumor tissues were not inhibited by cisplatin alone, but were dramatically suppressed by SMA and synergistically by SMA plus cisplatin ( Fig 5E ). Regarding c-Myc and cyclin D1 levels, although cisplatin suppressed their nuclear levels, treatment with SMA plus cisplatin had a much stronger effect ( Fig 5F ).

@@ -1,0 +1,49 @@
+PI3K/AKT Pathway Is Upregulated in Advanced BCC Tumors
+To assess alternative pathways that may drive BCC tumor growth, we reanalyzed our bulk-level RNA-sequencing (RNA-seq) data of 14 matched tumor-normal pairs of advanced and SMO inhibitor-resistant BCC samples ( 22 ,  48 ). Differential gene expression analysis across the 14 tumor-normal pairs identified 1602 genes that were upregulated by two-fold or more in the resistant BCC tumors compared to their normal skin counterparts ( 48 ). Database analysis of the upregulated genes with the Kyoto Encyclopedia of Genes and Genomes (KEGG) showed the expected upregulation of the cell cycle, HH pathway, and BCC-associated genes ( Figure 1A 
+ 
+ ,  Supplementary Data 1 
+ 
+ ). Another term that was significantly enriched was the PI3K/AKT pathway ( Figure 1A 
+ 
+  and  Supplementary Data 1 
+ 
+ ). Analogously, Kinase Enrichment Analysis (KEA) ( 49 ) linked many of the upregulated genes with kinases that are closely associated with PI3K/AKT signaling, such as MAPK, AKT, GSK3β, CSNK, S6K, and PRKCB ( Figure 1B 
+ 
+  and  Supplementary Data 1 
+ 
+ ). Close analysis of the PI3K pathway gene expression showed many components and downstream targets significantly upregulated in most tumors, including GRB2, PLCG1, and RPS6KA1 ( Figure 1C 
+ 
+  and  Supplementary Data 2 
+ 
+ ).
+PIK3CA Is Upregulated in Human and Mouse BCC Tumors
+To validate whether PI3K pathway upregulation in BCC tumors is consistent at the protein level, we measured the expression of the catalytic subunit PIK3CA in human nodular BCC tumors and normal epidermis using immunofluorescence staining. We observed that tumors displayed significantly enhanced expression of PIK3CA compared to normal epidermis ( Figures 2A, B 
+ 
+ ). To analyze Pik3ca expression in mice, we utilized a  fl/fl ; Gli1-Cre ERT2 Ptch1  mouse model in which BCC microtumors arise from the hair follicle, secondary hair germ, and the touch dome in the interfollicular epidermis ( 50 ). BCC tumors were grown for five weeks post-Cre induction and formed predominantly from the hair follicle regions. Similar to our observations in human BCC tumors, we also observed a significant increase in Pik3ca expression in mouse BCC tumors compared to both normal epithelium and the hair follicle ( Figures 2C, D 
+ 
+ ). Together, these results suggest that PI3K pathway activity is upregulated in human and mouse BCC tumors.
+Inhibition of PI3K Suppresses Growth and Hh Signaling in BCC Cells  In Vitro 
+
+To assess whether upregulation of the PI3K pathway signaling affects growth and HH signaling in BCCs, we assayed ASZ001 mouse BCC cells with two PI3K inhibitors, BKM120 and LY294002. BKM120 acts as an allosteric inhibitor of PI3K ( 51 ) while LY294002 acts as an ATP-competitive inhibitor ( 52 ). Treatment of ASZ001 cells with BKM120 and LY294002 both significantly decreased HH signaling as assayed by  Gli1  mRNA expression ( Figure 3A 
+ 
+ ). Additionally, treatment of ASZ001 cells with BKM120 and LY294002 both resulted in complementary and dose-dependent reduction of tumor cell growth over time ( Figures 3B, C 
+ 
+ ). A significant increase in Casp3-mediated apoptosis was also observed upon BKM120 inhibition, with the proliferation marker Mki67 trending downward ( Figures 3D–F 
+ 
+ ). Together, these results show that the PI3K pathway promotes BCC cell growth upstream of the HH pathway.
+Inhibition of PI3K Suppresses Growth but Not Hh Signaling in BCC Tumors  In Vivo 
+
+To evaluate whether inhibition of PI3K can serve as an effective therapeutic strategy in attenuating BCC tumors, we generated BCC tumors in the  fl/fl ; Gli1-Cre ERT2 Ptch1  mouse model and intraperitoneally injected either DMSO or 10 mg/kg of BKM120 daily for seven days. Histological staining of the dorsal skin of BKM120-treated mice showed a significant reduction in total tumor size compared to DMSO controls ( Figures 4A, B 
+ 
+ ). Interestingly, Gli1 protein expression was not altered in BKM120-treated mice ( Figures 4C, D 
+ 
+ ), suggesting that the PI3K operates downstream or in parallel to the HH pathway  in vivo , a result that is similar to Mtor inhibition ( 48 ). The discrepancy between our  in vitro  and  in vivo  results may indicate that the tumor microenvironment alters how the PI3K pathway functions in relation to the HH pathway.
+To further define how the PI3K pathway functions  in vivo , we assayed that status of aPKC, a Gli1 kinase that is necessary for high sustained Gli1 activity ( 29 ). Atypical PKCs are activated downstream of PI3K by Pdk1-dependent phosphorylation at T410 in a variety of cell types ( 53 ,  54 ). While we observed a slight increase in total aPKC immunostaining in BKM120-treated mouse BCC tumors, phosphorylation at T410 was significantly reduced ( Figures 4C, D 
+ 
+ ), indicating suppressed kinase activity. Although aPKC phosphorylates and activates Gli1 at residue T304 ( 29 ), we observed no change in p-T304 Gli1 expression ( Figures 4C, D 
+ 
+ ), reinforcing the possibility of PI3K’s role outside of HH signaling and suggesting that aPKC likely exerts its effects on another substrate. Akt1 is also activated downstream of PI3K by Pdk1-dependent phosphorylation at T308 ( 55 ), and we found a significant reduction in both total and p-T308 Akt1 expression in BKM120-treated mouse BCC tumors ( Figures 4E, F 
+ 
+ ). As both aPKC and Akt1 facilitate the degradation of cyclin-dependent kinase inhibitor p21 by phosphorylating T145 ( 56 – 58 ), we assayed p21 protein expression and found a substantial increase in p21 stability and a corresponding decrease in p21 phosphorylation ( Figures 4E, F 
+ 
+ ). Altogether, our data suggests PI3K likely facilitates BCC tumor growth by promoting cell cycle progression through aPKC- and Akt1-mediated p21 degradation.

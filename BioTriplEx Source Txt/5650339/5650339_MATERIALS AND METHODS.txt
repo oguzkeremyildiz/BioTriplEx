@@ -1,0 +1,18 @@
+Materials
+OS cell lines (U-2OS, Saos-2, MG-63, SW-1353, HOS, 143B) used in this study were from Laboratory of Orthopaedic Surgery of Renji Hospital. The materials and reagents used in this study were summarized in  Supplementary Table 4 .
+Cell culture and transfection
+Cell resuscitation and frozen are manipulated according to the standard process. OS cells were cultured with DMEM medium added with 10% FBS and 1% penicillin (100U/ml) and streptomycin (100μg/ml) in a humidified atmosphere containing 5% CO2 at 37°C. Lentivirus-mediated miR-146a or miR-146 shRNA vector construction and cell transfection were referred as previously described [ 39 ]. The transfection efficiency of miR-146 or miR-146a shRNA were determined by qPCR.
+Quantitative real-time PCR (qRT-PCR)
+Total RNA exaction, reverse transcription and cDNA amplification were manipulated depending on the protocols provided by the manufacturers, of which miR-146a exaction was based on the protocols provided by miRNeasy mini kit. The primers of miR-146a, U6, ZNRF3 and GAPDH were listed in  Supplementary Table 5 . Data were analysed using the comparative Ct method (2 -∆∆Ct ). Three separate experiments were performed for each clone.
+Western blot analysis
+OS cells and xenograft tumor tissue cells were harvested and extracted using lysis buffer (Tris-HCl, SDS, Mercaptoethanol, Glycerol)., and the experimental protocols for western blot analysis was performed as previously reported [ 40 ].
+Cell viability assay
+OS cells transfected with miR-146a, miR-146a shRNA and ZNRF3 were incubated in 96-well-plates at a density of 2×103 cells. Cells were pretreated with 10μl of MTT dye each day. After incubation for 4 h, 100μl of DMSO were added into the cells for 15 min. The color reaction was measured at 570 nm using an Enzyme Immunoassay Analyzer (Bio-Rad, Hercules, CA).
+Colony formation assay
+OS cells transfected with miR-146a, miR-146a shRNA and ZNRF3 were trypsinized and reseeded into 6-well plate. The number of cell colonies in control and treatment groups were counted after a week and were stained with crystal violet.
+Dual-luciferase reporter assay
+OS cells were cultured in 24-well plates. Gene report vector containing wild type 3′-UTR or mutated 3′-UTR of ZNRF3 target gene was co-transfected with negative control or miR-146a into the OS cells. The detained manufacturer’s instructions were referred to previously published [ 41 ].
+Animal experiments
+Six-week-old female immune-deficient nude mice were fed in Animal Institute of Chinese Academy of Sciences based on the regulations and internal biosafety and bioethics guidelines of Renji Hospital, Shanghai Jiao Tong University. Mice were injected subcutaneously with 1×10 6  U-2OS cells stably transfected with sh-miR-146a or control cells. The length and width of the Xenograft tumors was measured with a caliper every other day.
+Statistical analysis
+SPSS 21.0 was applied for the statistical analysis of the values, which were recorded as the mean ±SEM. Paired or independent t test was used to analyse the differential change in each group. Statistical significance was set at  P  < 0.05.

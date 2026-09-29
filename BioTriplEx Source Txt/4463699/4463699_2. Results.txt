@@ -1,0 +1,243 @@
+2.1. Genome-Wide Analysis of DNA Methylation in Peripheral Blood Mononuclear Cells of AAA Patients and Non-Aneurysmal Controls
+Human Methylation 450k BeadChips [ 26 ] were used to detect DNA methylation in AAA ( n  = 20) and control ( n  = 21) samples, and methylation at CpGIs was analyzed.  Table 1  summarizes the samples used, and  Supplementary Table S1  provides more detailed information about each donor. The 41 samples were run in two batches. PC analysis revealed there were significant global differences in methylation between the two batches. There were also significant differences in methylation with respect to age and AAA diagnosis. When OLS linear regression models included smoking, the fit for age was improved, compared to models that did not include smoking.
+Based on the PC analysis, a subset of 16 CpGIs contributed most to the variance of the PCs significant for AAA diagnosis and age ( Table 3  and  Supplementary Table S2 ). The CpGIs selected for the subset also had a similar direction and magnitude in both batches. This subset was analyzed using OLS linear regression models, and four CpGIs were found to be significantly differentially methylated with respect to AAA ( Table 4 ). Each of these CpGIs are located in the body of a different gene. These genes were  ADCY10P1 ,  CNN2 ,  KLHL35 , and  SERPINB9 . DNA methylation was decreased in AAA samples compared to controls for  ADCY10P1  and  CNN2 . DNA methylation was increased in AAA samples compared to controls for  KLHL35  and  SERPINB9 .
+
+           ijms-16-11259-t003_Table 3 
+           Table 3 
+           CpGIs in the subset analyzed using ordinary least squares (OLS) linear regression models. 
+           
+             
+           CpGI * Name and Location 
+                 Gene 
+                 Gene Context of the CpGI 
+               
+                 
+             
+               
+             chr4: 190962111–190962689 
+                 null 
+                 NA 
+               
+                 
+               chr6: 2891929–2892182 
+                 SERPINB9 
+ 
+ 
+                 Body 
+               
+                 
+               chr6: 41068475–41069343 
+                 ADCY10P1 
+ 
+ 
+                 Body 
+               
+                 
+               chr6: 168435835–168436086 
+                 KIF25 
+ 
+ 
+                 Body 
+               
+                 
+               chr9: 124987743–124991086 
+                 LHX6 
+ 
+ 
+                 Body 
+               
+                 
+               chr11: 396685–397462 
+                 PKP3 
+ 
+ 
+                 Body 
+               
+                 
+               chr11: 75139454–75139817 
+                 KLHL35 
+ 
+ 
+                 Body, Promotera 
+               
+                 
+               chr17: 152117–152438 
+                 RPH3AL 
+ 
+ 
+                 Body 
+               
+                 
+               chr17: 19099818–19100138 
+                 null 
+                 NA 
+               
+                 
+               chr19: 1033605–1035236 
+                 CNN2 
+ 
+ 
+                 Body 
+               
+                 
+               chr19: 37786692–37787110 
+                 null 
+                 NA 
+               
+                 
+               chr19: 612989–614068 
+                 HCN2 
+ 
+ 
+                 Body 
+               
+                 
+               chr19: 49001748–49003087 
+                 LMTK3 
+ 
+ 
+                 Body 
+               
+                 
+               chr20: 32254811–32255989 
+                 NECAB3 
+ 
+ 
+                 Body 
+               
+                 
+               chr21: 38630052–38630507 
+                 DSCR3 
+ 
+ 
+                 Body 
+               
+                 
+               chrX: 72298626–72299108 
+                 PABPC1L2A 
+ 
+ 
+                 1st Exon 
+               
+                 
+             
+               
+           
+             
+           *  The CpGIs were represented by 16 CpG probes and spanned both Promoter and Body of the gene. Only 3 of 16 probes were in the promoter. NA, not applicable, since the CpGI was not in any gene. Extended annotation for each CpG probe in the CpGIs above is provided in  Supplementary Table S2 . 
+             
+               
+           
+             
+        
+
+           ijms-16-11259-t004_Table 4 
+           Table 4 
+           Genes demonstrating differential DNA methylation with respect to AAA, age, and smoking. 
+           
+             
+           Gene 
+                 p  Value (Diagnosis) 
+                 p  Value (Age) 
+                 p  Value (Smoking) 
+               
+                 
+             
+               
+             ADCY10P1 
+ 
+ 
+                 0.0221 
+                 0.06702 
+                 0.04543 
+               
+                 
+               CNN2 
+ 
+ 
+                 0.006514 
+                 0.032 
+                 0.02625 
+               
+                 
+               KLHL35 
+ 
+ 
+                 0.009153 
+                 0.009907 
+                 0.007803 
+               
+                 
+               SERPINB9 
+ 
+ 
+                 0.00309 
+                 0.02121 
+                 0.1016 
+               
+                 
+             
+               
+           
+             
+        
+2.2. Real-Time Quantitative RT-PCR to Measure mRNA Levels of CNN2 and SERPINB9 in PBMC of AAA Patients and Non-Aneurysmal Controls
+Two of the genes ( CNN2  and  SERPINB9 ) which were significantly differentially methylated in AAA were selected for follow-up studies which included real-time quantitative RT-PCR and immunohistochemical staining.
+Real-time quantitative RT-PCR was used to measure mRNA levels of  CNN2  and  SERPINB9  in PBMC of AAA ( n  = 26) and non-aneurysmal ( n  = 20) samples.  Table 1  summarizes the sample groups, and  Supplementary Table S1  lists more detailed information about each donor. There were no statistically significant differences in gene expression with respect to AAA diagnosis, age, or smoking. However, there was a trend for  CNN2  to have lower expression, and  SERPINB9  to have higher expression in the AAA than control samples ( Figure 2 ).
+2.3. Immunohistological Staining of CNN2 and SERPINB9 in the Aortic Wall of AAA Patients and Non-Aneurysmal Controls
+Immunohistochemical analysis was performed to visualize expression and localization of  CNN2  and  SERPINB9  in the aortic wall of AAA ( n smoking  = 3,  n non-smoking  = 3) and non-aneurysmal ( n  = 4) patients.  Table 2  includes information about each tissue sample used, and  Table 5  includes information about the  CNN2  and  SERPINB9  primary antibodies used. Representative images of aortic tissue samples from a control, an AAA smoker, and an AAA non-smoker are shown in  Figure 3 . While imprecise at best, we attempted to compare the results of our immunohistochemical analysis. Subjectively, control aortas showed no specific staining for  CNN2  in any section of the aorta. AAA aortas displayed much more staining for  CNN2  throughout the media and intima. In samples containing a thrombus, the thrombus also contained many stained cells (not shown). There were no noticeable differences in staining between samples from smokers and non-smokers. Although a statistical comparison is not available, control aortas subjectively appeared to show  SERPINB9  staining in the intima and media. There was also light staining in the adventitia of some controls aortas, but it was not consistent. Female aortas contained less  SERPINB9  staining than male aortas (not shown). AAA aortas generally showed darker  SERPINB9  staining. This was especially noticeable near the intima of most samples. There was also an increase in  SERPINB9  staining in areas of the aorta where the morphology was disrupted and where there was a high density of immune cells.
+
+           ijms-16-11259-t005_Table 5 
+           Table 5 
+           Primary antibodies used in immunohistological analyses. 
+           
+             
+           Gene Symbol 
+                 Gene ID 
+                 Protein Symbols 
+                 Full Name 
+                 Catalog Number 
+                 Supplier 
+                 Species 
+                 IHC Dilution 
+               
+                 
+             
+               
+             CNN2 
+ 
+ 
+                 1265 
+                 CNN2 
+                 Calponin 2 
+                 TA503688 
+                 OriGene, Rockville, MD, USA 
+                 Mouse monoclonal 
+                 1:234 
+               
+                 
+               SERPINB9 
+ 
+ 
+                 5272 
+                 CAP3, PI9, SERPINB9 
+                 Serpin peptidase inhibitor, clade B (ovalbumin), member 9 
+                 TA312970 
+                 OriGene, Rockville, MD, USA 
+                 Rabbit polyclonal 
+                 1:4667 
+               
+                 
+             
+               
+           
+             
+           IHC, immunohistochemistry. 
+             
+               
+           
+             
+        
+2.4 Bioinformatic Analysis of Interactions between CNN2 and SERPINB9
+Potential interactions between  CNN2  and  SERPINB9  identified using Ingenuity Pathway Analysis ®  (IPA) tool are shown in a network ( Figure 4 ).  SERPINB9  and  CNN2  do not directly interact, but they do interact with several of the same proteins and they are involved in similar pathways. Most of the genes in the network are involved in cell signaling, the immune response, and cell death.
+We investigated changes in DNA methylation in patients with AAA and followed up the findings by conducting gene and protein expression studies.  Figure 1  presents an outline of our study. The AAA patients included in the methylation study had aortic diameters between 3 and 5 cm and none of them had undergone a surgical AAA repair. First, genome-wide DNA methylation patterns were obtained from PBMC of AAA ( n  = 20) and non-aneurysmal ( n  = 21) patients. The DNA methylation data were analyzed by principal component (PC) analysis, and then a subset of CpGIs were further analyzed using ordinary least squares (OLS) linear regression models to detect significant differences in methylation. This analysis revealed four genes with significantly different DNA methylation in AAA samples compared with controls. Two genes with the greatest magnitude of differential methylation, calponin 2 ( CNN2 ) and serpin peptidase inhibitor clade B (ovalbumin) member 9 ( SERPINB9 ), were studied further using real-time quantitative RT-PCR to determine their mRNA levels in PBMC of AAA ( n  = 26) and non-aneurysmal ( n  = 20) controls. In addition, immunohistological staining of AAA ( n  = 6) and control human infrarenal abdominal aortas ( n  = 4) was used to determine protein expression and localization. All blood samples were obtained from male patients between the ages of 43 and 88 ( Table 1  and  Supplementary Table S1 ). Human aortic AAA samples for immunohistological staining were collected from patients undergoing AAA repair operations, and non-aneurysmal infrarenal abdominal aortic wall samples were collected from autopsies ( Table 2 ).

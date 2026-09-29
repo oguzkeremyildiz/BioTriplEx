@@ -1,0 +1,991 @@
+5147974_Abstract.txt
+7564071_Abstract.txt
+237/central nervous system/central nervous system disease
+1458/cancer tissue/connective tissue cancer
+7953906_Abstract.txt
+1779/renal failure/renal failure
+1101/pulmonary tuberculosis/pulmonary tuberculosis
+972/disease/disease
+8285542_Discussion.txt
+2126/prostate breast/prostate cancer
+5547/lipid metabolism/lipid metabolism disorder
+6075/lipid metabolism/lipid metabolism disorder
+2148/hepatocellular cancers/hepatocellular carcinoma
+7817995_Abstract.txt
+1935/disease/disease
+6995577_Abstract.txt
+277/transthyretin amyloidosis/transthyretin amyloidosis
+5023968_Discussion.txt
+1447/autism spectrum disorders/autism spectrum disorder
+767/central nervous system/central nervous system disease
+1588/central nervous system/central nervous system disease
+9888429_Abstract.txt
+6237877_Discussion.txt
+552/pulmonary fibrosis/pulmonary fibrosis
+1073/pulmonary inflammation/postinflammatory pulmonary fibrosis
+1344/pulmonary inflammation/postinflammatory pulmonary fibrosis
+3604/pulmonary fibrosis/pulmonary fibrosis
+6586/pulmonary fibrosis/pulmonary fibrosis
+8315/pulmonary fibrosis/pulmonary fibrosis
+4039/lung disease/lung disease
+7664851_3. Discussion.txt
+7217914_Abstract.txt
+28/hepatocellular carcinoma/hepatocellular carcinoma
+519/hepatocellular carcinoma/hepatocellular carcinoma
+456/breast cancer/breast cancer
+7953906_Discussion.txt
+2097/idiopathic pulmonary fibrosis/idiopathic pulmonary fibrosis
+68/disease/disease
+8957/disease/disease
+9592/disease/disease
+5309/influenza virus/influenza
+7012/influenza viruses/influenza
+4278/viral infection/virus infection
+8853288_Discussion.txt
+1419/musculoskeletal system/musculoskeletal system disease
+1751/muscle tissue/muscle tissue disease
+6914845_Abstract.txt
+8276170_Abstract.txt
+5996034_Discussion.txt
+7150/cardiovascular system/cardiovascular system disease
+1225/colon/colon cancer
+1444/colon/colon cancer
+2097/colon/colon cancer
+2829/colon/colon cancer
+2999/colon/colon cancer
+3342/colon/colon cancer
+3767/colon/colon cancer
+4105/colon/colon cancer
+4611/colon/colon cancer
+6447/colon/colon cancer
+6724/colon/colon cancer
+7046/colon/colon cancer
+5675/multiple sclerosis/multiple sclerosis
+2255/ulcerative colitis/ulcerative colitis
+5706903_Abstract.txt
+118/ovarian cancer/ovarian cancer
+481/ovarian cancer/ovarian cancer
+684/ovarian cancer/ovarian cancer
+935/ovarian cancer/ovarian cancer
+1044/ovarian cancer/ovarian cancer
+1142/ovarian cancer/ovarian cancer
+1707/ovarian cancer/ovarian cancer
+1136/these ovarian cancer cell/testicular malignant germ cell cancer
+9570260_3. Discussion.txt
+865/cardiovascular system/cardiovascular system disease
+3287/chronic lung/chronic obstructive lung disease
+849/nervous system cardiovascular system/nervous system disease
+6829/cervical cancer/cervical cancer
+9288359_Discussion.txt
+2063/renal cell carcinoma/renal cell carcinoma
+2766/renal cell carcinoma/renal cell carcinoma
+3031/renal cell carcinoma/renal cell carcinoma
+5471/virus infection/virus infection
+9604124_3. Discussion.txt
+1062/immune system/immune system disease
+1501/immune system/immune system disease
+7307/immune system/immune system disease
+4653/nonalcoholic steatohepatitis/non-alcoholic steatohepatitis
+7537/portal vein/portal vein thrombosis
+2734/primary liver cancer/primary liver cancer
+3446/primary liver cancer/primary liver cancer
+891/hyperinsulinemia insulin/hyperinsulinemia
+3533/chronic liver inflammatory disease/chronic granulomatous disease
+2742/liver cancer/liver cancer
+3454/liver cancer/liver cancer
+3541/liver inflammatory disease/liver disease
+490/cirrhotic liver/cirrhosis of liver
+7379/cirrhotic liver/cirrhosis of liver
+1735/liver cirrhosis/liver cirrhosis
+2603/liver cirrhosis/liver cirrhosis
+5193/liver cirrhosis/liver cirrhosis
+5697/liver cirrhosis/liver cirrhosis
+5971/liver cirrhosis/liver cirrhosis
+6153/liver cirrhosis/liver cirrhosis
+6933/liver cirrhosis/liver cirrhosis
+7168/liver cirrhosis/liver cirrhosis
+7953/liver cirrhosis/liver cirrhosis
+9271/liver cirrhosis/liver cirrhosis
+9721/liver cirrhosis/liver cirrhosis
+4176/myeloid leukemia/myeloid leukemia
+2325/myeloid leukemias/myeloid leukemia
+868/diabetes obesity/diabetes
+909/insulin resistance/insulin resistance
+3228/insulin resistance/insulin resistance
+8247374_Abstract.txt
+50/colorectal cancer/colorectal cancer
+156/colorectal cancer/colorectal cancer
+395/colorectal cancer/colorectal cancer
+542/colorectal cancer/colorectal cancer
+732/colorectal cancer/colorectal cancer
+1228/colorectal cancer/colorectal cancer
+1334/colorectal cancer/colorectal cancer
+306/malignant/malignant neoplasm
+269/glucose metabolism/glucose metabolism disease
+8285542_Abstract.txt
+1831/in squamous cell/intermediate cell small cell carcinoma
+1834/squamous cell carcinomas/squamous cell carcinoma
+140/squamous cancer/squamous cell cancer
+91/lipid metabolism/lipid metabolism disorder
+1655/lipid metabolism/lipid metabolism disorder
+8885558_Abstract.txt
+566/dihydropyrimidine dehydrogenase/dihydropyrimidine dehydrogenase deficiency
+404/breast cancer/breast cancer
+5009375_Discussion.txt
+1665/castration-resistant prostate cancer/castration-resistant prostate carcinoma
+1686/prostate cancer/prostate cancer
+1751/prostate cancer/prostate cancer
+9587286_Abstract.txt
+111/colon cancer/colon cancer
+323/colon cancer/colon cancer
+448/colon cancer/colon cancer
+534/colon cancer/colon cancer
+1211/colon cancer/colon cancer
+1352/colon cancer/colon cancer
+6914845_Discussion.txt
+7/lung adenocarcinoma/lung adenocarcinoma
+420/lung adenocarcinoma/lung adenocarcinoma
+981/lung adenocarcinoma/lung adenocarcinoma
+1812/lung adenocarcinoma/lung adenocarcinoma
+2079/lung adenocarcinoma/lung adenocarcinoma
+4017/lung adenocarcinoma/lung adenocarcinoma
+4158/lung adenocarcinoma/lung adenocarcinoma
+4422/lung adenocarcinoma/lung adenocarcinoma
+4508/lung adenocarcinoma/lung adenocarcinoma
+4590/lung adenocarcinoma/lung adenocarcinoma
+4783/lung adenocarcinoma/lung adenocarcinoma
+4413/clinical lung adenocarcinoma/carcinoma of lung
+7765946_Abstract.txt
+1228/cell or cancer cell/cell type cancer
+1236/cancer cell/cell type cancer
+666/breast cancer/breast cancer
+546/viral infection/virus infection
+7552903_Discussion.txt
+2916/acute myelogenous leukemia/acute myelogenous leukemia
+2581/breast tumor/breast tumor
+2461/chemotherapy-resistant cancer/cancer
+4104/solid tumors/solid pseudopapillary tumour
+4584/solid tumors/solid pseudopapillary tumour
+3963/type-2 diabetes/type 2 diabetes mellitus
+8786523_4. Discussion.txt
+119/cardiovascular system/cardiovascular system disease
+145/cognitive disorders/cognitive disorder
+216/periodontal disease/periodontal disease
+383/periodontal disease/periodontal disease
+4495/periodontal diseases/periodontal disease
+4255/specific sleep disorder/sleep disorder
+9886470_Abstract.txt
+2275485_DISCUSSION.txt
+7446/breast cancer/breast cancer
+7162859_Abstract.txt
+173/brain cancer/brain cancer
+1540/brain cancers/brain cancer
+5650339_Abstract.txt
+5672786_Abstract.txt
+8508478_Abstract.txt
+270/type 2 diabetes mellitus/type 2 diabetes mellitus
+7345849_4. Discussion.txt
+3352/liver/liver cirrhosis
+7345849_Abstract.txt
+9587286_Discussion.txt
+93/colon cancer/colon cancer
+252/colon cancer/colon cancer
+766/colon cancer/colon cancer
+869/colon cancer/colon cancer
+4002/colon cancer/colon cancer
+4074/colon cancer/colon cancer
+4795/colon cancer/colon cancer
+5049/colon cancer/colon cancer
+6205/colon cancer/colon cancer
+6706/colon cancer/colon cancer
+6808/colon cancer/colon cancer
+4308/lung cancer/lung cancer
+7704199_Abstract.txt
+123/invasive lobular carcinoma/invasive lobular carcinoma
+224/invasive lobular carcinoma/invasive lobular carcinoma
+8791029_Abstract.txt
+222/frontotemporal dementia/frontotemporal dementia
+9006883_Abstract.txt
+9789017_Abstract.txt
+342/prostate cancer/prostate cancer
+304/benign prostate/benign adenoma of prostate
+9719507_Abstract.txt
+69/bipolar disorder/bipolar disorder
+9524383_Abstract.txt
+576/breast carcinoma/breast carcinoma
+19/fibrous tumor/fibrous tissue neoplasm
+55/fibrous tumor/fibrous tissue neoplasm
+520/fibrous tumor/fibrous tissue neoplasm
+1417/fibrous tumor/fibrous tissue neoplasm
+1506/fibrous tumor/fibrous tissue neoplasm
+862/small bowel/small bowel cancer
+3660299_Discussion.txt
+6026/placenta/placenta accreta
+1714/recurrent miscarriage/recurrent miscarriage
+3385/recurrent miscarriage/recurrent miscarriage
+5557/recurrent miscarriages/recurrent miscarriage
+5158/endometrial/endometrial cancer
+297/syndrome/syndrome
+2031/hyperhomocysteinemic/hyperhomocysteinemia
+2706/insulin resistant/insulin resistance
+2807459_Discussion.txt
+3941/lung cancer/lung cancer
+4932/pancreatic cancer/pancreatic cancer
+3777/non-small cell lung cancer/non-small cell lung carcinoma
+6652/non-small-cell lung cancer/non-small cell lung carcinoma
+3180/prostate bladder/prostatic urethral cancer
+5302952_DISCUSSION.txt
+1049/human prostate cancer/hereditary prostate cancer
+5108/human prostate cancer/hereditary prostate cancer
+590/diabetic retinopathy/diabetic retinopathy
+5009375_Abstract.txt
+78/hepatocellular carcinoma/hepatocellular carcinoma
+117/hepatocellular carcinoma/hepatocellular carcinoma
+2275485_Abstract.txt
+5854761_Abstract.txt
+255/anterior uveitis/anterior uveitis
+1087/anterior uveitis/anterior uveitis
+8184989_Discussion.txt
+5996034_Abstract.txt
+720/inflammatory bowel disease/inflammatory bowel disease
+5896876_Discussion.txt
+5773598_Abstract.txt
+78/high grade neuroepithelial/high grade ependymoma
+353/high grade gliomas/high grade glioma
+3979708_Abstract.txt
+855/cancer cell/cell type cancer
+214/pancreatic ductal adenocarcinoma/pancreatic ductal adenocarcinoma
+258/intraductal papillary mucinous neoplasms/intraductal papillary breast neoplasm
+21/pancreatic neoplasms/pancreatic neoplasm
+411/pancreatic neoplasms/pancreatic neoplasm
+1591/pancreatic neoplasms/pancreatic neoplasm
+1879/pancreatic neoplasms/pancreatic neoplasm
+9361766_Abstract.txt
+4598861_Abstract.txt
+69/hepatocellular carcinoma/hepatocellular carcinoma
+194/hepatocellular carcinoma/hepatocellular carcinoma
+1352/hepatocellular carcinoma/hepatocellular carcinoma
+6237877_Abstract.txt
+56/pulmonary fibrosis/pulmonary fibrosis
+131/pulmonary fibrosis/pulmonary fibrosis
+356/disease/disease
+192/lung disease/lung disease
+9576726_Discussion.txt
+81/renal fibrosis/renal fibrosis
+171/renal fibrosis/renal fibrosis
+421/renal fibrosis/renal fibrosis
+455/renal fibrosis/renal fibrosis
+560/renal fibrosis/renal fibrosis
+882/renal fibrosis/renal fibrosis
+1150/renal fibrosis/renal fibrosis
+1315/renal fibrosis/renal fibrosis
+1359/renal fibrosis/renal fibrosis
+1602/renal fibrosis/renal fibrosis
+2310/renal fibrosis/renal fibrosis
+2716/renal fibrosis/renal fibrosis
+4056/renal fibrosis/renal fibrosis
+4907/renal fibrosis/renal fibrosis
+5472/renal fibrosis/renal fibrosis
+6036/renal fibrosis/renal fibrosis
+6191/renal fibrosis/renal fibrosis
+6419/renal fibrosis/renal fibrosis
+1871/fatty acid oxidation malfunctions/fatty acid metabolism disorder
+2372/fatty acid oxidation/fatty acid metabolism disorder
+5672/fatty acid oxidation/fatty acid metabolism disorder
+4058662_Abstract.txt
+843/bulimia nervosa/bulimia nervosa
+889/psychiatric disorders/psychosomatic disorder
+9067626_Abstract.txt
+401/rheumatoid arthritis/rheumatoid arthritis
+428/psoriatic arthritis/psoriatic arthritis
+9576726_Abstract.txt
+81/renal fibrosis/renal fibrosis
+437/renal fibrosis/renal fibrosis
+652/renal fibrosis/renal fibrosis
+1195/renal fibrosis/renal fibrosis
+4016835_5. Discussion.txt
+1066/essential hypertension/essential hypertension
+6367/familial hypertension/familial hypercholesterolemia
+2913650_DISCUSSION.txt
+1907/affective disorder/anxiety disorder
+3076/spinal cord/spinal cord disease
+933/nervous system/nervous system disease
+2898/akinetic mutism/akinetic mutism
+3297/akinetic mutism/akinetic mutism
+3440/akinetic mutism/akinetic mutism
+900/virus/virus infection
+3979708_Discussion.txt
+869/pancreatic cancer/pancreatic cancer
+323/pancreatic neoplasms/pancreatic neoplasm
+519/pancreatic neoplasms/pancreatic neoplasm
+1139/pancreatic neoplasms/pancreatic neoplasm
+2116/pancreatic neoplasms/pancreatic neoplasm
+2637/pancreatic neoplasms/pancreatic neoplasm
+2839/pancreatic neoplasms/pancreatic neoplasm
+5838/pancreatic neoplasms/pancreatic neoplasm
+6142/pancreatic neoplasms/pancreatic neoplasm
+651/pancreatic neoplastic/pancreatic neoplasm
+9416477_Abstract.txt
+572/chronic myeloid leukemia/chronic myeloid leukemia
+1394/chronic myeloid leukemia/chronic myeloid leukemia
+9818593_Abstract.txt
+1665/cardiomyopathy/cardiomyopathy
+5945714_Discussion.txt
+99/first breast cancer/female breast cancer
+1150/first breast cancer/female breast cancer
+3049/first breast cancer/female breast cancer
+5861/first breast cancer/female breast cancer
+7245/contrast breast cancer/carcinoma of breast
+488/cervix/carcinoma cervix uteri
+9361766_Discussion.txt
+5791/inflammatory bowel disease/inflammatory bowel disease
+6655/central nervous system/central nervous system disease
+9095386_4. Discussion.txt
+3053/muscle disease/muscle tissue disease
+3866/gastric cancer/gastric cancer
+2238/human cytomegalovirus infection/human cytomegalovirus infection
+3233/breast cancer/breast cancer
+3841/breast cancer/breast cancer
+3211/pancreatic cancer/pancreatic cancer
+1494/tumor cell/transitional cell tumor
+9570260_Abstract.txt
+7578153_Discussion.txt
+4695/panic disorder/panic disorder
+2350/comorbid depression/chronic depressive personality disorder
+8314800_Abstract.txt
+135/acute respiratory syndrome/acute respiratory distress syndrome
+128/severe acute respiratory syndrome/severe acute respiratory syndrome
+8276170_Discussion.txt
+194/esophageal cancer/esophageal cancer
+3450/esophageal adenocarcinoma/esophageal carcinoma
+224/breast cancer/breast cancer
+291/tumor cell/transitional cell tumor
+7704199_4. Discussion.txt
+2278/endocrine-treated breast cancer/estrogen-receptor positive breast cancer
+9006883_Discussion.txt
+1729/liver cancer/liver cancer
+9416477_4. Discussion.txt
+5137/autosomal dominant/autosomal dominant disease
+4068/thyroid hormone/thyroid hormone resistance
+5092/disease/disease
+4302655_Discussion.txt
+237/corneal/corneal neovascularization
+2800/disease/disease
+8232996_Discussion.txt
+4393/cardiac arrest/cardiac arrest
+4840/cardiac arrest/cardiac arrest
+2589/left ventricle/left ventricular hypertrabeculation
+2074/disease/disease
+2665/disease/disease
+5650339_DISCUSSION.txt
+444/colorectal cancers/colorectal cancer
+1778/colorectal cancer/colorectal cancer
+300/gastric cancer/gastric cancer
+1713/gastric cancer/gastric cancer
+422/esophageal cancer/esophageal cancer
+1350/esophageal carcinoma/esophageal carcinoma
+332/lung cancer/lung cancer
+1948/lung cancer/lung cancer
+1280/breast cancer/breast cancer
+1176/pancreatic cancer/pancreatic cancer
+1256/metastatic/metastatic carcinoma
+1739/papillary thyroid carcinoma/papillary follicular thyroid adenocarcinoma
+2060/nasopharyngeal carcinoma/nasopharynx carcinoma
+8786523_Abstract.txt
+180/obstructive sleep/obstructive sleep apnea
+2072/periodontal disease/periodontal disease
+5158030_Discussion.txt
+4249/cancer cell/cell type cancer
+5056/chronic myelogenous leukemia/chronic myelogenous leukemia
+4335/pancreatic ductal carcinoma/pancreatic ductal carcinoma
+4190/prostate cancer/prostate cancer
+4024/esophageal squamous cell carcinoma/esophagus squamous cell carcinoma
+3835/breast cancer/breast cancer
+5451/renal cancer/renal cancer
+4977/cervical cancer/cervical cancer
+6754375_Discussion.txt
+1331/oral carcinoma/oral squamous cell carcinoma
+3154/ovarian cancer/ovarian cancer
+1054/pancreatic cancer/pancreatic cancer
+371/pancreatic cancer/pancreatic cancer
+57/digestive system/digestive system cancer
+820/non-small-cell lung cancer/non-small cell lung carcinoma
+9565127_4. Discussion.txt
+7318/infectious diseases/infectious disease
+6708/disease/disease
+2103/cerebrovascular diseases/cerebrovascular disease
+1541/influenza viruses/influenza
+5672786_Discussion.txt
+6405/aggressive periodontitis/aggressive periodontitis
+574/periodontal disease/periodontal disease
+7735/periodontal disease/periodontal disease
+421/disease/disease
+5061/disease/disease
+4844106_Abstract.txt
+235/spinal muscular atrophy/spinal muscular atrophy
+7552903_Abstract.txt
+87/pancreatic cancer/pancreatic cancer
+196/pancreatic cancer/pancreatic cancer
+39/diabetes mellitus/diabetes mellitus
+4370594_Abstract.txt
+60/malignant peritoneal mesothelioma/malignant mesothelioma of peritoneum
+70/peritoneal mesothelioma/peritoneal mesothelioma
+349/peritoneal mesothelioma/peritoneal mesothelioma
+476/peritoneal mesothelioma/peritoneal mesothelioma
+856/peritoneal mesothelioma/peritoneal mesothelioma
+1321/peritoneal mesothelioma/peritoneal mesothelioma
+6972945_Discussion.txt
+7029304_Abstract.txt
+175/chromophobe renal cell carcinoma/chromophobe renal cell carcinoma
+3320601_Abstract.txt
+7609066_Discussion.txt
+5725/cavernous malformations/cavernous angiomatous malformations
+8592735_Abstract.txt
+226/hepatocellular carcinoma/hepatocellular carcinoma
+5147974_Discussion.txt
+5558/chromosome 13q31.3/chromosome 17p13.3 centromeric duplication syndrome
+1681/thoracic aorta/thoracic aortic aneurysm
+613/aortic/aortic aneurysm
+9408187_4. Discussion.txt
+3596/lower respiratory tract/lower respiratory tract disease
+1745/middle ear/middle ear cholesteatoma
+4568/chronic persistent/chronic persistent hepatitis
+4775/gastrointestinal system/gastrointestinal system disease
+274/upper respiratory/upper respiratory tract disease
+3893/upper-respiratory tract/upper respiratory tract disease
+5779/upper respiratory tract/upper respiratory tract disease
+6340956_Discussion.txt
+321/cancer/cancer
+2612/cancer/cancer
+4788/cancer/cancer
+10770/lung carcinoma/lung carcinoma
+9428/lung cancer/lung cancer
+13074/lung cancer/lung cancer
+10732/glioblastoma cell/giant cell glioblastoma
+9477/lung cell/lung small cell carcinoma
+5302952_Abstract.txt
+396/human prostate cancer/hereditary prostate cancer
+482/human prostate cancer/hereditary prostate cancer
+1182/human prostate cancer/hereditary prostate cancer
+104/prostate cancer/prostate cancer
+402/prostate cancer/prostate cancer
+488/prostate cancer/prostate cancer
+1188/prostate cancer/prostate cancer
+1275/prostate cancer/prostate cancer
+9818593_4. Discussion.txt
+2340/central nervous system/central nervous system disease
+4473/vascular tissue/vascular tissue disease
+5626936_Abstract.txt
+1852/immune complex/immune complex disease
+403/gastric glandular disease/gastric disease
+6340956_Abstract.txt
+46/cancer cell/cell type cancer
+563/cancer cell/cell type cancer
+1479/cancer cell/cell type cancer
+886/lung carcinoma/lung carcinoma
+7817995_Discussion.txt
+4750/amyotrophic lateral sclerosis/amyotrophic lateral sclerosis
+4955/ethylmalonic encephalopathy/ethylmalonic encephalopathy
+4089/nervous system/nervous system disease
+8247374_Discussion.txt
+2121/colorectal cancer/colorectal cancer
+2015/ovarian cancer/ovarian cancer
+2034/endometrial cancer/endometrial cancer
+347/dihydropyrimidine dehydrogenase/dihydropyrimidine dehydrogenase deficiency
+4772/malignant/malignant neoplasm
+4580/tumor cell/transitional cell tumor
+1003/glucose metabolism/glucose metabolism disease
+1664/glucose metabolism/glucose metabolism disease
+1783/glucose metabolism/glucose metabolism disease
+8902169_Abstract.txt
+9888429_Discussion.txt
+3829/atherosclerosis autoimmune/autoimmune atherosclerosis
+143/colorectal cancer/colorectal cancer
+4401/colorectal cancer/colorectal cancer
+4515/colorectal cancer/colorectal cancer
+4076/ovarian cancer/ovarian cancer
+1230/immune system/immune system disease
+4376/hereditary non-polyposis colorectal cancer/hereditary nonpolyposis colorectal cancer
+4139/gastric cancer/gastric cancer
+3727/natural killer cells/natural killer cell leukemia
+4165/lung cancer/lung cancer
+60/ulcerative colitis/ulcerative colitis
+11/autoimmune disease/autoimmune disease
+3846/autoimmune diseases/autoimmune disease
+1808/adenomatous polyps/adenocarcinoma in adenomatous polyp
+3984243_Abstract.txt
+40/gastric cancer/gastric cancer
+368/gastric cancer/gastric cancer
+584/gastric cancer/gastric cancer
+1391/gastric cancer/gastric cancer
+1492/gastric cancer/gastric cancer
+894/tumor tissue/tumor of adipose tissue
+1183/tumor tissue/tumor of adipose tissue
+9408187_Abstract.txt
+393/middle ear disease/middle ear disease
+1789/upper respiratory tract/upper respiratory tract disease
+9718849_Abstract.txt
+1211/schizophrenia which/schizophrenia
+4636297_Discussion.txt
+974/cancer cell/cell type cancer
+1286/colon cancer/colon cancer
+2158/colon cancer/colon cancer
+5079/lung cancer/lung cancer
+5059/cisplatin-resistant lung cancer/cancer of lung
+4951690_Abstract.txt
+106/interstitial lung disease/interstitial lung disease
+245/interstitial lung diseases/interstitial lung disease
+119/lung disease/lung disease
+258/lung diseases/lung disease
+6753626_Abstract.txt
+7564071_4. Discussion.txt
+4302655_Abstract.txt
+563/rheumatoid arthritis/rheumatoid arthritis
+7139946_Abstract.txt
+1119/benign prostate/benign adenoma of prostate
+1469/benign prostate/benign adenoma of prostate
+1682/benign prostate/benign adenoma of prostate
+8123883_Abstract.txt
+306/alopecia areata/alopecia areata
+394/hair follicle/hair follicle neoplasm
+4550874_Abstract.txt
+6737833_Abstract.txt
+476/primary immunodeficiencies/primary immunodeficiency disease
+5773598_Discussion.txt
+3409/nasal cavity/nasal cavity disease
+2995/disease/disease
+3823138_Discussion.txt
+7765946_3. Discussion.txt
+2504/cancer cell/cell type cancer
+8261/epithelial cancer/epithelial cancer
+5444857_Abstract.txt
+2008/infectious diseases/infectious disease
+1746/hyperkalemia hyperphosphatemia/hyperphosphatemia
+1030/uric acid/uric acid nephrolithiasis
+109/acute kidney/acute kidney failure
+1719/acute kidney/acute kidney failure
+1450/skeletal muscle/skeletal muscle cancer
+8791029_Discussion.txt
+3758/heparan sulfate/heparan sulfate sulfatase deficiency
+11564/neurodegenerative diseases/neurodegenerative disease
+1939/lipid metabolism/lipid metabolism disorder
+4844106_Discussion.txt
+3268/spinal cord/spinal cord disease
+1662/liver/liver cirrhosis
+2807459_Abstract.txt
+99/lung adenocarcinoma/lung adenocarcinoma
+554/lung adenocarcinoma/lung adenocarcinoma
+292/lung cancer/lung cancer
+1286/lung cancer/lung cancer
+6995577_4. Discussion.txt
+1328/peripheral neuropathy/peripheral neuropathy
+1339/neuropathy autonomic/neuropathy
+9980199_Discussion.txt
+4582/hypoglycemia/hypoglycemia
+2913650_Abstract.txt
+390/akinetic mutism/akinetic mutism
+626/akinetic mutism/akinetic mutism
+8853288_Abstract.txt
+265/musculoskeletal system/musculoskeletal system disease
+5158030_Abstract.txt
+143/colorectal cancer/colorectal cancer
+8123883_3. Discussion.txt
+10060/cell type/cell type cancer
+6255/skin inflammation/skin inflammation
+7360/hair follicles/hair follicle neoplasm
+7029304_4. Discussion.txt
+1249/colorectal cancer/colorectal cancer
+2891/hepatocellular carcinoma/hepatocellular carcinoma
+2187/lung adenocarcinoma/lung adenocarcinoma
+2743/lung adenocarcinoma/lung adenocarcinoma
+2285/lung cancer/lung cancer
+2662/epithelial ovarian cancer/epithelial cancer
+1942/breast cancer/breast cancer
+2059/breast cancer/breast cancer
+2696/breast cancer/breast cancer
+2824/breast cancer/breast cancer
+5023968_Abstract.txt
+364/autism spectrum disorders/autism spectrum disorder
+85/visual cortex/visual cortex dysfunction
+436/visual cortex/visual cortex dysfunction
+9565127_Abstract.txt
+219/chronic obstructive pulmonary disease/chronic obstructive pulmonary disease
+3775523_Abstract.txt
+9095386_3. Results and Discussion.txt
+1979/colon carcinoma/colon carcinoma
+1800/human cytomegalovirus infection/human cytomegalovirus infection
+4698282_Discussion.txt
+2262/inflammatory bowel disease/inflammatory bowel disease
+5114/inflammatory bowel disease/inflammatory bowel disease
+2564/breast tumor/breast tumor
+3593/breast tumor/breast tumor
+2537/lymph node/lymph node cancer
+4891/dendritic cell/dendritic cell deficiency
+112/breast cancer/breast cancer
+203/breast cancer/breast cancer
+649/breast cancer/breast cancer
+2491/breast cancer/breast cancer
+2713/breast cancer/breast cancer
+2864/breast cancer/breast cancer
+3564/breast cancer/breast cancer
+3672/breast cancer/breast cancer
+4104/breast cancer/breast cancer
+5486/breast cancer/breast cancer
+2317/multiple sclerosis/multiple sclerosis
+4760/bone marrow/bone marrow disease
+5060/rheumatoid arthritis/rheumatoid arthritis
+9095386_Abstract.txt
+9288359_Abstract.txt
+7409151_Abstract.txt
+1149/breast tumors/breast tumor
+1654/breast cancer/breast cancer
+306/breast cancer/breast cancer
+401/breast cancer/breast cancer
+1020/breast cancers/breast cancer
+776/metastatic tumor/malignant tumor
+9992796_Discussion.txt
+1999/noise-induced hearing loss/neural hearing loss
+2838/tympanic membrane/tympanic membrane disease
+2964/tympanic membrane/tympanic membrane disease
+7664851_Abstract.txt
+521/partial androgen insensitivity syndrome/partial androgen insensitivity syndrome
+1387/disease/disease
+8184989_Abstract.txt
+72/neurofibromatosis type 1/neurofibromatosis 1
+1325/malignant tumors/malignant tumor
+1058/cutaneous neurofibromas/cutaneous ganglioneuroma
+463/disease/disease
+5833457_Discussion.txt
+334/hypertrophic/hypertrophic cardiomyopathy
+4658/hypertrophic/hypertrophic cardiomyopathy
+6575/hypertrophic/hypertrophic cardiomyopathy
+7112/disease/disease
+3320601_Discussion.txt
+13246/immune system/immune system disease
+3708/upper respiratory/upper respiratory tract disease
+10715/upper respiratory tract/upper respiratory tract disease
+9622975_Abstract.txt
+38/pancreatic cancer/pancreatic cancer
+227/pancreatic cancer/pancreatic cancer
+4016835_Abstract.txt
+66/essential hypertension/essential hypertension
+548/essential hypertensive/essential hypertension
+1595/essential hypertension/essential hypertension
+6753626_Discussion.txt
+9604124_Abstract.txt
+353/liver cirrhosis/liver cirrhosis
+797/liver cirrhosis/liver cirrhosis
+958/liver cirrhosis/liver cirrhosis
+1083/liver cirrhosis/liver cirrhosis
+1388/liver cirrhosis/liver cirrhosis
+1863/liver cirrhosis/liver cirrhosis
+1971/liver cirrhosis/liver cirrhosis
+1508/insulin resistance/insulin resistance
+4598861_Discussion.txt
+440/hepatocellular carcinoma/hepatocellular carcinoma
+885/hepatocellular carcinoma/hepatocellular carcinoma
+2445/lymph node metastasis/lymph node carcinoma
+4490/bile duct/bile duct cyst
+343/bone marrow/bone marrow disease
+4389/liver/liver cirrhosis
+8508478_4. Discussion.txt
+2478/uric acid/uric acid nephrolithiasis
+3769/type 2 diabetes mellitus/type 2 diabetes mellitus
+4059/type 2 diabetes/type 2 diabetes
+4636297_Abstract.txt
+9992796_Abstract.txt
+212/middle ear/middle ear cholesteatoma
+733/tympanic membrane/tympanic membrane disease
+6707240_Abstract.txt
+1184/primary tumour/primary brain tumor
+4463699_3. Discussion.txt
+1893/peripheral arterial disease/peripheral artery disease
+1091/acute aortic dissection/aortic dissection
+3446/aneurysmal aorta/aortic aneurysm
+3621/aneurysmal aorta/aortic aneurysm
+9719507_Discussion.txt
+239/nervous system/nervous system disease
+3386/mania depression/manic depression
+3496/disease/disease
+5854761_Discussion.txt
+1018/conjunctival/conjunctival pterygium
+1761/optic neuropathy/optic neuropathy
+515/optic nerve/optic nerve disease
+1822/optic disc/optic disk drusen
+750/anterior uveitis/anterior uveitis
+3168/anterior uveitis/anterior uveitis
+1207/vitreous/vitreous detachment
+2838/vitreous/vitreous detachment
+3660299_Abstract.txt
+36/polycystic ovary/polycystic ovary
+160/polycystic ovary/polycystic ovary
+1386/insulin resistant/insulin resistance
+8314800_Discussion.txt
+561/disease/disease
+1711/disease/disease
+2486/disease/disease
+6972945_Abstract.txt
+1422/rheumatoid arthritis/rheumatoid arthritis
+2534/rheumatoid arthritis/rheumatoid arthritis
+7217914_Discussion.txt
+2328/gastric cancer/gastric cancer
+333/breast cancer/breast cancer
+483/breast cancer/breast cancer
+397/non-small cell lung cancer/non-small cell lung carcinoma
+6051636_Discussion.txt
+9096/cholesteatoma it/cholesteatoma
+5285/recurrent cholesteatoma/recurrent cholesteatoma of postmastoidectomy cavity
+2542/breast cancer/breast cancer
+2387/malignant epithelial/malignant epithelial mesothelioma
+8602/disease/disease
+8786/tympanic membrane/tympanic membrane disease
+9258/tympanic membrane/tympanic membrane disease
+2574/oral cavity/oral cavity cancer
+9155/external auditory ear canal/external canal cholesteatoma
+8592735_3. Results and Discussion.txt
+2468/tumor tissue/tumor of adipose tissue
+2504/tumor tissue/tumor of adipose tissue
+2329/liver/liver cirrhosis
+9489697_Abstract.txt
+215/pancreatic ductal adenocarcinoma/pancreatic ductal adenocarcinoma
+1346/pancreatic ductal adenocarcinoma/pancreatic ductal adenocarcinoma
+87/pancreatic cancer/pancreatic cancer
+7139946_3. Discussion.txt
+283/prostate/prostate cancer
+489/prostate/prostate cancer
+2861/prostate/prostate cancer
+5619/prostatic/prostatic urethral cancer
+2241/cancer/cancer
+7698/cancer/cancer
+8822/cancer/cancer
+3318/benign prostate/benign adenoma of prostate
+3911/benign prostate/benign adenoma of prostate
+5052/benign prostate/benign adenoma of prostate
+8694/benign prostate/benign adenoma of prostate
+9270/benign prostate/benign adenoma of prostate
+6181/solid tumors/solid pseudopapillary tumour
+7409151_3. Discussion.txt
+2964/breast tumor/breast tumor
+29/malignant tumors/malignant tumor
+827/breast cancer/breast cancer
+966/breast tumors/breast tumor
+5483/breast cancer/breast cancer
+7420/breast cancer/breast cancer
+430/breast cancer/breast cancer
+615/breast cancer/breast cancer
+1487/breast cancer/breast cancer
+1751/breast cancer/breast cancer
+2050/breast cancers/breast cancer
+2798/breast cancer/breast cancer
+3731/breast cancer/breast cancer
+3833/breast cancer/breast cancer
+4805/breast cancer/breast cancer
+4920/breast cancer/breast cancer
+5337/breast cancer/breast cancer
+6033/breast cancer/breast cancer
+6181/breast cancer/breast cancer
+6403/breast cancer/breast cancer
+6800/breast cancer/breast cancer
+7004/breast cancer/breast cancer
+7630/breast cancer/breast cancer
+8140/breast cancer/breast cancer
+8312/breast cancer/breast cancer
+1463/metastatic/metastatic carcinoma
+2228/these tumor cell/transitional cell tumor
+2855/high tumor grade/high grade glioma
+3775523_DISCUSSION.txt
+4523/prostatic cancer/prostatic cancer
+4370594_Discussion.txt
+4131/colorectal carcinoma/colorectal carcinoma
+3770/colorectal cancers/colorectal cancer
+2006/peritoneal mesothelioma/peritoneal mesothelioma
+2358/peritoneal mesothelioma./peritoneal mesothelioma
+2543/peritoneal mesothelioma/peritoneal mesothelioma
+3678/peritoneal mesothelioma/peritoneal mesothelioma
+3978/peritoneal mesothelioma/peritoneal mesothelioma
+6345/peritoneal mesothelioma/peritoneal mesothelioma
+6511/peritoneal mesothelioma/peritoneal mesothelioma
+1994/sarcomatoid peritoneal mesothelioma/sarcomatoid mesothelioma
+2346/sarcomatoid peritoneal mesothelioma./sarcomatoid mesothelioma
+8902169_Discussion.txt
+4463699_Abstract.txt
+49/abdominal aortic aneurysms/abdominal aortic aneurysm
+3823138_Abstract.txt
+5706903_DISCUSSION.txt
+1789/colorectal cancer/colorectal cancer
+1893/hepatocellular carcinoma/hepatocellular carcinoma
+167/ovarian carcinoma/ovarian carcinoma
+549/ovarian cancer/ovarian cancer
+586/ovarian tumor metastasis/obsolete ovarian metastasis
+1025/ovarian carcinoma/ovarian carcinoma
+1091/ovarian cancer/ovarian cancer
+1299/ovarian cancer/ovarian cancer
+1713/ovarian cancer/ovarian cancer
+2093/ovarian cancer/ovarian cancer
+2241/ovarian cancer/ovarian cancer
+2906/ovarian cancer/ovarian cancer
+3018/ovarian cancer/ovarian cancer
+3303/ovarian tumor metastasis/obsolete ovarian metastasis
+3468/ovarian cancer/ovarian cancer
+3803/ovarian cancer/ovarian cancer
+4025/ovarian cancer/ovarian cancer
+4131/ovarian cancer/ovarian cancer
+4431/ovarian cancer/ovarian cancer
+4793/ovarian cancer/ovarian cancer
+5645/ovarian cancer/ovarian cancer
+5739/ovarian cancer/ovarian cancer
+6174/ovarian cancer/ovarian cancer
+757/ovarian carcinomas/ovarian carcinoma
+4506/prostate cancer/prostate cancer
+199/ovarian fallopian/ovarian endometriosis
+1143/endometrioid carcinoma/endometrioid carcinoma
+1117/mucinous clear cell/multilocular clear cell renal cell carcinoma
+9489697_Discussion.txt
+5258/colon cancer/colon cancer
+3645/hepatocellular carcinoma/hepatocellular carcinoma
+3514/pancreatic carcinoma/pancreatic carcinoma
+3609/colon cancers/colon cancer
+766/pancreatic cancer/pancreatic cancer
+883/pancreatic cancer/pancreatic cancer
+1127/pancreatic cancer/pancreatic cancer
+1499/pancreatic cancer/pancreatic cancer
+3339/pancreatic cancer/pancreatic cancer
+3770/pancreatic cancer/pancreatic cancer
+11147/pancreatic cancers/pancreatic cancer
+11643/pancreatic cancers/pancreatic cancer
+12125/pancreatic cancer/pancreatic cancer
+16877/pancreatic cancer/pancreatic cancer
+9067626_Discussion.txt
+4698282_Abstract.txt
+1286/breast tumor/breast tumor
+1881/breast tumor/breast tumor
+69/breast cancer/breast cancer
+627/breast cancer/breast cancer
+682/breast cancer/breast cancer
+961/breast cancer/breast cancer
+1421/breast cancer/breast cancer
+1715/breast cancer/breast cancer
+2117/breast cancer/breast cancer
+9886470_4. Discussion.txt
+4322/lymphoma extranodal/lymphoma
+10462/lymphoma extranodal/lymphoma
+7435/colon carcinoma/colon carcinoma
+226/immune system/immune system disease
+2245/immune system/immune system disease
+10060/tumor tissue/tumor of adipose tissue
+7536/bone marrow/bone marrow disease
+7607/bone marrow/bone marrow disease
+8047/bone marrow/bone marrow disease
+8232996_Abstract.txt
+1500/cardiac arrest/cardiac arrest
+9718849_Discussion.txt
+135/22q11.2 microdeletion/22q11.2 microduplication syndrome
+3237/heart disease/heart disease
+3279/insulin resistance/insulin resistance
+4951690_Discussion.txt
+5148/lung cell/lung small cell carcinoma
+4007/influenza pneumonia/influenza pneumonia
+5608/that in adipose tissue/tumor of adipose tissue
+5426/myeloid/myeloid leukemia
+5945714_Abstract.txt
+626/breast cancer/breast cancer
+1637/breast cancer/breast cancer
+580/cervix uteri/cervix uteri cancer
+5626936_Discussion.txt
+8047/infectious diseases/infectious disease
+5833457_Abstract.txt
+1354/hypertrophic/hypertrophic cardiomyopathy
+1705/hypertrophic/hypertrophic cardiomyopathy
+1796/hypertrophic/hypertrophic cardiomyopathy
+339/heparan sulfate/heparan sulfate sulfatase deficiency
+726/disease/disease
+9251272_Abstract.txt
+209/spinal stenosis/spinal stenosis
+173/intervertebral disc/intervertebral disc degeneration
+6707240_Discussion.txt
+1530/primary tumour/primary brain tumor
+2729/osteosarcoma tumours/osteosarcoma
+7162859_Discussion.txt
+9569/malignant/malignant neoplasm
+7431/neurotoxicity/neurotoxicity
+5444857_Discussion.txt
+994/uric acid/uric acid nephrolithiasis
+2515/uric acid/uric acid nephrolithiasis
+2634/muscular/muscular dystrophy-dystroglycanopathy
+4808/muscular/muscular dystrophy-dystroglycanopathy
+1402/interstitial nephritis-mediated/interstitial nephritis
+1501/acute tubular/acute tubular necrosis
+1887/acute renal/acute kidney failure
+3294/muscle tissue/muscle tissue disease
+7609066_Abstract.txt
+46/cerebral cavernous malformations/cerebral cavernous malformation
+7578153_Abstract.txt
+284/major depressive disorder/major depressive disorder
+131/panic disorder/panic disorder
+233/anxiety disorders/anxiety disorder
+6754375_Abstract.txt
+49/pancreatic adenocarcinoma/pancreatic adenocarcinoma
+1574/pancreatic cancer/pancreatic cancer
+192/digestive system/digestive system cancer
+9524383_DISCUSSION.txt
+858/fibromatosis desmoplastic fibroblastoma fibroma/fibroma
+785/inflammatory myofibroblast tumor/inflammatory myofibroblastic tumor
+187/small intestine/small intestine cancer
+8/gastrointestinal tract/gastrointestinal tract cancer
+915/tendon sheath/tendon sheath lipoma
+2201/tendon sheath/tendon sheath lipoma
+965/gastrointestinal stromal tumor/gastrointestinal stromal tumor
+4550874_Discussion.txt
+612/dilated cardiomyopathy/dilated cardiomyopathy
+650/dilated cardiomyopathy/dilated cardiomyopathy
+1304/dilated cardiomyopathy/dilated cardiomyopathy
+5393/dilated cardiomyopathy/dilated cardiomyopathy
+418/respiratory failure/respiratory failure
+2358/cardiac disease/coronary heart disease
+4107/pulmonary embolism/pulmonary embolism
+9980199_Abstract.txt
+3984243_Discussion.txt
+3739/colorectal cancer/colorectal cancer
+3687/oral squamous cell carcinomas/oral squamous cell carcinoma
+265/gastric cancer/gastric cancer
+713/gastric cancer/gastric cancer
+762/gastric cancer/gastric cancer
+902/gastric cancer/gastric cancer
+1035/gastric cancer/gastric cancer
+1083/gastric cancer/gastric cancer
+1230/gastric cancer/gastric cancer
+1357/gastric cancer/gastric cancer
+4092/gastric cancer/gastric cancer
+4152/gastric cancer/gastric cancer
+4345/gastric cancer/gastric cancer
+4500/gastric cancer/gastric cancer
+4850/gastric cancer/gastric cancer
+6542/gastric cancer/gastric cancer
+6886/gastric cancer/gastric cancer
+3350/laryngeal squamous cell carcinoma/laryngeal squamous cell carcinoma
+4320/lymph node metastases/lymph node carcinoma
+6636/lymph node metastases/lymph node carcinoma
+3965/central nervous system/central nervous system disease
+2466/gastric cancers/gastric cancer
+4489/metastatic gastric cancer/microinvasive gastric cancer
+3001/bladder cancer/bladder cancer
+5874/bladder cancer/bladder cancer
+3504/pancreatic cancer/pancreatic cancer
+3325/cervix cancer/cervix cancer
+416/tumor tissue/tumor of adipose tissue
+2251/tumor tissue/tumor of adipose tissue
+2742/tumor tissue/tumor of adipose tissue
+9622975_Discussion.txt
+18664/immune system/immune system disease
+16473/vascular abnormalities/vascular abnormalities of conjunctiva
+5931/pancreatic cancer/pancreatic cancer
+10564/solid tumors/solid pseudopapillary tumour
+20119/solid tumors/solid pseudopapillary tumour
+23573/solid tumors/solid pseudopapillary tumour
+27374/solid tumors/solid pseudopapillary tumour
+8923756_Abstract.txt
+475/breast fibroadenoma/breast fibroadenoma
+354/breast cancer/breast cancer
+504/breast cancer/breast cancer
+5896876_Abstract.txt
+6051636_Abstract.txt

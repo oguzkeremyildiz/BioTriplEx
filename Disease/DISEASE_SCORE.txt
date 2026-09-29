@@ -1,0 +1,9466 @@
+6237877_Abstract.xml
+FN:
+Idiopathic pulmonary fibrosis=120
+lung fibrosis=1357
+total FN: 2
+FP:
+disease -> [197, 356, 517]
+pulmonary fibrosis -> [131]
+total FP: 4
+Precision: 0.6 Recall: 0.75 F1-score: 0.6666666666666665
+id count: 8
+6237877_Introduction.xml
+FN:
+Idiopathic pulmonary fibrosis=1
+lung fibrosis=629
+lung fibrosis=1042
+lung fibrosis=2401
+lung fibrosis=2647
+total FN: 5
+FP:
+disease -> [71, 431, 2098, 2307]
+HL -> [2550]
+pulmonary fibrosis -> [12]
+CM -> [881]
+total FP: 7
+Precision: 0.6666666666666666 Recall: 0.7368421052631579 F1-score: 0.7
+id count: 19
+6237877_Methods.xml
+FN:
+Pulmonary fibrosis=2672
+lung fibrosis=5583
+total FN: 2
+FP:
+HL -> [11258]
+flu -> [3117, 4611, 4674, 10413, 11319]
+total FP: 6
+Precision: 0.25 Recall: 0.5 F1-score: 0.3333333333333333
+id count: 4
+6237877_Discussion.xml
+FN:
+lung fibrosis=71
+pulmonary disease=955
+lung fibrosis=1617
+lung fibrosis=2057
+lung fibrosis=2720
+lung fibrosis=3765
+lung fibrosis=3940
+lung fibrosis=4140
+lung fibrosis=4209
+lung fibrosis=5797
+lung fibrosis=6887
+lung fibrosis=6974
+lung fibrosis=7115
+total FN: 13
+FP:
+lung disease -> [4042]
+disease -> [965, 4047]
+flu -> [242, 1471, 4933]
+total FP: 6
+Precision: 0.5 Recall: 0.3157894736842105 F1-score: 0.3870967741935484
+id count: 19
+6237877_Results.xml
+FN:
+lung fibrosis=90
+lung fibrosis=3556
+lung fibrosis=3664
+lung fibrosis=3921
+lung fibrosis=4793
+lung fibrosis=6214
+lung fibrosis=7878
+lung fibrosis=8974
+lung fibrosis=9209
+lung fibrosis=17798
+lung fibrosis=17948
+lung fibrosis=18847
+total FN: 12
+FP:
+HL -> [17710]
+flu -> [6266, 6363, 6452, 7138, 12880, 13519, 14971]
+total FP: 8
+Precision: 0.6 Recall: 0.5 F1-score: 0.5454545454545454
+id count: 24
+6237877 done.
+
+5158030_Discussion.xml
+FN:
+CRC=107
+CRC=462
+CRC=1216
+CRC=1488
+CRC=1638
+CRC=1733
+CRC=2337
+CRC=3731
+HCC=4015
+CRC=4020
+esophageal squamous cell carcinoma=4025
+glioma=4064
+breast ... cancer=4181
+AML=4999
+AML=5189
+CRC=5740
+CRC=5930
+HCC=6508
+HCC=6626
+CRC=6845
+CRC=6986
+CRC=7001
+CRC=7335
+CRC=7424
+CRC=7557
+CRC=7757
+CRC=2699
+total FN: 27
+FP:
+adenomas -> [116]
+leukemia -> [5078]
+noma -> [119, 4055, 4360, 4973]
+RB -> [4618, 4708, 4842, 4945, 5017, 5271, 5681, 5731]
+carcinoma -> [4050, 4355]
+cancer -> [3843, 4201, 4251, 4988, 5459]
+squamous cell carcinoma -> [4036]
+total FP: 22
+Precision: 0.35294117647058826 Recall: 0.3076923076923077 F1-score: 0.3287671232876712
+id count: 39
+5158030_Materials _ Methods.xml file is empty for DISEASE.
+5158030_Results.xml
+FN:
+CRC=42
+CRC=97
+CRC=227
+CRC=473
+CRC=520
+CRC=741
+CRC=13047
+total FN: 7
+FP:
+RB -> [7059, 10295, 10409, 10567, 10981, 11288]
+RP1 -> [12371]
+CON -> [1379, 1389, 1721, 1728, 1738]
+ALS2 -> [6289, 9375]
+RP2 -> [12380]
+TSS -> [6368, 6569, 6939, 7134, 7657, 7856, 8056, 8420, 8774, 8974]
+carcinoma -> [11961]
+noma -> [11966]
+ALS -> [6289, 9375]
+ALD -> [6489, 10116]
+hepatocellular carcinoma -> [11946]
+total FP: 32
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 7
+5158030_Introduction.xml
+FN:
+Cancer=1
+Cancer=327
+breast ... cancer=1977
+lung ... cancer=1985
+hepatic ... cancer=1991
+gastric ... cancer=2000
+esophageal ... cancer=2012
+AML=2199
+glioma=2667
+AML=2678
+CRC=2906
+CRC=2987
+CRC=3392
+CRC=3483
+CRC=3636
+CRC=3730
+colorectal adenomas=3763
+CRC=3833
+CRC=4006
+CRC=4117
+CRC=4264
+CRC=4378
+CRC=4471
+total FN: 23
+FP:
+adenomas -> [3774]
+myeloid leukemia -> [2181]
+leukemia -> [2189, 2228]
+esophageal cancer -> [2012]
+noma -> [1968, 3777]
+rectal cancer -> [2891]
+monocytic leukemia -> [2218]
+colorectal adenoma -> [3763]
+adenoma -> [3774]
+syndrome -> [2257]
+cancer -> [600, 2023, 2414, 2898, 3317]
+total FP: 17
+Precision: 0.2916666666666667 Recall: 0.23333333333333334 F1-score: 0.2592592592592593
+id count: 30
+5158030_Abstract.xml
+FN:
+Colorectal Cancer=59
+CRC=162
+CRC=295
+CRC=518
+CRC=1455
+total FN: 5
+FP:
+cancer -> [154]
+rectal cancer -> [147]
+total FP: 2
+Precision: 0.3333333333333333 Recall: 0.16666666666666666 F1-score: 0.2222222222222222
+id count: 6
+5158030 done.
+
+8853288_Conclusion.xml file is empty for DISEASE.
+8853288_Ethics Statement.xml file is empty for DISEASE.
+8853288_Limits of the Study.xml
+FN:
+OA=82
+OP=89
+OA=251
+OP=258
+OA=490
+total FN: 5
+FP:
+flu -> [671]
+total FP: 1
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 5
+8853288_Conflict of Interest.xml file is empty for DISEASE.
+8853288_Materials and Methods.xml
+FN:
+OA=671
+OP=743
+OA=780
+OP=787
+OA=1037
+OP=1044
+OA=1888
+OP=1939
+OA=3152
+OP=3221
+OA=7351
+OP=7359
+total FN: 12
+FP:
+osteophyte -> [2616, 2725, 2815]
+disease -> [244, 312, 1105]
+alcohol abuse -> [185]
+hepatitis B -> [376]
+hepatitis C -> [399]
+osteoarthritis -> [3196]
+CM -> [4087, 4318]
+hepatitis -> [376, 399]
+autoimmune disease -> [301]
+musculoskeletal system disease -> [1082]
+flu -> [7269]
+MST -> [9452, 9612, 9885]
+muscular disease -> [235]
+arthritis -> [660, 1145, 2107, 2390, 2472, 3201]
+total FP: 27
+Precision: 0.25 Recall: 0.42857142857142855 F1-score: 0.3157894736842105
+id count: 21
+8853288_Discussion.xml
+FN:
+OA=2808
+OP=2815
+OP=3817
+OA=3975
+OP=3982
+OA=4117
+OP=4145
+OP=4461
+OA=5890
+OP=6078
+OA=7273
+total FN: 11
+FP:
+disease -> [2569]
+arthritis -> [2609, 2864]
+bone disease -> [2564]
+flu -> [3309, 4257, 5207]
+MST -> [1061, 6923, 7128, 7425]
+total FP: 11
+Precision: 0.21428571428571427 Recall: 0.21428571428571427 F1-score: 0.21428571428571427
+id count: 14
+8853288_Funding.xml file is empty for DISEASE.
+8853288_Results.xml
+FN:
+OA=449
+OA=513
+OP=579
+OA=756
+OA=1178
+OP=1185
+OA=1331
+OP=1339
+OA=1845
+OP=2043
+OA=2365
+OP=2425
+OA=3120
+OP=3316
+OP=3657
+OP=4129
+OA=4218
+OA=4327
+OA=4469
+OP=4505
+OA=4832
+OP=4877
+OA=5086
+OP=5121
+OA=5134
+OP=5141
+OA=6066
+OP=6330
+total FN: 28
+FP:
+arthritis -> [2414]
+flu -> [2881]
+MST -> [5179, 5597, 5929, 6178, 6432]
+total FP: 7
+Precision: 0.125 Recall: 0.034482758620689655 F1-score: 0.05405405405405405
+id count: 29
+8853288_Introduction.xml
+FN:
+OA=3106
+OP=3129
+OA=3634
+OA=4607
+OP=4615
+OP=4711
+OA=4769
+OP=4914
+OA=4943
+OP=5061
+total FN: 10
+FP:
+disease -> [1057, 2885]
+arthritis -> [1097]
+osteoarthritis -> [1092]
+ptosis -> [330]
+osteoporosis -> [1075]
+bone disease -> [1052]
+MST -> [5483]
+total FP: 8
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 10
+8853288_Publisher’s Note.xml file is empty for DISEASE.
+8853288_Author Contributions.xml file is empty for DISEASE.
+8853288_Data Availability Statement.xml file is empty for DISEASE.
+8853288_Abstract.xml
+FN:
+total FN: 0
+FP:
+flu -> [1051]
+MST -> [754, 1473, 1693]
+total FP: 4
+Precision: 0.2 Recall: 1.0 F1-score: 0.33333333333333337
+id count: 1
+8853288 done.
+
+8123883_4. Materials and Methods.xml file is empty for DISEASE.
+8123883_2. Results.xml file is empty for DISEASE.
+8123883_1. Introduction.xml
+FN:
+Alopecia areata=1
+AA=18
+AA=179
+AA=246
+AA=440
+alopecia totalis=447
+alopecia totalis=543
+alopecia totalis=564
+AA=790
+AA=914
+AA=1021
+AA=1128
+AA=1334
+AA=1523
+AA=2949
+AA=3174
+total FN: 16
+FP:
+anxiety -> [373]
+disease -> [39]
+RP3 -> [3058]
+alopecia -> [447, 467, 543, 564]
+SCT -> [950, 1121, 1192, 1198, 1373, 1507, 1835, 2032, 3087, 3167, 3209, 3292, 3593]
+ptosis -> [2799, 2915]
+autoimmune disease -> [28]
+flu -> [2815]
+total FP: 24
+Precision: 0.04 Recall: 0.058823529411764705 F1-score: 0.04761904761904763
+id count: 17
+8123883_Abstract.xml
+FN:
+AA=323
+AA=675
+AA=807
+AA=1867
+total FN: 4
+FP:
+RP3 -> [1308]
+alopecia -> [306]
+SCT -> [242, 836, 1892, 1981]
+flu -> [580]
+total FP: 7
+Precision: 0.125 Recall: 0.2 F1-score: 0.15384615384615385
+id count: 5
+8123883_3. Discussion.xml
+FN:
+AA=312
+AA=1392
+AA=1565
+AA=4862
+AA=5575
+AA=5660
+AA=12490
+AA=12851
+AA=13026
+total FN: 9
+FP:
+RP3 -> [539, 5171, 12788]
+SCT -> [194, 358, 638, 762, 861, 884, 930, 981, 2077, 2118, 2888, 3602, 3808, 3890, 3935, 4397, 4499, 4772, 5255, 5432, 5696, 6438, 6731, 6839, 7156, 7272, 8146, 8242, 8396, 8617, 9391, 9560, 9749, 9904, 10135, 10527, 10758, 10927, 11063, 11236, 11400, 12509, 12584, 12647, 12884, 12890, 12976, 13134]
+skin inflammation -> [6255]
+flu -> [11911]
+ptosis -> [1481]
+total FP: 54
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 9
+8123883 done.
+
+8885558_Individualized treatment with fluoropyrimidines based on genotyping of the DPYD gene.xml
+FN:
+total FN: 0
+FP:
+syndrome -> [226]
+flu -> [329, 1058, 1190, 1417, 1697, 2044, 2093, 2225, 2756, 2911, 3275, 4334]
+total FP: 13
+Precision: 0.07142857142857142 Recall: 1.0 F1-score: 0.13333333333333333
+id count: 1
+8885558_Introduction.xml
+FN:
+breast ... cancer=171
+total FN: 1
+FP:
+syndrome -> [692]
+rectal cancer -> [186]
+cancer -> [193, 234]
+flu -> [44, 346, 477, 921, 1031, 1216, 1559, 1783]
+total FP: 12
+Precision: 0.3684210526315789 Recall: 0.875 F1-score: 0.5185185185185185
+id count: 8
+8885558_Clinical use of fluoropyrimidines in cancer patients.xml
+FN:
+oesophageal cancer=579
+squamous-cell carcinoma=1213
+coronary vasospasm=6676
+total FN: 3
+FP:
+DHF -> [8696, 8717]
+esophageal cancer -> [580]
+carcinoma of the head and neck -> [1227]
+syndrome -> [6090, 6363]
+disease -> [6785]
+noma -> [1232]
+rectal cancer -> [255]
+CM -> [3649, 4428]
+anal cancer -> [518]
+flu -> [29, 212, 1870, 1984, 4313, 4355, 4470, 4596, 4632, 4688, 4765, 4821, 4886, 5068, 5294, 5324, 5821, 7804, 8215, 8447, 8528, 8562, 8599, 8730, 8865, 8891, 8931, 8973, 9013, 9047, 9074, 9112, 9148, 9310, 9385, 9421, 9629, 9660, 9942, 9982, 10563, 11272, 14375, 15615, 17262, 21162]
+vascular disease -> [6776]
+carcinoma -> [1227]
+neoplasm -> [108]
+cancer -> [262, 421, 523, 591, 646, 755, 791, 862, 967]
+total FP: 70
+Precision: 0.18604651162790697 Recall: 0.8421052631578947 F1-score: 0.3047619047619048
+id count: 19
+8885558_Abstract.xml
+FN:
+total FN: 0
+FP:
+cancer -> [411]
+intestinal tumors -> [382]
+flu -> [220, 280, 1161, 1415, 1504]
+total FP: 7
+Precision: 0.3 Recall: 1.0 F1-score: 0.4615384615384615
+id count: 3
+8885558_Conclusions.xml
+FN:
+total FN: 0
+FP:
+cancer -> [122]
+intestinal tumors -> [93]
+flu -> [14, 1258, 1843, 1932, 2668, 2676]
+total FP: 8
+Precision: 0.2 Recall: 1.0 F1-score: 0.33333333333333337
+id count: 2
+8885558 done.
+
+9489697_Methods.xml
+FN:
+total FN: 0
+FP:
+CF -> [99, 486]
+disease -> [16674, 16707]
+pancreatic tumor -> [13143]
+noma -> [47, 866]
+CM -> [8521]
+flu -> [3139, 3460, 6000, 14314]
+AD2 -> [10390, 10397]
+AD3 -> [10419, 10426]
+AD4 -> [668, 720, 6264, 6677, 6711, 6880, 7042, 7517, 7644, 7727, 7754, 7908, 8104, 8392, 8408, 8471, 10433, 11142, 13130, 16334, 16407, 16762, 16999]
+PSS -> [17267]
+AD7 -> [10691]
+carcinoma -> [42, 861]
+SPS -> [17266]
+cancer -> [12368, 16248, 16368]
+total FP: 47
+Precision: 0.0784313725490196 Recall: 1.0 F1-score: 0.14545454545454545
+id count: 4
+9489697_Results.xml
+FN:
+PDAC=66
+PDAC=139
+PDAC=3566
+PDAC=5567
+PDAC=5629
+PDAC=7894
+PDAC=8648
+PDAC=8938
+PDAC=13724
+PDAC=14996
+PDAC=22337
+PDAC=23888
+PDAC=24211
+PDAC=24773
+PDAC=24992
+PDAC=28161
+PDAC=30640
+pancreatic-cancer=38947
+PDAC=52547
+PDAC=62076
+total FN: 20
+FP:
+AD3 -> [1730, 6677, 6877, 6883, 16405, 16411, 16907, 16913, 16980, 16986, 18112, 18118, 18211, 18217, 18329, 18335, 18399, 18405, 18486, 18492, 21272, 21448, 21854, 22679, 22798, 23019, 23025, 23231, 23237, 30907, 30913, 36491, 62670, 62676]
+AD4 -> [1298, 1737, 1976, 2745, 2976, 3507, 4499, 4790, 5174, 5487, 6359, 6684, 6761, 7215, 7327, 7832, 7874, 8156, 8306, 8426, 8615, 8998, 9047, 17165, 17762, 17807, 17870, 17948, 18004, 18146, 18263, 18551, 18745, 21279, 21457, 21466, 21626, 21719, 21863, 21872, 22150, 22355, 22464, 22689, 22808, 23053, 23182, 23441, 23676, 23807, 23876, 23997, 24030, 24127, 24186, 24299, 24383, 24538, 24634, 24714, 24898, 24980, 25051, 25137, 25201, 25545, 25554, 25614, 25846, 25916, 26000, 26346, 26369, 26558, 26676, 26729, 26768, 26794, 27097, 27257, 28154, 28223, 28334, 28380, 28412, 28446, 28502, 28642, 28782, 28927, 28967, 29009, 29396, 29599, 29716, 29889, 29910, 30066, 30148, 30345, 30527, 30588, 30615, 30938, 33382, 35728, 36007, 36395, 36501, 36666, 36996, 37061, 38049, 38076, 38120, 38387, 38550, 39382, 39572, 39858, 39885, 40984, 41104, 43691, 44486, 44605, 44683, 44866, 44921, 45050, 45129, 45404, 45550, 45734, 45750, 46035, 46259, 50992, 52523, 52633, 52834, 53143, 53230, 53376, 53538, 53695, 53825, 54063, 54402, 54498, 54650, 54747, 54787, 55049, 55153, 55401, 55490, 55649, 55697, 55903, 56069, 56246, 56483, 56609, 56788, 56878, 56971, 57048, 58554, 58695, 58803, 58857, 58968, 59495, 60072, 60165, 60278, 60371, 60478, 60549, 60627, 60720, 60783, 61007, 61249, 61907, 61993, 62069, 62186, 62646, 63035, 63657, 64229, 64560, 65026, 65152, 65241, 65392, 65659, 65714, 66071, 66168, 66531, 66663, 66749, 66983, 67386, 67608, 68123, 68190, 68287, 68349, 68710, 68811, 68991, 69097, 69350, 69386, 69463, 69691, 69815, 70936, 70999, 71367, 71424, 71667, 71811]
+pancreatic cancer -> [921, 1311, 37622]
+CF -> [335, 987, 3801, 4613, 5774, 5982, 6291, 6381]
+AD7 -> [1744, 1986, 6691, 6890, 16421, 16623, 16791, 16924, 16996, 21286, 21523, 21657, 21953, 22021, 30920, 33579, 36040, 36529, 41226, 56810, 56993, 62722]
+ptosis -> [15645, 37379, 41980, 44076, 44230, 58244, 64108, 64386, 64795]
+GO -> [4958]
+cancer -> [932, 1322, 2835, 7386, 7744, 12663, 24147, 32126, 37633, 38228, 38958, 40060]
+CM -> [70636]
+flu -> [10637, 10840, 11141, 11626, 12725, 13458, 18524, 18785, 23305, 30464, 34511, 34540, 42215, 42244, 54546]
+AD2 -> [1723, 6670, 6862, 6868, 16390, 16396, 16489, 16495, 16560, 16566, 16892, 16898, 17791, 17797, 17932, 17938, 18094, 18100, 18247, 18253, 18468, 18474, 21265, 21441, 21847, 22074, 22138, 22672, 22792, 23001, 23007, 23213, 23219, 30892, 30898, 36485, 56797, 56803, 56887, 56893, 56980, 56986, 57057, 57063, 62655, 62661]
+total FP: 378
+Precision: 0.01818181818181818 Recall: 0.25925925925925924 F1-score: 0.03398058252427184
+id count: 27
+9489697_Abstract.xml
+FN:
+PDAC=249
+PDAC=436
+PDAC=916
+PDAC=1134
+PDAC=1282
+PDAC=1380
+PDAC=1521
+total FN: 7
+FP:
+AD4 -> [125, 794, 901, 943, 1012, 1091, 1248, 1593]
+ductal adenocarcinoma -> [226, 1357]
+carcinoma -> [238, 1369]
+noma -> [243, 1374]
+adenocarcinoma -> [233, 1364]
+cancer -> [98]
+total FP: 17
+Precision: 0.15 Recall: 0.3 F1-score: 0.2
+id count: 10
+9489697_Introduction.xml
+FN:
+Pancreatic ductal adenocarcinoma=1
+PDAC=35
+PDAC=216
+PDAC=305
+PDAC=583
+PDAC=974
+PDAC=1212
+PDAC=1688
+PDAC=2221
+PDAC=2333
+PDAC=2432
+PDAC=2565
+PDAC=2849
+PDAC=3370
+PDAC=3580
+PDAC=4185
+PDAC=4513
+PDAC=4642
+PDAC=4789
+PDAC=4982
+PDAC=5296
+total FN: 21
+FP:
+AD4 -> [722, 1805, 1947, 2031, 2246, 2354]
+ductal adenocarcinoma -> [12]
+pancreatic tumor -> [3440]
+carcinoma -> [24, 1385, 3355]
+noma -> [29, 1390, 2442, 3360]
+adenocarcinoma -> [19, 1380]
+cancer -> [444, 515, 1593, 1737, 2004, 2054, 3395, 3632, 4088, 4412]
+total FP: 27
+Precision: 0.35714285714285715 Recall: 0.4166666666666667 F1-score: 0.3846153846153846
+id count: 36
+9489697_Discussion.xml
+FN:
+PDAC=229
+PDAC=391
+PDAC=560
+ovarian ... cancer=1102
+esophageal ... cancer=1111
+PDAC=1390
+PDAC=1813
+PDAC=3240
+PDAC=4704
+PDAC=5167
+PDAC=5723
+PDAC=5964
+PDAC=6093
+PDAC=8260
+PDAC=8587
+PDAC=8767
+PDAC=8947
+PDAC=9056
+PDAC=9356
+PDAC=9444
+PDAC=9520
+PDAC=9766
+PDAC=9875
+PDAC=10153
+PDAC=10780
+PDAC=11244
+KRAS=11259
+TP53=11265
+CDKN2A=11271
+SMAD4=11285
+PDAC=11468
+PDAC=11590
+PDAC=13014
+PDAC=13262
+PDAC=13744
+PDAC=14046
+PDAC=15179
+PDAC=15360
+PDAC=15891
+PDAC=16638
+PDAC=16806
+PDAC=17134
+PDAC=17921
+total FN: 43
+FP:
+noma -> [3534, 3669]
+ptosis -> [5336, 7021, 8399, 11888, 14998, 17732]
+GO -> [12341]
+CM -> [11985]
+SPG2 -> [12386]
+flu -> [3597, 14963, 15350]
+AD2 -> [4295]
+AD4 -> [1466, 1620, 1734, 1776, 1982, 2231, 2467, 2522, 2703, 2996, 3212, 3309, 3387, 3551, 3740, 3809, 4010, 4217, 4252, 4729, 4797, 4891, 5217, 5475, 5577, 5708, 5820, 5953, 6070, 6119, 6293, 6389, 6790, 7075, 7139, 7345, 7636, 7908, 8223, 8310, 8411, 8830, 8907, 9349, 9433, 9498, 9546, 9657, 9734, 10135, 10258, 10331, 10404, 10546, 10817, 10920, 11287, 13086, 13176, 13787, 13962, 14011, 14031, 14113, 14349, 14556, 14680, 15166, 15216, 15264, 15728, 16100, 16407, 16572, 16849, 16929, 16969, 17037, 17222, 17318, 17556, 17643, 17792, 17940]
+AD7 -> [4347]
+carcinoma -> [3529, 3664]
+cancer -> [777, 894, 1138, 1511, 3354, 3619, 3785, 5271, 11173, 11669, 12151, 12737, 16903]
+total FP: 115
+Precision: 0.1417910447761194 Recall: 0.3064516129032258 F1-score: 0.19387755102040813
+id count: 62
+9489697_Supplementary information.xml file is empty for DISEASE.
+9489697 done.
+
+6914845_Materials and Methods.xml
+FN:
+Lung Adenocarcinoma=68
+total FN: 1
+FP:
+carcinoma -> [78, 2007]
+noma -> [83, 2012]
+total FP: 4
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 1
+6914845_Results.xml
+FN:
+Lung Adenocarcinoma=94
+total FN: 1
+FP:
+RB -> [4102, 13453, 14041]
+leukemia -> [11436, 14109]
+sarcoma -> [12953]
+T-cell leukemia -> [11429]
+carcinoma -> [104, 7014, 8368]
+noma -> [109, 7019, 8373]
+lung adenocarcinoma -> [8358]
+adenocarcinoma -> [8363]
+total FP: 15
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 1
+6914845_Abstract.xml
+FN:
+Lung Adenocarcinoma=71
+total FN: 1
+FP:
+RB -> [1133, 1166]
+T-cell leukemia -> [1737]
+carcinoma -> [81, 180, 215, 591, 1269, 1637, 2415]
+noma -> [86, 185, 220, 596, 1274, 1642, 2420]
+lung adenocarcinoma -> [2405]
+adenocarcinoma -> [175, 210, 586, 1264, 1632, 2410]
+total FP: 24
+Precision: 0.2 Recall: 0.8571428571428571 F1-score: 0.32432432432432434
+id count: 7
+6914845_Discussion.xml
+FN:
+total FN: 0
+FP:
+RB -> [1703, 2190]
+disease -> [1234, 2162]
+carcinoma -> [17, 430, 991, 1822, 2089, 4027, 4168, 4432, 4518, 4600, 4793]
+noma -> [22, 435, 996, 1827, 2094, 4032, 4173, 4437, 4523, 4605, 4798]
+ptosis -> [3170, 3316]
+adenocarcinoma -> [12, 425, 986, 1817, 2084, 4022, 4163, 4427, 4513, 4595, 4788]
+total FP: 39
+Precision: 0.23529411764705882 Recall: 1.0 F1-score: 0.38095238095238093
+id count: 12
+6914845_Data Availability Statement.xml file is empty for DISEASE.
+6914845_Author Contributions.xml file is empty for DISEASE.
+6914845_Introduction.xml
+FN:
+Lung adenocarcinoma=1
+total FN: 1
+FP:
+disease -> [349, 779]
+carcinoma -> [11, 458, 562, 1042, 1468, 1857, 2187, 2355, 2527, 2714, 2881]
+noma -> [16, 463, 567, 1047, 1473, 1862, 2192, 2360, 2532, 2719, 2886]
+adenocarcinoma -> [6, 453, 557, 1037, 1463, 1852, 2182, 2350, 2522, 2709, 2876]
+malignant tumor -> [61, 266]
+total FP: 37
+Precision: 0.26 Recall: 0.9285714285714286 F1-score: 0.40625
+id count: 14
+6914845 done.
+
+5945714_Materials and Methods.xml
+FN:
+Cancer=63
+total FN: 1
+FP:
+PSS -> [3788]
+primary breast cancer -> [1721]
+primary cancer -> [941, 2960, 3010]
+male genital cancer -> [1439, 1693, 3318, 3576]
+SPS -> [3787]
+cancer -> [830, 853, 1003, 1473, 1560, 1590, 1736, 1800, 1832, 1862, 1957, 1999, 2069, 3274, 3609, 3668]
+total FP: 26
+Precision: 0.5272727272727272 Recall: 0.9666666666666667 F1-score: 0.6823529411764705
+id count: 30
+5945714_Results.xml
+FN:
+Cancer=32
+Breast Cancer=46
+Cancer=6400
+Breast Cancer=6413
+total FN: 4
+FP:
+primary breast cancer -> [273]
+primary cancer -> [3204, 3313, 5904, 6013]
+male genital cancer -> [6543, 8401]
+cancer -> [123, 162, 182, 224, 253, 288, 343, 425, 464, 512, 623, 677, 714, 794, 899, 956, 1009, 1208, 1362, 1417, 1483, 1507, 1529, 1667, 1876, 3715, 3741, 3814, 4001, 4127, 4184, 4405, 4458, 4548, 4612, 4804, 4826, 4919, 5050, 6490, 6622, 6696, 6734, 6766, 6910, 6998, 7036, 7137, 7231, 7281, 7353, 7373, 7433, 7929, 8435, 8605, 9617, 9637, 9730, 9751, 9843, 9863, 9951, 9972]
+primary ovarian cancer -> [3699, 3798, 4389, 6982, 7265, 7913]
+total FP: 77
+Precision: 0.4900662251655629 Recall: 0.9487179487179487 F1-score: 0.6462882096069869
+id count: 78
+5945714_Introduction.xml
+FN:
+Breast cancer=183
+total FN: 1
+FP:
+primary cancer -> [851, 1183, 2568]
+male genital cancer -> [618, 1038, 1294, 2280, 2749]
+cancer -> [35, 74, 190, 265, 380, 423, 488, 651, 814, 904, 938, 1072, 1143, 1229, 1248, 1328, 1840, 1912, 2000, 2074, 2126, 2329, 2406, 2425, 2576, 2597, 2782]
+primary ovarian cancer -> [922]
+total FP: 36
+Precision: 0.49295774647887325 Recall: 0.9722222222222222 F1-score: 0.6542056074766356
+id count: 36
+5945714_Discussion Rev.xml
+FN:
+cervical carcinoma=261
+uterine corpus ... cancer=4152
+total FN: 2
+FP:
+primary breast cancer -> [355, 6276, 7090]
+primary cancer -> [6424, 6680, 7404]
+noma -> [275]
+flu -> [4788]
+breast tumor -> [7446]
+carcinoma -> [270]
+male genital cancer -> [4991, 5195, 5638, 6866]
+cancer -> [75, 112, 178, 370, 455, 665, 739, 901, 998, 1018, 1098, 1163, 1275, 1307, 1427, 1556, 1673, 1701, 1796, 1900, 2026, 2046, 2174, 2305, 2409, 2630, 2724, 2882, 3032, 3062, 3203, 3264, 3571, 3651, 3710, 3754, 3815, 3917, 3936, 4031, 4179, 4247, 4316, 4335, 4364, 4588, 4694, 4738, 5042, 5074, 5138, 5208, 5266, 5339, 5408, 5472, 5671, 5708, 5774, 5874, 6291, 6732, 6925, 7105, 7172, 7206, 7262, 7339, 7674, 7804, 7965]
+primary ovarian cancer -> [3016, 3248, 3738, 7190, 7788]
+total FP: 90
+Precision: 0.47368421052631576 Recall: 0.9759036144578314 F1-score: 0.6377952755905512
+id count: 83
+5945714_Abstract.xml
+FN:
+Breast Cancer=73
+Breast cancer=319
+Breast cancer=874
+total FN: 3
+FP:
+primary cancer -> [378]
+male genital cancer -> [554, 821, 1620]
+cancer -> [326, 643, 881, 941, 968, 1016, 1102, 1331, 1654, 1782, 1888]
+total FP: 15
+Precision: 0.4827586206896552 Recall: 0.8235294117647058 F1-score: 0.608695652173913
+id count: 17
+5945714 done.
+
+4463699_5. Conclusions.xml
+FN:
+AAA=89
+cardiovascular disease=312
+total FN: 2
+FP:
+vascular disease -> [318]
+disease -> [327]
+total FP: 2
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 2
+4463699_4. Experimental Section.xml
+FN:
+AAA=820
+peripheral arterial disease=1192
+AAA=1601
+AAA=3117
+AAA=3302
+AAA=5671
+total FN: 6
+FP:
+disease -> [1212]
+total FP: 1
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 6
+4463699_1. Introduction.xml
+FN:
+Abdominal aortic aneurysm=1
+AAA=28
+AAA=1739
+AAA=1844
+AAA=1895
+AAA=2141
+AAA=2251
+AAA=2348
+systemic lupus erythematosis=2536
+AAA=2687
+total FN: 10
+FP:
+aortic aneurysm -> [11]
+disease -> [46, 309, 1418, 2505]
+arthritis -> [2525]
+syndrome -> [2579]
+lupus -> [2545]
+flu -> [264, 1173]
+total FP: 10
+Precision: 0.3333333333333333 Recall: 0.3333333333333333 F1-score: 0.3333333333333333
+id count: 15
+4463699_Discussion.xml
+FN:
+AAA=89
+AAA=666
+AAA=1618
+AAA=1722
+peripheral arterial disease=1894
+PAD=1923
+PAD=2008
+AAA=3153
+AAA=3492
+AAA=3799
+AAA=4668
+AAA=4835
+total FN: 12
+FP:
+disease -> [235, 1914, 4013]
+vascular disease -> [226]
+aortic dissection -> [1097]
+flu -> [2496, 2796]
+ptosis -> [1476, 1549]
+total FP: 9
+Precision: 0.1 Recall: 0.07692307692307693 F1-score: 0.08695652173913043
+id count: 13
+4463699_Abstract.xml
+FN:
+Abdominal aortic aneurysm=87
+AAA=114
+AAA=270
+AAA=515
+AAA=652
+AAA=678
+AAA=817
+AAA=841
+AAA=1239
+AAA=1579
+total FN: 10
+FP:
+aortic aneurysm -> [59, 97]
+HL -> [1276]
+flu -> [340]
+total FP: 4
+Precision: 0.2 Recall: 0.09090909090909091 F1-score: 0.12500000000000003
+id count: 11
+4463699_2. Results.xml
+FN:
+AAA=87
+AAA=207
+AAA=636
+AAA=889
+AAA=1196
+AAA=1374
+AAA=1467
+AAA=4446
+AAA=5397
+AAA=5533
+AAA=5750
+AAA=6010
+AAA=6154
+AAA=6269
+AAA=6441
+AAA=6743
+AAA=6762
+AAA=6997
+AAA=7591
+AAA=10614
+AAA=10713
+AAA=10978
+AAA=11062
+AAA=10318
+AAA=9862
+AAA=9733
+AAA=9600
+AAA=9945
+total FN: 28
+FP:
+HL -> [1318, 1507, 2690, 4977]
+total FP: 4
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 28
+4463699 done.
+
+8902169_Ethics Statement.xml file is empty for DISEASE.
+8902169_Results.xml file is empty for DISEASE.
+8902169_Conflict of Interest.xml file is empty for DISEASE.
+8902169_Introduction.xml
+FN:
+Brucellosis=1
+Brucellosis=555
+total FN: 2
+FP:
+Malta fever -> [295]
+RB -> [4776]
+disease -> [329, 425, 539]
+flu -> [2923]
+ptosis -> [1892, 2075]
+brucellosis -> [912, 3592, 3658]
+total FP: 11
+Precision: 0.15384615384615385 Recall: 0.5 F1-score: 0.23529411764705882
+id count: 4
+8902169_Author Contributions.xml file is empty for DISEASE.
+8902169_Publisher_s Note.xml file is empty for DISEASE.
+8902169_Discussion.xml
+FN:
+Brucellosis=1
+total FN: 1
+FP:
+MED1 -> [3618, 3922, 4018]
+ED1 -> [3619, 3923, 4019]
+CF -> [1992]
+disease -> [58]
+HGE -> [8122, 8490]
+ARH -> [8120, 8488]
+brucellosis -> [553, 962]
+NF2 -> [4025]
+flu -> [839]
+total FP: 16
+Precision: 0.1111111111111111 Recall: 0.6666666666666666 F1-score: 0.1904761904761905
+id count: 3
+8902169_Data Availability Statement.xml file is empty for DISEASE.
+8902169_Funding.xml file is empty for DISEASE.
+8902169_Abstract.xml
+FN:
+total FN: 0
+FP:
+MED1 -> [2044]
+ED1 -> [2045]
+HGE -> [2351]
+ARH -> [2349]
+total FP: 4
+Precision: 0.42857142857142855 Recall: 1.0 F1-score: 0.6
+id count: 3
+8902169_Materials and Methods.xml
+FN:
+Brucellosis=2886
+Brucellosis=3143
+Brucellosis=3219
+total FN: 3
+FP:
+GO -> [6864, 7041]
+RB -> [3051, 5745]
+CF -> [1519, 1585, 1691]
+TIA -> [8010, 8168]
+total FP: 9
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 3
+8902169 done.
+
+4016835_5. Discussion.xml
+FN:
+cardiovascular disease=5384
+EHT=953
+total FN: 2
+FP:
+disease -> [5399, 7934]
+vascular disease -> [5390, 7925]
+hypertension -> [248, 545, 1077]
+total FP: 7
+Precision: 0.7083333333333334 Recall: 0.8947368421052632 F1-score: 0.7906976744186046
+id count: 19
+4016835_1. Introduction.xml
+FN:
+EHT=32
+EHT=1514
+total FN: 2
+FP:
+essential hypertension -> [3140]
+disease -> [106]
+hypertension -> [18, 2097, 3150, 3378, 3951]
+flu -> [481, 2358]
+total FP: 9
+Precision: 0.47058823529411764 Recall: 0.8 F1-score: 0.5925925925925927
+id count: 10
+4016835_Abstract.xml
+FN:
+total FN: 0
+FP:
+hypertension -> [76, 1605]
+total FP: 2
+Precision: 0.6 Recall: 1.0 F1-score: 0.7499999999999999
+id count: 3
+4016835_2. Materials and Methods.xml
+FN:
+EHT=2953
+total FN: 1
+FP:
+disease -> [786, 1095, 1134]
+hypertension -> [451, 627]
+total FP: 5
+Precision: 0.6153846153846154 Recall: 0.8888888888888888 F1-score: 0.7272727272727274
+id count: 9
+4016835_4. Genetic Power Test.xml
+FN:
+total FN: 0
+FP:
+total FP: 0
+Precision: 1.0 Recall: 1.0 F1-score: 1.0
+id count: 2
+4016835_3. Results Rev.xml
+FN:
+EHT=921
+EHT=1552
+EHT=1771
+EHT=1902
+EHT=2484
+EHT=2863
+EHT=3711
+EHT=4189
+EHT=4448
+EHT=4580
+EHT=4757
+total FN: 11
+FP:
+disease -> [2550, 3810]
+total FP: 2
+Precision: 0.6 Recall: 0.21428571428571427 F1-score: 0.3157894736842105
+id count: 14
+4016835_6. Conclusion.xml
+FN:
+EHT=277
+total FN: 1
+FP:
+hypertension -> [105, 479, 664, 916]
+flu -> [74]
+total FP: 5
+Precision: 0.4444444444444444 Recall: 0.8 F1-score: 0.5714285714285714
+id count: 5
+4016835 done.
+
+7552903_Abstract.xml
+FN:
+Diabetes mellitus=134
+DM=153
+PaC=215
+DM=249
+PaC=255
+DM=470
+PaC=567
+PaC=695
+PaC=854
+DM=877
+DM=895
+DM=903
+PaC=1103
+DM=1121
+DM=1152
+PaC=1238
+DM=1246
+DM=1342
+DM=1444
+DM=1455
+DM=1491
+DM=1621
+PaC=1700
+DM=598
+PaC=1482
+PaC=1584
+total FN: 26
+FP:
+cancer -> [98, 207]
+diabetes -> [39]
+total FP: 3
+Precision: 0.5714285714285714 Recall: 0.13333333333333333 F1-score: 0.21621621621621623
+id count: 30
+7552903_Results.xml
+FN:
+PaC=73
+DM=90
+DM=130
+PaC=150
+PaC=222
+DM=239
+DM=250
+DM=283
+DM=525
+DM=550
+PaC=630
+DM=638
+DM=659
+DM=743
+DM=1068
+DM=1093
+PaC=1219
+DM=1227
+DM=1464
+PaC=1484
+PaC=1581
+DM=1598
+DM=1658
+DM=1713
+DM=2021
+DM=2026
+DM=2040
+DM=2274
+PaC=2351
+PaC=2379
+DM=2387
+DM=2500
+PaC=2716
+DM=2818
+PaC=2900
+total FN: 35
+FP:
+cancer -> [1979]
+diabetes -> [2002]
+total FP: 2
+Precision: 0.5 Recall: 0.05405405405405406 F1-score: 0.0975609756097561
+id count: 37
+7552903_Discussion.xml
+FN:
+PaC=115
+DM=132
+DM=209
+DM=231
+DM=340
+PaC=360
+DM=447
+PaC=592
+DM=614
+DM=663
+DM=674
+DM=752
+DM=1343
+PaC=1672
+DM=1680
+PaC=1893
+DM=1901
+PaC=1942
+DM=1958
+DM=2093
+PaC=3024
+PaC=3056
+DM=3437
+PaC=3457
+DM=3482
+DM=3597
+DM=3654
+type-2 diabetes=3963
+PaC=4128
+DM=4469
+DM=4480
+PaC=4662
+DM=4670
+DM=4699
+DM=5094
+PaC=5101
+DM=5155
+PaC=5170
+DM=5431
+DM=5462
+DM=5540
+PaC=5668
+PaC=5413
+total FN: 43
+FP:
+hyperglycemia -> [1379]
+breast tumor -> [2581]
+myeloma -> [2686]
+acute myelogenous leukemia -> [2916]
+diabetes -> [3970]
+flu -> [1035]
+total FP: 6
+Precision: 0.45454545454545453 Recall: 0.10416666666666667 F1-score: 0.1694915254237288
+id count: 48
+7552903_Material and Methods.xml
+FN:
+PaC=211
+DM=219
+PaC=268
+DM=284
+DM=292
+DM=780
+DM=815
+DM=829
+Hypertension=1125
+DM=1177
+PaC=5244
+total FN: 11
+FP:
+RB -> [1602, 3022]
+PSS -> [4951]
+SPS -> [4950]
+GO -> [2760, 2834, 3284]
+cancer -> [361, 738]
+HD -> [2368, 3134]
+diabetes -> [761]
+total FP: 12
+Precision: 0.2 Recall: 0.21428571428571427 F1-score: 0.20689655172413796
+id count: 14
+7552903_Introduction.xml
+FN:
+PaC=48
+PaC=183
+PaC=423
+PaC=524
+PaC=596
+PaC=831
+PaC=967
+Diabetes mellitus=972
+DM=991
+DM=1282
+PaC=1353
+PaC=1412
+DM=1488
+colorectal ... cancer=1577
+breast ... cancer=1589
+liver ... cancer=1597
+endometrial ... cancer=1604
+DM=1683
+PaC=1745
+DM=1815
+PaC=1916
+DM=1988
+PaC=2015
+PaC=2228
+DM=2236
+PaC=2283
+PaC=2328
+ovarian ... cancer=2899
+breast ... cancer=2908
+PaC=3074
+DM=3082
+PaC=3635
+DM=3643
+PaC=3855
+DM=3886
+PaC=4022
+PaC=4163
+DM=4171
+PaC=4186
+DM=4202
+DM=4369
+DM=4409
+PaC=4571
+DM=4589
+total FN: 44
+FP:
+CAN -> [19]
+hyperglycemia -> [1046]
+cancer -> [40, 1629, 2926]
+diabetes -> [3186, 3328]
+flu -> [2514]
+total FP: 8
+Precision: 0.5 Recall: 0.15384615384615385 F1-score: 0.23529411764705882
+id count: 52
+7552903 done.
+
+3823138_Results.xml
+FN:
+FSHD=220
+FSHD=249
+FSHD=1984
+FSHD=2102
+FSHD=2349
+FSHD=2733
+FSHD=3010
+FSHD=3171
+FSHD=3314
+FSHD=3448
+FSHD=3641
+FSHD=4694
+FSHD=4786
+FSHD=4822
+FSHD=5369
+FSHD=5664
+FSHD=5964
+FSHD=6215
+FSHD=6465
+FSHD=6796
+DUX4=7372
+FSHD=8374
+FSHD=8862
+FSHD=11900
+FSHD=11974
+FSHD=12285
+FSHD=12428
+FSHD=13115
+FSHD=13273
+FSHD=13393
+FSHD=13506
+FSHD=13563
+FSHD=13659
+total FN: 33
+FP:
+FSHD1 -> [249, 5369, 6465, 6796]
+HD -> [222, 251, 1986, 2104, 2351, 2735, 3012, 3173, 3316, 3450, 3643, 4696, 4788, 4824, 5371, 5666, 5966, 6217, 6467, 6798, 8376, 8651, 8864, 11902, 11976, 12287, 12430, 13117, 13275, 13395, 13508, 13565, 13661]
+flu -> [505, 2439, 3126, 4598, 8685]
+ptosis -> [8239]
+total FP: 43
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 33
+3823138_Materials and methods.xml
+FN:
+FSHD=1736
+total FN: 1
+FP:
+RB -> [7808]
+sarcoma -> [728]
+myosarcoma -> [725]
+ptosis -> [7586]
+CM -> [3565]
+HD -> [1738, 2850]
+flu -> [2386, 2483, 3364, 3659, 6470, 8226]
+total FP: 13
+Precision: 0.07142857142857142 Recall: 0.5 F1-score: 0.125
+id count: 2
+3823138_Introduction.xml
+FN:
+Facioscapulohumeral muscular dystrophy=1
+FSHD1A=41
+FSHD=415
+FSHD1A=661
+FSHD1B=697
+FSHD=1354
+FSHD=1707
+FSHD=1811
+FSHD=1012
+FSHD1B=1872
+FSHD=2097
+FSHD=2292
+FSHD=2621
+FSHD=3320
+muscle atrophy=3540
+FSHD=3802
+muscle atrophy=4040
+muscle atrophy=4444
+FSHD=4811
+FSHD=5016
+FSHD=5212
+FSHD=5267
+FSHD=5559
+FSHD=6869
+total FN: 24
+FP:
+FSHD1 -> [41, 661, 697, 1872]
+muscular dystrophy -> [21]
+HD -> [43, 417, 663, 699, 1014, 1356, 1709, 1813, 1874, 2099, 2294, 2623, 3322, 3804, 4813, 5018, 5103, 5214, 5269, 5561, 6871]
+total FP: 26
+Precision: 0.037037037037037035 Recall: 0.04 F1-score: 0.03846153846153846
+id count: 25
+3823138_Abstract.xml
+FN:
+FSHD=27
+Facioscapulohumeral muscular dystrophy=103
+FSHD=144
+FSHD=499
+muscle atrophy=610
+muscle atrophy=739
+FSHD=797
+FSHD=1196
+FSHD=1306
+FSHD=1762
+total FN: 10
+FP:
+HD -> [29, 146, 501, 799, 1198, 1308, 1764]
+muscular dystrophy -> [124]
+total FP: 8
+Precision: 0.1111111111111111 Recall: 0.09090909090909091 F1-score: 0.09999999999999999
+id count: 11
+3823138_Discussion.xml
+FN:
+FSHD=148
+FSHD=260
+FSHD=590
+FSHD=1753
+FSHD=1931
+FSHD=1960
+FSHD=3973
+muscle atrophy=4475
+muscle atrophy=4734
+FSHD=4793
+FSHD=5000
+FSHD=6054
+FSHD=6741
+FSHD=6719
+FSHD=6813
+FSHD=7921
+FSHD=8102
+FSHD=8957
+FSHD=9216
+FSHD=9525
+FSHD=9636
+FSHD=10288
+FSHD=10315
+FSHD=10422
+FSHD=1225
+total FN: 25
+FP:
+HD -> [150, 262, 592, 1227, 1755, 1933, 1962, 3975, 4795, 5002, 6056, 6721, 6743, 6815, 7923, 8104, 8959, 9218, 9527, 9638, 10290, 10317, 10424]
+myopathy -> [10492]
+ptosis -> [7842]
+total FP: 25
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 25
+3823138 done.
+
+6753626_Data Availability.xml file is empty for DISEASE.
+6753626_Introduction.xml
+FN:
+Acute lymphoblastic leukemia=1
+T-cell ALL=153
+B-cell ... ALL=142
+T-ALL=3978
+total FN: 4
+FP:
+RB -> [1820, 2484]
+leukemia -> [21]
+ALL -> [160, 1108, 1571, 1891, 2026, 3970, 3980]
+disease -> [541, 824, 912]
+lymphoblastic leukemia -> [7]
+ptosis -> [2642]
+total FP: 15
+Precision: 0.5161290322580645 Recall: 0.8 F1-score: 0.6274509803921569
+id count: 20
+6753626_Author Contributions.xml file is empty for DISEASE.
+6753626_Materials and Methods.xml
+FN:
+Leukemia=1111
+T-ALL=3471
+T-ALL=5855
+total FN: 3
+FP:
+RB -> [5763]
+ALL -> [3463, 3473, 3558, 5857]
+ICL -> [1123]
+HL -> [2226]
+myeloid neoplasm -> [295]
+acute leukemia -> [317]
+ALS -> [5571]
+ALD -> [2537]
+neoplasm -> [303]
+flu -> [2157]
+total FP: 13
+Precision: 0.2777777777777778 Recall: 0.625 F1-score: 0.3846153846153846
+id count: 8
+6753626_Discussion.xml
+FN:
+T-ALL=1930
+T-ALL=2715
+T-ALL=2832
+T-ALL=7386
+T-ALL=7727
+T-ALL=7861
+total FN: 6
+FP:
+leukemia -> [7376]
+ALL -> [1776, 1922, 1932, 2038, 2680, 2717, 2731, 2834, 4441, 4820, 5940, 6686, 7388, 7573, 7729, 7863, 8011, 8566]
+CF -> [3251, 4558]
+disease -> [10293]
+lymphoblastic leukemia -> [7362]
+flu -> [4085]
+RB -> [4545, 5603, 7130, 7533]
+CAS -> [2494, 3222, 4067, 8456]
+acute lymphoblastic leukemia -> [7356]
+NF1 -> [2504, 7841, 7953]
+total FP: 36
+Precision: 0.4375 Recall: 0.8235294117647058 F1-score: 0.5714285714285714
+id count: 34
+6753626_Results.xml
+FN:
+T-ALL=742
+T-ALL=1093
+T-ALL=17302
+TAL1=17393
+T-ALL=19216
+total FN: 5
+FP:
+RB -> [3611, 5330, 5432, 5881, 6261, 7345, 15579, 15836]
+IGHM -> [3401, 4410, 14564, 14815, 16476, 16735]
+ALL -> [88, 406, 744, 1078, 1095, 1553, 1575, 1663, 1690, 1715, 2112, 3147, 3984, 4910, 4957, 5274, 6510, 17304, 19218, 19403]
+ED1 -> [682]
+CF -> [2924, 5343]
+CAS -> [2895, 3790, 5959, 6728, 7562, 11485, 11740]
+B-ALL with iAMP21 -> [5272]
+NF1 -> [687, 7400, 13396, 13698, 17708]
+total FP: 50
+Precision: 0.2753623188405797 Recall: 0.7916666666666666 F1-score: 0.40860215053763443
+id count: 24
+6753626_Ethics Statement.xml file is empty for DISEASE.
+6753626_Abstract.xml
+FN:
+T-Cell Acute Lymphoblastic Leukemia=70
+B- ... Acute Lymphoblastic Leukemia=63
+Acute Lymphoblastic Leukemia=234
+T-ALL=1495
+total FN: 4
+FP:
+NF1 -> [1987]
+RB -> [1644]
+B-ALL -> [671]
+ALL -> [477, 673, 700, 1487, 1497, 1661]
+total FP: 9
+Precision: 0.47058823529411764 Recall: 0.6666666666666666 F1-score: 0.5517241379310345
+id count: 12
+6753626 done.
+
+2807459_Introduction.xml
+FN:
+Lung cancer=1
+adenocarcinomas of the lung=3426
+non small cell lung cancer=3724
+total FN: 3
+FP:
+lung cancer -> [3739]
+disease -> [278, 3556]
+carcinoma -> [3431, 3488, 3826, 4583]
+noma -> [356, 3436, 3493, 3831, 4123, 4588]
+adenocarcinoma -> [3426, 3821]
+cancer -> [6, 52, 1607, 3744, 3780]
+flu -> [879, 4869]
+total FP: 22
+Precision: 0.26666666666666666 Recall: 0.7272727272727273 F1-score: 0.3902439024390244
+id count: 11
+2807459_Discussion.xml
+FN:
+prostate ... cancer=3180
+bladder ... cancer=3190
+colon ... cancer=3199
+non-small cell lung cancer=3778
+adenocarcinomas of the lung=6407
+non-small-cell lung cancer=6653
+total FN: 6
+FP:
+lung cancer -> [3793, 6668]
+disease -> [6957]
+carcinoma -> [6412]
+noma -> [6417]
+adenocarcinoma -> [6407]
+MVD -> [6645]
+cancer -> [3216, 3798, 3947, 4944, 6673]
+flu -> [367, 647, 1991, 2927, 6509, 6567]
+total FP: 18
+Precision: 0.35714285714285715 Recall: 0.625 F1-score: 0.45454545454545453
+id count: 16
+2807459_Results.xml file is empty for DISEASE.
+2807459_ABSTRACT.xml
+FN:
+total FN: 0
+FP:
+carcinoma -> [109, 564]
+noma -> [114, 569]
+adenocarcinoma -> [104, 559]
+cancer -> [297, 1291]
+flu -> [536, 1354]
+total FP: 10
+Precision: 0.3333333333333333 Recall: 1.0 F1-score: 0.5
+id count: 5
+2807459_Materials and Methods.xml file is empty for DISEASE.
+2807459 done.
+
+9095386_4. Discussion.xml
+FN:
+COAD=1
+COAD=57
+COAD=159
+COAD=260
+COAD=1013
+COAD=1624
+COAD=2967
+muscle disease=3053
+total FN: 8
+FP:
+disease -> [3060]
+noma -> [580, 4777]
+ptosis -> [934, 1457, 2149, 2428, 2439]
+GO -> [1144]
+adenocarcinoma -> [4767]
+virus infection -> [2254]
+carcinoma -> [575, 4772]
+cancer -> [36, 450, 790, 883, 2649, 3222, 3240, 3848, 3874, 3989, 4819, 4896, 4960, 5272]
+cytomegalovirus infection -> [2244]
+human cytomegalovirus infection -> [2238]
+total FP: 29
+Precision: 0.35555555555555557 Recall: 0.6666666666666666 F1-score: 0.46376811594202905
+id count: 24
+9095386_5. Conclusion.xml
+FN:
+COAD=66
+COAD=107
+COAD=183
+COAD=276
+COAD=334
+total FN: 5
+FP:
+total FP: 0
+Precision: NaN Recall: 0.0 F1-score: NaN
+id count: 5
+9095386_2. Materials and Methods.xml
+FN:
+COAD=529
+COAD=1604
+total FN: 2
+FP:
+GO -> [318, 1117, 1404, 1455]
+CAN -> [3058]
+PSS -> [3176]
+DOS -> [1209]
+LCA -> [3057]
+SPS -> [3175]
+total FP: 9
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 2
+9095386_1. Introduction.xml
+FN:
+Colon cancer=1
+Colon adenocarcinoma=215
+Colon cancer=307
+COAD=605
+CRC=3794
+COAD=3880
+COAD=3952
+Cancer=4045
+COAD=4435
+total FN: 9
+FP:
+carcinoma -> [226, 284, 2643]
+colon cancer -> [169]
+noma -> [231, 289, 2648]
+ARH -> [2783]
+GO -> [4243]
+adenocarcinoma -> [221]
+cancer -> [7, 175, 313, 520, 2527, 2920, 3551]
+HD -> [2010, 2018]
+total FP: 19
+Precision: 0.3448275862068966 Recall: 0.5263157894736842 F1-score: 0.4166666666666667
+id count: 19
+9095386_3. Results and Discussion.xml
+FN:
+COAD=28
+COAD=1092
+COAD=2143
+COAD=2593
+COAD=4039
+COAD=4116
+COAD=4270
+COAD=4383
+COAD=4498
+COAD=312
+total FN: 10
+FP:
+CF -> [2400]
+carcinoma -> [1985]
+noma -> [1990]
+ptosis -> [1708]
+GO -> [998, 1111, 1197]
+cytomegalovirus infection -> [1806]
+human cytomegalovirus infection -> [1800]
+virus infection -> [1816]
+total FP: 10
+Precision: 0.16666666666666666 Recall: 0.16666666666666666 F1-score: 0.16666666666666666
+id count: 12
+9095386_Abstract.xml
+FN:
+Colon Adenocarcinoma=70
+Colon adenocarcinoma=102
+COAD=124
+COAD=254
+COAD=314
+COAD=868
+COAD=1517
+total FN: 7
+FP:
+GO -> [552]
+adenocarcinoma -> [108]
+carcinoma -> [81, 113]
+noma -> [86, 118]
+total FP: 6
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 7
+9095386 done.
+
+4698282_Introduction.xml
+FN:
+Breast cancer=1
+Breast Cancer=2865
+total FN: 2
+FP:
+breast cancer -> [2574]
+mammary tumor -> [1837]
+cancer -> [8, 36, 119, 273, 1468, 1710, 1932, 2091, 2392, 2581, 2720, 2952]
+disease -> [366]
+MDS -> [1186, 1805, 2499]
+total FP: 18
+Precision: 0.4 Recall: 0.8571428571428571 F1-score: 0.5454545454545455
+id count: 14
+4698282_Results.xml
+FN:
+total FN: 0
+FP:
+breast cancer -> [12247]
+cancer -> [73, 170, 336, 410, 577, 809, 1065, 1470, 2900, 3630, 3800, 4550, 4788, 6673, 9829, 10061, 10214, 10346, 10474, 10609, 10967, 11782, 11952, 12254, 13254, 15363, 15557, 15637, 15704, 15786, 15941]
+breast tumor -> [14276, 14655]
+disease -> [1371, 9865]
+total FP: 36
+Precision: 0.47058823529411764 Recall: 1.0 F1-score: 0.6399999999999999
+id count: 32
+4698282_Materials and methods.xml
+FN:
+total FN: 0
+FP:
+breast tumor -> [7363]
+disease -> [219, 329, 366, 2878, 5464]
+XP3 -> [1138]
+cancer -> [189, 274, 2626, 5428, 7130, 7679]
+MDS -> [643, 1189]
+flu -> [7337]
+total FP: 16
+Precision: 0.30434782608695654 Recall: 1.0 F1-score: 0.4666666666666667
+id count: 7
+4698282_Abstract.xml
+FN:
+Breast Cancer=162
+Breast Cancer=776
+Cancer=1268
+total FN: 3
+FP:
+male breast cancer -> [687]
+cancer -> [76, 644, 699, 978, 1438, 1732, 2134]
+female breast cancer -> [685]
+breast tumor -> [1296, 1891]
+total FP: 11
+Precision: 0.3888888888888889 Recall: 0.7 F1-score: 0.5
+id count: 10
+4698282_Conclusions.xml
+FN:
+total FN: 0
+FP:
+cancer -> [124]
+total FP: 1
+Precision: 0.5 Recall: 1.0 F1-score: 0.6666666666666666
+id count: 1
+4698282_Discussion.xml
+FN:
+Crohn’s disease=2189
+total FN: 1
+FP:
+hypersensitivity -> [851]
+breast tumor -> [2582, 3614]
+disease -> [2172, 2197, 2295, 5160]
+arthritis -> [5097]
+cancer -> [119, 210, 658, 2516, 2739, 2790, 2890, 3592, 3700, 4134, 5521]
+MDS -> [1802, 4741]
+total FP: 21
+Precision: 0.4166666666666667 Recall: 0.9375 F1-score: 0.5769230769230769
+id count: 16
+4698282 done.
+
+4598861_Abstract.xml
+FN:
+HCC=220
+HCC=316
+HCC=454
+HCC=1089
+HCC=1213
+total FN: 5
+FP:
+carcinoma -> [84, 209, 1369]
+noma -> [89, 214, 1374]
+total FP: 6
+Precision: 0.3333333333333333 Recall: 0.375 F1-score: 0.35294117647058826
+id count: 8
+4598861_Methods.xml
+FN:
+HCC=1543
+HCC=1572
+Cancer=2405
+Cancer=2440
+total FN: 4
+FP:
+CCA -> [8393, 9385, 9470, 9495, 9576, 9579, 9626]
+disease -> [2006]
+cancer -> [2039, 2166, 2209]
+CM -> [4830]
+Hepatoma -> [4935]
+HD -> [768]
+flu -> [7413]
+total FP: 15
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 4
+4598861_Discussion.xml
+FN:
+HCC=535
+HCC=1152
+HCC=1263
+HCC=1798
+HCC=1850
+HCC=1886
+HCC=2229
+HCC=2299
+HCC=2413
+HCC=2519
+HCC=2613
+HCC=2703
+HCC=2856
+HCC=3015
+HCC=3074
+HCC=3149
+HCC=3211
+HCC=3784
+HCC=3826
+HCC=3890
+HCC=4123
+HCC=4202
+HCC=4547
+HCC=4764
+HCC=4976
+HCC=5047
+HCC=5259
+total FN: 27
+FP:
+carcinoma -> [455, 900]
+noma -> [460, 905]
+total FP: 4
+Precision: 0.42857142857142855 Recall: 0.1 F1-score: 0.16216216216216217
+id count: 30
+4598861_Additional information.xml
+FN:
+total FN: 0
+FP:
+carcinoma -> [96]
+noma -> [101]
+total FP: 2
+Precision: 0.3333333333333333 Recall: 1.0 F1-score: 0.5
+id count: 1
+4598861_Results.xml
+FN:
+HCC=25
+HCC=147
+HCC=227
+HCC=532
+HCC=1984
+HCC=4204
+HCC=4461
+HCC=4813
+HCC=4965
+HCC=6909
+HCC=7044
+HCC=7963
+HCC=11166
+HCC=11243
+HCC=11406
+HCC=11552
+HCC=12132
+total FN: 17
+FP:
+flu -> [11603]
+Hepatoma -> [6136]
+total FP: 2
+Precision: 0.3333333333333333 Recall: 0.05555555555555555 F1-score: 0.09523809523809525
+id count: 18
+4598861 done.
+
+9818593_Abstract.xml
+FN:
+Hypertension=119
+total FN: 1
+FP:
+myopathy -> [1671]
+total FP: 1
+Precision: 0.75 Recall: 0.75 F1-score: 0.75
+id count: 4
+9818593_4. Discussion.xml
+FN:
+cardiac hypertrophy=3175
+total FN: 1
+FP:
+RB -> [9112]
+myopathy -> [8034]
+SOD -> [5873, 6087, 6901, 7003]
+flu -> [2753, 6763]
+ischemia -> [7918]
+total FP: 9
+Precision: 0.55 Recall: 0.9166666666666666 F1-score: 0.6874999999999999
+id count: 12
+9818593_1. Introduction.xml
+FN:
+Hypertension=1
+Hypertension=981
+total FN: 2
+FP:
+disease -> [93]
+renal failure -> [1849]
+SOD -> [3883]
+hypertension -> [1572]
+stroke -> [1841]
+total FP: 5
+Precision: 0.6428571428571429 Recall: 0.8181818181818182 F1-score: 0.7200000000000001
+id count: 11
+9818593_3. Results.xml
+FN:
+hypertension.=4950
+total FN: 1
+FP:
+SOD -> [2710]
+hypertension -> [4950]
+myopathy -> [4628, 4821]
+total FP: 4
+Precision: 0.5 Recall: 0.8 F1-score: 0.6153846153846154
+id count: 5
+9818593_2. Materials and Methods.xml file is empty for DISEASE.
+9818593_5. Conclusions.xml
+FN:
+total FN: 0
+FP:
+total FP: 0
+Precision: 1.0 Recall: 1.0 F1-score: 1.0
+id count: 1
+9818593 done.
+
+6995577_Abstract.xml
+FN:
+total FN: 0
+FP:
+amyloidosis -> [291, 340, 1470]
+total FP: 3
+Precision: 0.5 Recall: 1.0 F1-score: 0.6666666666666666
+id count: 3
+6995577_3. Results.xml file is empty for DISEASE.
+6995577_5. Conclusions.xml file is empty for DISEASE.
+6995577_1. Introduction.xml
+FN:
+Alzheimer’s disease=342
+familial amyloidotic polyneuropathy=1681
+FAP=1718
+familial amyloidotic cardiomyopathy=1727
+FAC=1764
+ATTRwt ... amyloidosis=1842
+hereditary variant transthyretin ... amyloidosis=1600
+Alzheimer’s disease=4414
+Parkinson’s disease=4435
+total FN: 9
+FP:
+TTR amyloidosis -> [543, 665, 4505, 4916]
+disease -> [354, 524, 857, 4426, 4447]
+amyloidosis -> [1641, 1850, 1895, 1915]
+myopathy -> [1754]
+polyneuropathy -> [1702]
+flu -> [157, 2607]
+neuropathy -> [1706]
+cardiomyopathy -> [1748]
+ATTR amyloidosis -> [542, 664, 4504, 4915]
+degenerative disease -> [511]
+total FP: 24
+Precision: 0.22580645161290322 Recall: 0.4375 F1-score: 0.2978723404255319
+id count: 16
+6995577_2. Materials and Methods.xml file is empty for DISEASE.
+6995577_4. Discussion.xml
+FN:
+Alzheimer’s disease=1543
+Parkinson’s disease=1567
+FAP=2323
+Parkinson’s disease=3239
+Parkinson’s disease=3512
+Alzheimer’s disease=6850
+Parkinson’s disease=6889
+Alzheimer’s disease=8199
+Parkinson’s disease=8227
+total FN: 9
+FP:
+TTR amyloidosis -> [594, 1462, 1656, 2522]
+disease -> [1526, 1555, 1579, 3251, 3524, 6862, 6901, 7244, 8182, 8211, 8239]
+myopathy -> [1381, 2342]
+neuropathy -> [1339]
+flu -> [5327, 6940]
+ATTR amyloidosis -> [593, 1461, 1655]
+total FP: 23
+Precision: 0.3235294117647059 Recall: 0.55 F1-score: 0.4074074074074075
+id count: 20
+6995577 done.
+
+9288359_Supplementary Information.xml file is empty for DISEASE.
+9288359_Conclusion.xml
+FN:
+HCC=114
+total FN: 1
+FP:
+total FP: 0
+Precision: NaN Recall: 0.0 F1-score: NaN
+id count: 1
+9288359_Introduction.xml
+FN:
+Hepatocellular carcinoma=1
+HCC=27
+HCC=170
+HCC=700
+HCC=1457
+HCC=1953
+HCC=2173
+total FN: 7
+FP:
+cancer -> [1117]
+carcinoma -> [16]
+noma -> [21]
+total FP: 3
+Precision: 0.5 Recall: 0.3 F1-score: 0.37499999999999994
+id count: 10
+9288359_Results.xml
+FN:
+HCC=67
+HCC=641
+HCC=5260
+Dermatitis=6812
+Hypertension=6895
+Diarrhea=6926
+Stomatitis=6981
+Hypothyroidism=7103
+Proteinuria=7136
+Neutropenia=7166
+Thrombocytopenia=7196
+Anemia=7231
+total FN: 12
+FP:
+thrombosis -> [466, 2083, 6156]
+disease -> [2845, 3054, 3079, 3938, 3964, 4010]
+alcoholism -> [300]
+portal vein thrombosis -> [2071]
+hypertension -> [6408]
+total FP: 12
+Precision: 0.3333333333333333 Recall: 0.3333333333333333 F1-score: 0.3333333333333333
+id count: 18
+9288359_Discussion.xml
+FN:
+HCC=125
+HCC=323
+HCC=453
+HCC=516
+HCC=616
+HCC=752
+HCC=2096
+HCC=2440
+HCC=3349
+HCC=3738
+HCC=4130
+total FN: 11
+FP:
+TAM -> [1743, 1880]
+carcinoma -> [2074, 2752, 2777, 3010, 3042]
+noma -> [2079, 2757, 2782, 3015, 3047]
+virus infection -> [5471]
+total FP: 13
+Precision: 0.35 Recall: 0.3888888888888889 F1-score: 0.36842105263157887
+id count: 18
+9288359_Methods.xml
+FN:
+HCC=90
+HCC=503
+HCC=1067
+total FN: 3
+FP:
+PSS -> [2527, 2577]
+cancer -> [1002]
+liver cancer -> [996]
+disease -> [1445, 1475, 1863]
+SPS -> [2526, 2576]
+total FP: 9
+Precision: 0.1 Recall: 0.25 F1-score: 0.14285714285714288
+id count: 4
+9288359_Abstract.xml
+FN:
+total FN: 0
+FP:
+thrombosis -> [1565]
+carcinoma -> [70]
+noma -> [75]
+total FP: 3
+Precision: 0.625 Recall: 1.0 F1-score: 0.7692307692307693
+id count: 5
+9288359 done.
+
+4550874_Additional Information.xml
+FN:
+Muscular Dystrophy=121
+total FN: 1
+FP:
+total FP: 0
+Precision: NaN Recall: 0.0 F1-score: NaN
+id count: 1
+4550874_Results.xml
+FN:
+DMD=24
+DMD=465
+DMD=1285
+DMD=1602
+DMD=2619
+DMD=2951
+DMD=3282
+DMD=3494
+DMD=3642
+DMD=3718
+DMD=3726
+DMD=3774
+DMD=3874
+DMD=3928
+DMD=4191
+DMD=4220
+DMD=4315
+DMD=4409
+DMD=4522
+heart failure=4526
+DMD=6924
+DMD=6978
+DMD=7057
+DMD=7660
+DMD=8431
+DMD=8743
+DMD=9567
+DMD=9872
+DMD=9894
+DMD=10090
+DMD=11035
+DMD=11171
+DMD=11733
+total FN: 33
+FP:
+disease -> [59, 181, 734, 1758, 10854, 11618, 11710, 11841]
+AV block -> [6182, 6305]
+myopathy -> [1537, 4419]
+cardiomyopathy -> [1531]
+flu -> [489, 3746, 4771]
+dilated cardiomyopathy -> [1523]
+total FP: 17
+Precision: 0.10526315789473684 Recall: 0.05714285714285714 F1-score: 0.07407407407407407
+id count: 35
+4550874_Methods.xml
+FN:
+DMD=930
+DMD=942
+DMD=1122
+cardiac failure=1162
+DMD=1194
+pulmonary thromboembolism=1232
+DMD=1657
+total FN: 7
+FP:
+RB -> [1394]
+flu -> [1495]
+total FP: 2
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 7
+4550874_Discussion.xml
+FN:
+DMD=62
+DMD=569
+DMD=777
+DMD=1270
+DMD=3312
+DMD=3607
+DMD=3712
+DMD=3826
+DMD=4071
+DMD=3912
+DMD=3921
+DMD=4098
+DMD=4295
+DMD=5319
+DMD=5442
+DMD=5611
+DMD=5813
+DMD=5940
+DMD=6303
+DMD=6337
+DMD=7708
+DMD=8409
+DMD=8777
+total FN: 23
+FP:
+disease -> [2366, 2661, 3783, 5817, 8145, 8766]
+AV block -> [2072]
+myopathy -> [626, 664, 1318, 4714, 5407, 5621]
+respiratory failure -> [418]
+cardiomyopathy -> [620, 658, 1312, 4708, 5401]
+flu -> [2825]
+ischemia -> [2397, 6017, 6106]
+total FP: 23
+Precision: 0.23333333333333334 Recall: 0.23333333333333334 F1-score: 0.23333333333333334
+id count: 30
+4550874_Abstract.xml
+FN:
+DMD=164
+DMD=475
+DMD=490
+DMD=672
+DMD=1149
+Muscular Dystrophy=100
+total FN: 6
+FP:
+muscular dystrophy -> [144]
+total FP: 1
+Precision: 0.5 Recall: 0.14285714285714285 F1-score: 0.22222222222222224
+id count: 7
+4550874 done.
+
+7817995_Introduction.xml
+FN:
+ISOD=1189
+MoCD=1359
+ISOD=1451
+MoCD=1875
+ISOD=1884
+MoCD=2232
+ISOD=2246
+ISOD=3917
+MoCD=3926
+total FN: 9
+FP:
+SOD -> [1190, 1452, 1885, 2247, 3918]
+disease -> [3896]
+encephalopathy -> [1542]
+HN -> [1317]
+flu -> [3276, 3599]
+total FP: 10
+Precision: 0.09090909090909091 Recall: 0.1 F1-score: 0.09523809523809525
+id count: 10
+7817995_Abstract.xml
+FN:
+Molybdenum Cofactor Deficiency=52
+Molybdenum cofactor deficiency=94
+MoCD=126
+MoCD=415
+MoCD=964
+MoCD=1753
+MoCD=1970
+total FN: 7
+FP:
+encephalopathy -> [261]
+flu -> [1512]
+disease -> [1935]
+total FP: 3
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 7
+7817995_Data Availability Statement.xml file is empty for DISEASE.
+7817995_Author Contributions.xml file is empty for DISEASE.
+7817995_Conflict of Interest.xml file is empty for DISEASE.
+7817995_Materials and Methods.xml file is empty for DISEASE.
+7817995_Discussion.xml
+FN:
+Charcot–Marie–Tooth disease=4540
+Huntington’s disease=4728
+Parkinson’s disease=4785
+MoCD=5415
+ISOD=5406
+ISOD=123
+MoCD=131
+total FN: 7
+FP:
+XPH -> [1185]
+disease -> [4560, 4741, 4797, 4918]
+SOD -> [124, 5407]
+neuropathy -> [4607]
+lateral sclerosis -> [4762]
+peripheral neuropathy -> [4596]
+encephalopathy -> [4968]
+flu -> [3240, 5352]
+total FP: 13
+Precision: 0.13333333333333333 Recall: 0.2222222222222222 F1-score: 0.16666666666666669
+id count: 9
+7817995_Ethics Statement.xml file is empty for DISEASE.
+7817995_Results.xml
+FN:
+MoCD=6665
+MoCD=5435
+total FN: 2
+FP:
+XPH -> [508, 1178, 1226]
+CM -> [1732]
+disease -> [5813, 6033]
+HN -> [5742, 6069, 6529]
+flu -> [5373]
+total FP: 10
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 2
+7817995 done.
+
+6972945_ResultsTNF and IFN-γ Regulate Cell Surface Cytokines and Cytokine Receptors.xml file is empty for DISEASE.
+6972945_Discussion.xml
+FN:
+RA=2273
+OA=11562
+RA=11827
+OA=11838
+total FN: 4
+FP:
+OAS -> [11658]
+sarcoma -> [7683]
+disease -> [2253]
+arthritis -> [11551]
+ptosis -> [11416]
+CM -> [139, 1047, 1237, 3957]
+fibrosarcoma -> [7678]
+ADA -> [10958]
+flu -> [1987, 7608, 9934]
+total FP: 14
+Precision: 0.06666666666666667 Recall: 0.2 F1-score: 0.1
+id count: 5
+6972945_Materials and Methods.xml
+FN:
+RA=41
+RA=113
+RA=153
+RA=2039
+RA=2780
+total FN: 5
+FP:
+PSS -> [5874]
+CM -> [1415, 3229, 3509]
+flu -> [3998]
+ptosis -> [5521, 5585, 5621]
+SPS -> [5873]
+total FP: 9
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 5
+6972945_Conclusion.xml
+FN:
+RA=690
+lupus erythematodes=805
+SLE=826
+RA=1036
+RA=1178
+SLE=1216
+SLE=1332
+total FN: 7
+FP:
+lupus -> [805, 972]
+disease -> [860, 942, 1162]
+total FP: 5
+Precision: 0.16666666666666666 Recall: 0.125 F1-score: 0.14285714285714288
+id count: 8
+6972945_Abstract.xml
+FN:
+total FN: 0
+FP:
+CM -> [625, 1392]
+arthritis -> [1433, 2545]
+rheumatoid arthritis -> [1422]
+flu -> [358, 1557]
+total FP: 7
+Precision: 0.125 Recall: 1.0 F1-score: 0.2222222222222222
+id count: 1
+6972945_Introduction.xml
+FN:
+RA=1926
+RA=26
+total FN: 2
+FP:
+CM -> [1229]
+arthritis -> [15, 880]
+flu -> [85, 119, 1630, 2035, 2138]
+ptosis -> [1514]
+total FP: 9
+Precision: 0.25 Recall: 0.6 F1-score: 0.35294117647058826
+id count: 5
+6972945 done.
+
+8285542_Discussion Rev.xml
+FN:
+SCC=53
+SCC=123
+SCC=370
+SCC=561
+SCC=1467
+SCC=1646
+SCC=1920
+SCC=2002
+SCC=2093
+hepatocellular cancer=2153
+prostate ... cancer=2131
+breast ... cancer=2141
+SCC=2632
+SCC=2976
+SCC=3223
+SCC=4194
+SCC=4256
+SCC=4876
+SCC=6048
+SCC=6166
+SCC=6211
+SCC=6324
+SCC=6519
+SCC=6556
+SCC=6767
+SCC=4774
+total FN: 26
+FP:
+cancer -> [2168, 4442, 5647, 5891]
+total FP: 4
+Precision: 0.5555555555555556 Recall: 0.16129032258064516 F1-score: 0.25
+id count: 31
+7704199_2. Materials and Methods.xml
+FN:
+ILC=124
+ILC=3447
+ILC=3991
+ILC=4151
+ILC=4331
+ILC=4615
+ILC=4730
+ILC=5081
+ILC=5198
+ILC=5302
+ILC=5339
+ILC=5585
+total FN: 12
+FP:
+carcinoma -> [842]
+noma -> [847]
+total FP: 2
+Precision: 0.3333333333333333 Recall: 0.07692307692307693 F1-score: 0.125
+id count: 13
+7704199_Abstract.xml
+FN:
+Invasive Lobular Carcinoma=73
+ILC=252
+ILC=442
+ILC=679
+total FN: 4
+FP:
+carcinoma -> [140, 241]
+noma -> [95, 145, 246]
+total FP: 5
+Precision: 0.2857142857142857 Recall: 0.3333333333333333 F1-score: 0.30769230769230765
+id count: 6
+7704199_3. Results.xml
+FN:
+ILC=123
+ILC=232
+ILC=375
+ILC=526
+ILC=859
+Ki67=984
+ILC=1022
+Ki67=1063
+ILC=1137
+ILC=1176
+ILC=1976
+total FN: 11
+FP:
+FANCA -> [1930]
+metastatic carcinoma -> [289]
+FANCB -> [1937]
+RCC -> [1924]
+noma -> [305]
+total FP: 5
+Precision: 0.16666666666666666 Recall: 0.08333333333333333 F1-score: 0.1111111111111111
+id count: 12
+7704199_5. Conclusions.xml
+FN:
+ILC=60
+total FN: 1
+FP:
+total FP: 0
+Precision: NaN Recall: 0.0 F1-score: NaN
+id count: 1
+7704199_1. Introduction Rev.xml
+FN:
+ILC=39
+ILC=185
+ILC=305
+ILC=458
+ILC=499
+ILC=582
+ILC=753
+ILC=1013
+ILC=1141
+total FN: 9
+FP:
+cancer -> [93]
+breast tumor -> [3054]
+carcinoma -> [28, 422]
+noma -> [33, 427]
+total FP: 6
+Precision: 0.3333333333333333 Recall: 0.25 F1-score: 0.28571428571428575
+id count: 12
+7704199 done.
+
+5444857_Methods.xml file is empty for DISEASE.
+5444857_Introduction.xml
+FN:
+Leptospirosis=1
+Leptospirosis=816
+total FN: 2
+FP:
+renal failure -> [724, 909]
+leptospirosis -> [2188]
+hypokalemia -> [977]
+disease -> [147]
+syndrome -> [714, 796]
+total FP: 7
+Precision: 0.4166666666666667 Recall: 0.7142857142857143 F1-score: 0.5263157894736842
+id count: 7
+5444857_Results.xml file is empty for DISEASE.
+5444857_Discussion.xml
+FN:
+Weil’s syndrome=1281
+total FN: 1
+FP:
+nephritis -> [1415]
+leptospirosis -> [2401]
+disease -> [4866]
+syndrome -> [1288]
+interstitial nephritis -> [1402]
+total FP: 5
+Precision: 0.4444444444444444 Recall: 0.8 F1-score: 0.5714285714285714
+id count: 5
+5444857_Abstract.xml
+FN:
+total FN: 0
+FP:
+leptospirosis -> [1192]
+disease -> [1353, 2019]
+infectious disease -> [2008]
+hyperphosphatemia -> [1760]
+syndrome -> [1405, 1880]
+ischemia -> [1973]
+total FP: 8
+Precision: 0.3333333333333333 Recall: 1.0 F1-score: 0.5
+id count: 4
+5444857 done.
+
+7139946_1. Introduction.xml
+FN:
+PCa=85
+PCa=298
+PCa=424
+PCa=449
+PCa=797
+PCa=883
+PCa=1723
+PCa=2022
+PCa=2369
+PCa=2549
+PCa=2703
+PCa=2974
+PCa=3352
+PCa=3755
+Adenocarcinoma=3931
+PCa=4493
+PCa=4964
+PCa=5108
+PCa=5205
+PCa=5936
+PCa=6140
+total FN: 21
+FP:
+cancer -> [77, 4697]
+disease -> [390, 1203, 1502, 2476, 2558, 6319]
+carcinoma -> [3936]
+flu -> [3400, 6106]
+noma -> [3941]
+total FP: 12
+Precision: 0.4 Recall: 0.27586206896551724 F1-score: 0.32653061224489793
+id count: 29
+7139946_4. Materials and Methods.xml
+FN:
+total FN: 0
+FP:
+CCA -> [10233, 10257, 10260, 10314, 10394, 10428]
+RB -> [393, 1533]
+ISM -> [10541]
+EAD -> [2518]
+cancer -> [6853, 7019, 8620]
+flu -> [5377, 5526, 5714]
+total FP: 16
+Precision: 0.4666666666666667 Recall: 1.0 F1-score: 0.6363636363636364
+id count: 14
+7139946_2. Results.xml
+FN:
+PCa=229
+PCa=7068
+PCa=6651
+PCa=8664
+PCa=8775
+total FN: 5
+FP:
+EAD -> [2528]
+cancer -> [6189, 6243, 6409]
+disease -> [9124]
+flu -> [4061, 6632, 6713, 7473, 7839, 8070, 8243, 8297, 9028, 9224]
+total FP: 15
+Precision: 0.7058823529411765 Recall: 0.8780487804878049 F1-score: 0.782608695652174
+id count: 41
+7139946_3. Discussion.xml
+FN:
+PCa=39
+PCa=469
+PCa=759
+PCa=1159
+PCa=1365
+PCa=1500
+PCa=1602
+PCa=2073
+PCa=2194
+PCa=2559
+PCa=2791
+PCa=3096
+PCa=3302
+PCa=3588
+PCa=3740
+PCa=3903
+PCa=4050
+PCa=4202
+PCa=4608
+PCa=4859
+PCa=5044
+PCa=5154
+PCa=5231
+PCa=5392
+PCa=5991
+renal cell cancer=7227
+PCa=8679
+PCa=9068
+PCa=9792
+PCa=10157
+PCa=10185
+PCa=10432
+PCa=11668
+PCa=11954
+PCa=12027
+total FN: 35
+FP:
+cancer -> [2635, 4468, 4682, 7238]
+disease -> [356, 5340, 6850]
+flu -> [1210, 3838, 4142, 4384, 4577, 4969, 6295, 6712, 6911, 11179, 11358, 11617, 12439]
+total FP: 20
+Precision: 0.574468085106383 Recall: 0.43548387096774194 F1-score: 0.4954128440366973
+id count: 62
+7139946_5. Conclusions.xml
+FN:
+PCa=143
+PCa=471
+PCa=569
+PCa=911
+total FN: 4
+FP:
+flu -> [397, 551]
+disease -> [736]
+total FP: 3
+Precision: 0.25 Recall: 0.2 F1-score: 0.22222222222222224
+id count: 5
+7139946_Abstract.xml
+FN:
+Prostate Cancer=56
+PCa=272
+PCa=606
+PCa=767
+PCa=1043
+PCa=1112
+PCa=1360
+PCa=1462
+PCa=1656
+PCa=1675
+total FN: 10
+FP:
+cancer -> [264]
+disease -> [310, 1567]
+flu -> [37, 1085, 1385]
+total FP: 6
+Precision: 0.25 Recall: 0.16666666666666666 F1-score: 0.2
+id count: 12
+7139946 done.
+
+8285542_Results.xml
+FN:
+SCC=158
+SCC=248
+SCC=412
+SCC=591
+SCC=947
+SCC=1256
+SCC=1550
+SCC=1667
+SCC=1742
+SCC=1857
+SCC=1984
+SCC=4085
+SCC=4190
+SCC=4390
+SCC=4991
+SCC=7594
+SCC=9077
+SCC=17012
+SCC=17166
+SCC=17453
+SCC=17964
+SCC=20138
+SCC=20216
+SCC=21850
+SCC=21923
+SCC=25756
+SCC=25888
+SCC=26027
+SCC=26209
+SCC=28024
+glioma=31647
+non-small cell lung cancer=31680
+SCC=32732
+SCC=32963
+SCC=34117
+SCC=4579
+total FN: 36
+FP:
+CSS2 -> [17387]
+lung cancer -> [31695]
+RB -> [7254]
+CF -> [26294, 26345, 32264]
+disease -> [21958]
+HN -> [358, 450, 1117, 4785, 7282, 7823, 27557]
+ERS -> [19725]
+papilloma -> [426]
+cancer -> [4128, 22200, 26249, 26285, 31700, 31715]
+HPV -> [442, 486, 545]
+total FP: 25
+Precision: 0.2857142857142857 Recall: 0.21739130434782608 F1-score: 0.24691358024691357
+id count: 46
+8285542_Introduction.xml
+FN:
+Cancer=1
+prostate ... cancer=1595
+breast ... cancer=1605
+liver ... cancer=1617
+Squamous cell carcinoma=2055
+SCC=2081
+SCC=2287
+SCC=2446
+SCC=2588
+SCC=2861
+SCC=3037
+SCC=3496
+SCC=3596
+SCC=3769
+SCC=4080
+SCC=4149
+SCC=4461
+SCC=4676
+SCC=4834
+total FN: 19
+FP:
+cancer -> [1623]
+liver cancer -> [1617]
+carcinoma -> [2069]
+HN -> [2211]
+noma -> [2074]
+total FP: 5
+Precision: 0.6666666666666666 Recall: 0.3448275862068966 F1-score: 0.4545454545454545
+id count: 29
+8285542_Abstract.xml
+FN:
+Squamous cell carcinoma=167
+SCC=193
+SCC=298
+SCC=412
+SCC=501
+SCC=1137
+SCC=1182
+SCC=1311
+SCC=1414
+SCC=1502
+SCC=1751
+SCC=1860
+SCC=2012
+total FN: 13
+FP:
+RB -> [2037]
+carcinoma -> [181, 1848]
+noma -> [186, 1853]
+total FP: 5
+Precision: 0.5 Recall: 0.2777777777777778 F1-score: 0.35714285714285715
+id count: 18
+8285542_Discussion Rev.xml
+FN:
+SCC=53
+SCC=123
+SCC=370
+SCC=561
+SCC=1467
+SCC=1646
+SCC=1920
+SCC=2002
+SCC=2093
+hepatocellular cancer=2153
+prostate ... cancer=2131
+breast ... cancer=2141
+SCC=2632
+SCC=2976
+SCC=3223
+SCC=4194
+SCC=4256
+SCC=4876
+SCC=6048
+SCC=6166
+SCC=6211
+SCC=6324
+SCC=6519
+SCC=6556
+SCC=6767
+SCC=4774
+total FN: 26
+FP:
+cancer -> [2168, 4442, 5647, 5891]
+total FP: 4
+Precision: 0.5555555555555556 Recall: 0.16129032258064516 F1-score: 0.25
+id count: 31
+8285542_Methods.xml
+FN:
+total FN: 0
+FP:
+CCA -> [10153]
+PSS -> [18893, 18929]
+CF -> [6700]
+esophageal cancer -> [16544]
+TSS -> [10586]
+HN -> [75, 1638]
+SPS -> [18892, 18928]
+cancer -> [16555]
+CM -> [11656]
+MCS -> [11660]
+flu -> [3870]
+HPV -> [81]
+total FP: 15
+Precision: 0.0625 Recall: 1.0 F1-score: 0.11764705882352941
+id count: 1
+8285542_Supplementary information.xml file is empty for DISEASE.
+8285542 done.
+
+6754375_Supplementary information.xml file is empty for DISEASE.
+6754375_Abstract.xml
+FN:
+Pancreatic adenocarcinoma=111
+PAAD=138
+PAAD=383
+PAAD=462
+PAAD=575
+PAAD=754
+PAAD=980
+PAAD=1377
+total FN: 8
+FP:
+carcinoma -> [65, 127]
+noma -> [70, 132]
+adenocarcinoma -> [60, 122]
+cancer -> [1585]
+malignant tumor -> [172]
+total FP: 8
+Precision: 0.2727272727272727 Recall: 0.2727272727272727 F1-score: 0.2727272727272727
+id count: 11
+6754375_Materials and methods.xml
+FN:
+PAAD=103
+PAAD=484
+total FN: 2
+FP:
+CCA -> [1917, 1950, 2028, 2238, 2369, 2421, 3155, 3286, 3324]
+PSS -> [11385]
+ptosis -> [4315, 5117, 5127]
+SPS -> [11384]
+cancer -> [5853]
+flu -> [4604, 6122, 10038, 10391, 10555, 10597]
+total FP: 21
+Precision: 0.045454545454545456 Recall: 0.3333333333333333 F1-score: 0.08
+id count: 3
+6754375_Introduction.xml
+FN:
+Pancreatic adenocarcinoma=1
+PAAD=28
+PAAD=610
+PAAD=810
+PAAD=903
+PAAD=1691
+PAAD=1800
+PAAD=2347
+PAAD=2444
+PAAD=2552
+PAAD=2649
+PAAD=2723
+total FN: 12
+FP:
+CAS -> [1248]
+carcinoma -> [17, 386, 1198, 1299, 2181]
+noma -> [22, 391, 1203, 1304, 2186]
+rectal cancer -> [1496, 2106]
+adenocarcinoma -> [12, 381, 1193, 1294]
+cancer -> [1408, 1503, 2113]
+malignant tumor -> [62]
+total FP: 21
+Precision: 0.3 Recall: 0.42857142857142855 F1-score: 0.3529411764705882
+id count: 21
+6754375_Results.xml
+FN:
+PAAD=40
+PAAD=188
+PAAD=321
+PAAD=388
+PAAD=639
+PAAD=712
+PAAD=833
+PAAD=964
+PAAD=1063
+PAAD=1118
+PAAD=1224
+PAAD=1381
+PAAD=1547
+PAAD=2213
+PAAD=2370
+PAAD=2845
+PAAD=4203
+PAAD=4315
+PAAD=5032
+PAAD=5135
+PAAD=5297
+PAAD=6396
+PAAD=6699
+PAAD=6847
+PAAD=6979
+PAAD=7039
+PAAD=7110
+PAAD=7316
+PAAD=8103
+PAAD=8350
+PAAD=8485
+PAAD=10067
+PAAD=11141
+PAAD=11803
+PAAD=12225
+PAAD=12360
+PAAD=12437
+PAAD=12548
+PAAD=12669
+PAAD=13841
+total FN: 40
+FP:
+RB -> [7709, 8964]
+cancer -> [4073, 4870, 10204, 11055]
+pancreatic cancer -> [11044]
+flu -> [3631, 4410, 10679]
+ptosis -> [1537, 2035, 2273, 2360, 2671, 10434, 11363]
+total FP: 17
+Precision: 0.15 Recall: 0.06976744186046512 F1-score: 0.09523809523809525
+id count: 43
+6754375_Discussion Rev.xml
+FN:
+Pancreatic cancer=1
+Pancreatic cancer=134
+PAAD=524
+non-small-cell lung cancer=820
+PAAD=1211
+oral carcinoma=1331
+PAAD=1462
+PAAD=1765
+PAAD=2018
+PAAD=2187
+PAAD=3274
+PAAD=3660
+PAAD=3730
+PAAD=4086
+PAAD=4195
+PAAD=4420
+PAAD=4555
+PAAD=4662
+total FN: 18
+FP:
+disease -> [45]
+noma -> [1002, 1341]
+ptosis -> [1692]
+rectal cancer -> [1917]
+blastoma -> [3141]
+lung cancer -> [835]
+RB -> [2691, 2784]
+carcinoma -> [997, 1336]
+cancer -> [12, 145, 382, 621, 840, 1065, 1924, 3162]
+total FP: 19
+Precision: 0.2692307692307692 Recall: 0.28 F1-score: 0.27450980392156865
+id count: 25
+6754375 done.
+
+7578153_Discussion.xml
+FN:
+PD=37
+MDD=53
+PD=187
+MDD=216
+PD=378
+MDD=437
+MDD=451
+MDD=572
+MDD=970
+MDD=1109
+PD=1241
+PD=1654
+MDD=1680
+PD=1725
+PD=2328
+MDD=2381
+MDD=2537
+PD=2556
+MDD=2574
+MDD=2590
+PD=2627
+MDD=2759
+MDD=2930
+PD=3004
+MDD=3022
+PD=3040
+MDD=3048
+MDD=3056
+PD=3066
+MDD=3077
+MDD=3085
+MDD=3155
+MDD=3229
+MDD=3479
+PD=3527
+MDD=4724
+MDD=7549
+PD=7568
+total FN: 38
+FP:
+anxiety -> [1325, 2650, 2947, 7670]
+mood disorder -> [1337, 7682]
+flu -> [3950, 4090, 5982]
+total FP: 9
+Precision: 0.1 Recall: 0.02564102564102564 F1-score: 0.04081632653061225
+id count: 39
+7578153_Materials and methods.xml
+FN:
+PD=92
+PD=355
+PD=749
+MDD=2311
+MDD=779
+MDD=2549
+PD=6816
+MDD=6864
+total FN: 8
+FP:
+tic disorder -> [605]
+psychotic disorder -> [599]
+SCID -> [487, 2724]
+anxiety -> [801, 2383]
+eating disorder -> [2916]
+agoraphobia -> [179]
+alcohol dependence -> [628]
+specific phobia -> [828]
+anxiety disorder -> [801]
+substance abuse -> [2888]
+total FP: 12
+Precision: 0.25 Recall: 0.3333333333333333 F1-score: 0.28571428571428575
+id count: 12
+7578153_Introduction.xml
+FN:
+Panic disorder=1
+PD=17
+PD=191
+PD=336
+MDD=389
+MDD=459
+PD=466
+MDD=619
+PD=1071
+MDD=1163
+MDD=1328
+MDD=2502
+MDD=2726
+MDD=2928
+MDD=2983
+total FN: 15
+FP:
+anxiety -> [47, 639, 916, 1416, 3147]
+anxiety disorder -> [47, 639, 1416]
+mood disorder -> [928]
+panic disorder -> [2851]
+total FP: 10
+Precision: 0.16666666666666666 Recall: 0.11764705882352941 F1-score: 0.13793103448275862
+id count: 17
+7578153_Results.xml
+FN:
+PD=57
+PD=243
+MDD=281
+PD=466
+MDD=492
+PD=497
+MDD=502
+PD=622
+MDD=651
+PD=829
+MDD=858
+PD=1077
+PD=1527
+PD=1725
+PD=1858
+MDD=1896
+PD=1979
+MDD=1984
+PD=2064
+MDD=2069
+PD=2097
+MDD=2102
+PD=2672
+MDD=2693
+PD=2922
+PD=2942
+MDD=2947
+PD=3323
+MDD=3344
+PD=3435
+PD=3443
+MDD=3472
+PD=3478
+MDD=3483
+PD=3488
+MDD=3514
+MDD=4034
+MDD=4393
+MDD=4875
+MDD=5381
+MDD=5544
+MDD=5593
+total FN: 42
+FP:
+anxiety -> [3416, 4965, 5104, 5682, 5820]
+anxiety disorder -> [3416]
+major depressive disorder -> [2698, 3266, 5598]
+panic disorder -> [1531, 2676, 3217]
+total FP: 12
+Precision: 0.29411764705882354 Recall: 0.10638297872340426 F1-score: 0.15625
+id count: 47
+7578153_Abstract.xml
+FN:
+Panic disorder=187
+PD=203
+MDD=311
+PD=422
+MDD=429
+MDD=572
+PD=614
+PD=886
+MDD=923
+MDD=985
+PD=1227
+PD=1253
+MDD=1279
+PD=1370
+MDD=1399
+PD=1499
+MDD=1526
+MDD=1628
+MDD=1777
+PD=1796
+total FN: 20
+FP:
+anxiety -> [233, 693, 1898]
+anxiety disorder -> [233]
+mood disorder -> [1910]
+total FP: 5
+Precision: 0.2857142857142857 Recall: 0.09090909090909091 F1-score: 0.13793103448275862
+id count: 22
+7578153 done.
+
+8314800_Abstract.xml
+FN:
+coronavirus disease 2019=285
+Hypertension=836
+total FN: 2
+FP:
+disease -> [297, 930]
+syndrome -> [153]
+SARS -> [31, 177]
+kidney disease -> [923]
+diabetes -> [893]
+severe acute respiratory syndrome -> [128]
+total FP: 8
+Precision: 0.42857142857142855 Recall: 0.75 F1-score: 0.5454545454545454
+id count: 8
+8314800_Results.xml
+FN:
+CAD=7276
+MI=7709
+total FN: 2
+FP:
+leukemia -> [7073]
+chronic kidney disease -> [2255]
+disease -> [976, 1877, 2270, 3348, 6478, 6547, 6579, 6765, 6798, 7267]
+myocardial infarction -> [7686]
+SARS -> [125, 997, 1340, 2371, 4302]
+kidney disease -> [969, 1870, 2263]
+artery disease -> [7260]
+viral pneumonia -> [7123]
+pneumonia -> [7129, 7419]
+hypertension -> [2213]
+diabetes -> [886, 1793, 2234, 2610]
+total FP: 30
+Precision: 0.4117647058823529 Recall: 0.9130434782608695 F1-score: 0.5675675675675675
+id count: 23
+8314800_Materials and methods.xml
+FN:
+total FN: 0
+FP:
+disease -> [181, 844, 1629, 2031, 2167, 2873]
+SARS-CoV-2 infection -> [322, 1142]
+SARS -> [322, 472, 628, 1142, 1178]
+kidney disease -> [1622]
+diabetes -> [1581]
+total FP: 15
+Precision: 0.3181818181818182 Recall: 1.0 F1-score: 0.4827586206896552
+id count: 7
+8314800_Introduction.xml
+FN:
+coronavirus disease 2019=75
+total FN: 1
+FP:
+disease -> [87, 398, 550, 2414, 2855, 3162]
+hepatitis B -> [1592]
+syndrome -> [766]
+severe COVID-19 -> [1970]
+SARS -> [790, 2215]
+CM -> [2159]
+hepatitis -> [1499, 1592]
+flu -> [1644]
+severe acute respiratory syndrome -> [741]
+virus infection -> [1511]
+total FP: 17
+Precision: 0.2916666666666667 Recall: 0.875 F1-score: 0.43750000000000006
+id count: 8
+8314800_Discussion.xml
+FN:
+total FN: 0
+FP:
+SARS-CoV-2 infection -> [935]
+SARS -> [419, 935]
+disease -> [78, 114, 268, 561, 1711, 2486, 2744, 2906]
+total FP: 11
+Precision: 0.42105263157894735 Recall: 1.0 F1-score: 0.5925925925925926
+id count: 8
+8314800_Conclusions.xml
+FN:
+total FN: 0
+FP:
+SARS -> [25]
+total FP: 1
+Precision: 0.6666666666666666 Recall: 1.0 F1-score: 0.8
+id count: 2
+8314800 done.
+
+9361766_Statistical analysis.xml file is empty for DISEASE.
+9361766_Abstract.xml file is empty for DISEASE.
+9361766_Discussion.xml
+FN:
+Parkinson’s disease=6361
+Alzheimer’s disease=6385
+total FN: 2
+FP:
+inflammatory bowel disease -> [5791]
+LCA -> [3849]
+disease -> [5810, 6040, 6373, 6397]
+total FP: 6
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 2
+9361766_Methods.xml file is empty for DISEASE.
+9361766_Conclusion.xml file is empty for DISEASE.
+9361766_Introduction.xml
+FN:
+Alzheimer’s disease=1544
+Parkinson’s disease=1569
+Alzheimer’s disease=1878
+total FN: 3
+FP:
+autism -> [1536]
+disease -> [1556, 1581, 1802, 1890, 2254]
+total FP: 6
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 3
+9361766_Results.xml file is empty for DISEASE.
+9361766 done.
+
+5626936_Ethics Statement.xml file is empty for DISEASE.
+5626936_Author Contributions.xml file is empty for DISEASE.
+5626936_Abstract.xml
+FN:
+total FN: 0
+FP:
+disease -> [166, 421]
+flu -> [1546]
+total FP: 3
+Precision: 0.4 Recall: 1.0 F1-score: 0.5714285714285715
+id count: 2
+5626936_Results.xml file is empty for DISEASE.
+5626936_Materials and Methods.xml file is empty for DISEASE.
+5626936_Introduction.xml
+FN:
+total FN: 0
+FP:
+ischemia -> [874, 2489]
+total FP: 2
+Precision: 0.3333333333333333 Recall: 1.0 F1-score: 0.5
+id count: 1
+5626936_Discussion.xml file is empty for DISEASE.
+5626936_Conflict of Interest Statement.xml file is empty for DISEASE.
+5626936 done.
+
+4370594_Abstract.xml
+FN:
+Peritoneal mesothelioma=135
+mesothelioma=900
+total FN: 2
+FP:
+NF2 -> [928]
+sarcoma -> [1208]
+disease -> [1245, 1400]
+total FP: 4
+Precision: 0.5555555555555556 Recall: 0.7142857142857143 F1-score: 0.6250000000000001
+id count: 7
+4370594_Methods.xml file is empty for DISEASE.
+4370594_Introduction Rev.xml
+FN:
+Peritoneal Mesothelioma=1
+Mesothelioma=25
+mesothelioma=243
+Peritoneal mesothelioma=330
+mesothelioma=486
+peritoneal mesotheliomas=655
+mesothelioma=811
+mesothelioma=1164
+mesothelioma=1560
+mesothelioma=1849
+mesothelioma=1933
+clear cell renal carcinoma=2002
+mesothelioma=2418
+mesothelioma=2549
+mesothelioma=2694
+appendiceal adenocarcinoma=4718
+mesothelioma=2119
+total FN: 17
+FP:
+sarcoma -> [838, 883, 1152, 1191]
+disease -> [763, 5040]
+renal carcinoma -> [2013]
+noma -> [1993, 2024, 4740]
+ptosis -> [2313]
+melanoma -> [1989]
+adenocarcinoma -> [4730]
+pleural disease -> [755]
+carcinoma -> [2019, 4735]
+NF2 -> [2066]
+peritoneal mesothelioma -> [655]
+total FP: 18
+Precision: 0.3076923076923077 Recall: 0.32 F1-score: 0.3137254901960784
+id count: 25
+4370594_Discussion.xml
+FN:
+Peritoneal mesothelioma=1
+mesothelioma=916
+Peritoneal mesothelioma=6844
+total FN: 3
+FP:
+sarcoma -> [1994, 2346, 2427, 2570, 2929, 6821]
+disease -> [300, 1780, 2107, 6633, 7045]
+carcinoma -> [4142]
+noma -> [4147]
+rectal cancer -> [3774]
+cancer -> [3781, 3817, 5017]
+NF2 -> [833, 6483]
+total FP: 19
+Precision: 0.3448275862068966 Recall: 0.7692307692307693 F1-score: 0.47619047619047616
+id count: 13
+4370594_Results.xml
+FN:
+mesothelioma=387
+mesothelioma=826
+Cancer=3402
+mesothelioma=4569
+mesothelioma=5009
+mesothelioma=5455
+mesothelioma=6086
+total FN: 7
+FP:
+sarcomatoid mesothelioma -> [4557, 4997]
+sarcoma -> [4557, 4997, 5499]
+disease -> [4266, 5267, 5584, 8410]
+ptosis -> [1591]
+NF2 -> [1377, 2278, 2530, 2971, 6730]
+vaginal tumor -> [7346]
+flu -> [3432]
+total FP: 17
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 7
+4370594 done.
+
+8592735_1. Introduction.xml
+FN:
+Hepatocellular carcinoma=1
+HCC=27
+HCC=407
+HCC=3019
+HCC=3092
+HCC=3143
+HCC=5080
+total FN: 7
+FP:
+carcinoma -> [16]
+flu -> [2470]
+noma -> [21, 332, 1172]
+ptosis -> [1255]
+total FP: 6
+Precision: 0.4 Recall: 0.36363636363636365 F1-score: 0.380952380952381
+id count: 11
+8592735_Abstract.xml
+FN:
+HCC=252
+HCC=1198
+HCC=1504
+HCC=1670
+total FN: 4
+FP:
+carcinoma -> [241]
+noma -> [246]
+ptosis -> [1650]
+total FP: 3
+Precision: 0.25 Recall: 0.2 F1-score: 0.22222222222222224
+id count: 5
+8592735_4. Conclusion.xml
+FN:
+HCC=158
+HCC=305
+HCC=863
+total FN: 3
+FP:
+noma -> [354]
+ptosis -> [285]
+total FP: 2
+Precision: 0.3333333333333333 Recall: 0.25 F1-score: 0.28571428571428575
+id count: 4
+8592735_2. Materials and Methods.xml
+FN:
+total FN: 0
+FP:
+CCA -> [14730, 14835]
+flu -> [7085, 13711, 15288]
+noma -> [278]
+ptosis -> [552, 5259, 7844]
+total FP: 9
+Precision: 0.1 Recall: 1.0 F1-score: 0.18181818181818182
+id count: 1
+8592735_3. Results and Discussion.xml
+FN:
+HCC=5002
+HCC=9648
+HCC=10159
+HCC=14087
+total FN: 4
+FP:
+flu -> [5453, 5478, 5705, 12784]
+ptosis -> [5367, 5553, 6287, 6370, 6653, 6720, 6904, 7312, 8123, 10111]
+total FP: 14
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 4
+8592735 done.
+
+3660299_Results.xml
+FN:
+HHcy=2135
+HHcy=3187
+HHcy=3379
+total FN: 3
+FP:
+miscarriage -> [1121, 1960, 2208, 2458, 2591]
+total FP: 5
+Precision: 0.7727272727272727 Recall: 0.85 F1-score: 0.8095238095238095
+id count: 20
+3660299_Introduction.xml
+FN:
+HHcy=614
+HHcy=760
+polycystic ovarian syndrome=1035
+Hyperinsulinemia=1438
+HHcy=1895
+HHcy=2449
+HHcy=2628
+HHcy=2750
+total FN: 8
+FP:
+disease -> [796]
+miscarriage -> [340, 1146, 2674]
+noma -> [189, 253]
+recurrent miscarriage -> [330, 1136]
+syndrome -> [1054, 1332]
+dyslipidemia -> [2343]
+insulin resistance -> [1640]
+total FP: 12
+Precision: 0.5862068965517241 Recall: 0.68 F1-score: 0.6296296296296295
+id count: 25
+3660299_Discussion.xml
+FN:
+HHcy=444
+HHcy=527
+HHcy=722
+HHcy=832
+HHcy=1155
+HHcy=1329
+HHcy=2518
+HHcy=2677
+HHcy=2939
+HHcy=4252
+Hyperinsulinemia=4974
+HHcy=5963
+HHcy=7213
+HHcy=7545
+HHcy=7872
+total FN: 15
+FP:
+recurrent miscarriage -> [1714, 3385, 5557]
+disease -> [3616]
+syndrome -> [297, 661]
+miscarriage -> [898, 1724, 1873, 2007, 2312, 3242, 3395, 4103, 4318, 5567, 6653, 7654, 7846]
+placental abruption -> [608]
+flu -> [6367, 6997]
+obesity -> [1810]
+total FP: 23
+Precision: 0.41025641025641024 Recall: 0.5161290322580645 F1-score: 0.4571428571428572
+id count: 31
+3660299_ABSTRACT.xml
+FN:
+HHcy=363
+HHcy=947
+HHcy=1544
+HHcy=1656
+HHcy=1855
+total FN: 5
+FP:
+PCOS -> [1317, 1346, 1435]
+syndrome -> [53, 177]
+miscarriage -> [1166, 1254, 1736, 1891]
+insulin resistance -> [96, 304]
+polycystic ovary -> [36, 160]
+total FP: 13
+Precision: 0.5 Recall: 0.7222222222222222 F1-score: 0.5909090909090908
+id count: 18
+3660299_Materials and Methods.xml
+FN:
+HHcy=1865
+HHcy=2279
+total FN: 2
+FP:
+hyperandrogenism -> [4687]
+hypothyroidism -> [5523]
+miscarriage -> [1923, 5731, 5784]
+noma -> [4769, 5020, 5513]
+diabetes mellitus -> [5549]
+infertility -> [4027, 4114, 5849]
+lupus -> [5172]
+flu -> [2374]
+herpes simplex -> [5266]
+PSS -> [3394, 3415]
+recurrent miscarriage -> [5721]
+PCOS -> [5479]
+type 2 diabetes -> [5542]
+syndrome -> [4815]
+SPS -> [3393, 3414]
+type 2 diabetes mellitus -> [5542]
+diabetes -> [5129, 5549]
+total FP: 26
+Precision: 0.3953488372093023 Recall: 0.8947368421052632 F1-score: 0.5483870967741935
+id count: 19
+3660299 done.
+
+9408187_5. Conclusions.xml file is empty for DISEASE.
+9408187_4. Discussion.xml
+FN:
+OM=3210
+OM=3573
+total FN: 2
+FP:
+HL -> [2466]
+disease -> [3984]
+total FP: 2
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 2
+9408187_1. Introduction.xml
+FN:
+Otitis Media=1
+OM=15
+Otitis Media=174
+Otitis Media=402
+OM=466
+gastroesophageal reflux=966
+OM=1033
+OM=1118
+OM=2011
+OM=2184
+total FN: 10
+FP:
+disease -> [145, 357]
+flu -> [985]
+total FP: 3
+Precision: 0.4 Recall: 0.16666666666666666 F1-score: 0.23529411764705882
+id count: 12
+9408187_2. Materials and Methods.xml
+FN:
+otitis=1558
+SNHL=1609
+SNHL=3950
+total FN: 3
+FP:
+RB -> [6986]
+disease -> [1716]
+HL -> [1382, 1611, 3548, 3580, 3952, 4034, 4121, 4162]
+neural hearing loss -> [1588, 3929]
+metabolic disease -> [1706]
+flu -> [4481]
+total FP: 14
+Precision: 0.125 Recall: 0.4 F1-score: 0.19047619047619047
+id count: 5
+9408187_3. Results.xml file is empty for DISEASE.
+9408187_Abstract.xml
+FN:
+Otitis Media=256
+total FN: 1
+FP:
+disease -> [404]
+total FP: 1
+Precision: 0.5 Recall: 0.5 F1-score: 0.5
+id count: 2
+9408187 done.
+
+6051636_Results.xml
+FN:
+total FN: 0
+FP:
+total FP: 0
+Precision: 1.0 Recall: 1.0 F1-score: 1.0
+id count: 10
+6051636_Materials and methods.xml
+FN:
+total FN: 0
+FP:
+cholesteatoma -> [1666]
+total FP: 1
+Precision: 0.8571428571428571 Recall: 1.0 F1-score: 0.923076923076923
+id count: 6
+6051636_Introduction.xml
+FN:
+Cholesteatoma=74
+total FN: 1
+FP:
+flu -> [3935]
+HPV -> [1991]
+total FP: 2
+Precision: 0.92 Recall: 0.9583333333333334 F1-score: 0.9387755102040817
+id count: 24
+6051636_Discussion.xml
+FN:
+Cholesteatoma=1
+total FN: 1
+FP:
+cholesteatoma -> [3476]
+disease -> [8602]
+otitis media -> [27]
+ptosis -> [6429, 6661]
+cancer -> [2549, 7843]
+total FP: 7
+Precision: 0.7878787878787878 Recall: 0.9629629629629629 F1-score: 0.8666666666666665
+id count: 27
+6051636_Abstract.xml
+FN:
+Cholesteatoma=113
+Cholesteatoma=729
+total FN: 2
+FP:
+total FP: 0
+Precision: 1.0 Recall: 0.8181818181818182 F1-score: 0.9
+id count: 11
+6051636 done.
+
+2275485_DISCUSSION.xml
+FN:
+HRPC=86
+HRPC=320
+HRPC=550
+HRPC=746
+HRPC=3039
+HRPC=3693
+HRPCs=3722
+HRPC=4456
+HRPC=4733
+HRPC=4888
+HRPC=5373
+HRPC=5870
+HRPC=6077
+total FN: 13
+FP:
+prostate cancer -> [159]
+cancer -> [168, 917, 7453]
+disease -> [2289, 2562]
+flu -> [59]
+total FP: 7
+Precision: 0.2222222222222222 Recall: 0.13333333333333333 F1-score: 0.16666666666666669
+id count: 15
+2275485_ABSTRACT.xml
+FN:
+HRPC=253
+HRPC=423
+HRPC=1443
+total FN: 3
+FP:
+cancer -> [116, 245, 588, 857]
+disease -> [1074]
+total FP: 5
+Precision: 0.4444444444444444 Recall: 0.5714285714285714 F1-score: 0.5
+id count: 7
+2275485_MATERIALS AND METHODS.xml file is empty for DISEASE.
+2275485_RESULTS.xml
+FN:
+total FN: 0
+FP:
+PSS -> [1664]
+cancer -> [33, 442]
+disease -> [820, 943, 2090, 2393, 2729, 2986, 3623, 3931, 4272, 4931, 5561, 5887, 6605, 7246]
+SPS -> [1663]
+total FP: 18
+Precision: 0.1 Recall: 1.0 F1-score: 0.18181818181818182
+id count: 2
+2275485 done.
+
+7162859_Abstract.xml
+FN:
+Glioblastoma=111
+Glioblastoma=135
+total FN: 2
+FP:
+cancer -> [179, 1546]
+blastoma -> [115, 139, 416, 1066, 1288]
+flu -> [913]
+total FP: 8
+Precision: 0.38461538461538464 Recall: 0.7142857142857143 F1-score: 0.5
+id count: 7
+7162859_Supplementary information.xml file is empty for DISEASE.
+7162859_Results.xml
+FN:
+glioma=9278
+glioma=10583
+total FN: 2
+FP:
+leukemia -> [119]
+flu -> [50, 212, 307, 2464, 2656, 2731, 3811, 5951, 6331, 8884, 9829, 10492, 15934, 16054, 17585]
+GBM -> [7406, 8542]
+total FP: 18
+Precision: 0.6 Recall: 0.9310344827586207 F1-score: 0.7297297297297297
+id count: 29
+7162859_Discussion.xml
+FN:
+total FN: 0
+FP:
+cancer -> [1092]
+GBM -> [7103]
+neurotoxicity -> [7442]
+disease -> [4171, 6809, 8312, 9609]
+flu -> [1363, 2140, 2266, 2567, 2771, 2939, 3174, 8639, 8966, 9130, 9720]
+total FP: 18
+Precision: 0.6086956521739131 Recall: 1.0 F1-score: 0.7567567567567568
+id count: 28
+7162859_Materials and Methods.xml
+FN:
+total FN: 0
+FP:
+flu -> [1566, 4488, 4908, 5052, 5164, 5994]
+GBM -> [1391, 5477]
+total FP: 8
+Precision: 0.38461538461538464 Recall: 1.0 F1-score: 0.5555555555555556
+id count: 5
+7162859_Introduction.xml
+FN:
+Glioblastoma=1
+total FN: 1
+FP:
+neurotoxicity -> [1084]
+disease -> [3734]
+primary brain tumor -> [51]
+cancer -> [1711, 3346]
+blastoma -> [5]
+flu -> [3273, 4165, 4520, 4582]
+total FP: 10
+Precision: 0.6551724137931034 Recall: 0.95 F1-score: 0.7755102040816326
+id count: 20
+7162859 done.
+
+9416477_Abstract.xml
+FN:
+Pheochromocytoma=52
+Chronic Myeloid Leukemia=73
+Polycythemia=121
+Pheochromocytoma=157
+Pheo=175
+Pheo=563
+Pheo=1385
+Pheo=1557
+total FN: 8
+FP:
+myeloid leukemia -> [580, 1402]
+leukemia -> [588, 1410]
+disease -> [1625]
+HL -> [972]
+NF1 -> [900]
+CM -> [598, 1420, 1793]
+HD -> [24, 504, 950, 1302, 1691, 1754]
+total FP: 16
+Precision: 0.4074074074074074 Recall: 0.5789473684210527 F1-score: 0.47826086956521735
+id count: 19
+9416477_1. Introduction.xml
+FN:
+Pheochromocytoma=1
+Pheo=19
+Pheo=164
+Pheo=289
+Pheo=4583
+total FN: 5
+FP:
+myeloid leukemia -> [4600]
+leukemia -> [4608]
+sarcoma -> [2543]
+disease -> [710, 831, 1016, 1102]
+HL -> [2044]
+CM -> [4618]
+flu -> [589]
+fibroma -> [2433]
+PPR -> [1201]
+PGL -> [300, 794, 1689, 1709, 1863, 1924, 2332, 2640, 3263, 4263, 4482]
+NF1 -> [2455]
+neuroendocrine tumor -> [4228]
+HD -> [2083, 3356, 3928, 4318, 4395, 4534]
+total FP: 31
+Precision: 0.225 Recall: 0.6428571428571429 F1-score: 0.33333333333333337
+id count: 14
+9416477_4. Discussion.xml
+FN:
+Pheo=96
+Pheo=374
+Pheo=1148
+Pheo=4618
+total FN: 4
+FP:
+leukemia -> [6741]
+polycythemia -> [5230]
+PPR -> [6196]
+disease -> [545, 711, 5092]
+PGL -> [472, 2329]
+HL -> [1818]
+ptosis -> [6731]
+CM -> [105, 6074, 6213, 6279, 6611, 6663, 6818, 6984, 7054]
+HD -> [38, 165, 305, 412, 594, 856, 984, 1064, 1258, 1325, 1678, 1946, 2116, 2169, 2397, 2486, 2611, 3269, 3467, 3555, 4014, 4125, 4405, 4739, 4839, 5212, 5277, 5689, 5830, 7275]
+flu -> [3703]
+total FP: 50
+Precision: 0.2753623188405797 Recall: 0.8260869565217391 F1-score: 0.41304347826086957
+id count: 23
+9416477_3. Results.xml
+FN:
+Pheo=2519
+total FN: 1
+FP:
+HD -> [405, 634, 749, 1316, 2142, 2330, 2408, 2444, 2507, 2535, 2708, 2732, 2847]
+CM -> [522]
+total FP: 14
+Precision: 0.06666666666666667 Recall: 0.5 F1-score: 0.11764705882352941
+id count: 2
+9416477_5. Conclusions.xml
+FN:
+Pheo=88
+total FN: 1
+FP:
+CM -> [97]
+disease -> [205]
+HD -> [21, 324]
+total FP: 4
+Precision: 0.3333333333333333 Recall: 0.6666666666666666 F1-score: 0.4444444444444444
+id count: 3
+9416477_2. Materials and Methods.xml
+FN:
+Pheo=479
+Pheo=976
+Pheochromocytoma=1171
+Pheo=1395
+PHEO=7606
+total FN: 5
+FP:
+CML -> [2538]
+disease -> [1869]
+PGL -> [3300]
+HL -> [3594]
+noma -> [214]
+NF1 -> [3522]
+CM -> [2538]
+HD -> [3473, 3572, 4642, 5312, 5715, 5741, 5870, 6029, 8251]
+flu -> [1675]
+total FP: 17
+Precision: 0.19047619047619047 Recall: 0.4444444444444444 F1-score: 0.26666666666666666
+id count: 9
+9416477 done.
+
+9622975_Limitations.xml
+FN:
+PC=707
+PC=920
+total FN: 2
+FP:
+total FP: 0
+Precision: NaN Recall: 0.0 F1-score: NaN
+id count: 2
+9622975_Introduction.xml
+FN:
+PC=70
+PC=257
+PC=724
+PC=926
+PC=2202
+PC=2921
+PC=3238
+total FN: 7
+FP:
+cancer -> [62]
+noma -> [1536, 2543, 2701]
+total FP: 4
+Precision: 0.2 Recall: 0.125 F1-score: 0.15384615384615385
+id count: 8
+9622975_Results.xml
+FN:
+PC=79
+PC=259
+PC=2426
+PC=8965
+CANCER=10259
+PC=10413
+CANCER=12670
+PC=14150
+PC=14780
+PC=15179
+PC=15856
+CANCER=16369
+CANCER=16458
+pancreas cancer=17457
+CANCER=17831
+CANCER=19275
+PC=21325
+PC=21950
+total FN: 18
+FP:
+ALL -> [13707]
+CON -> [9093, 9528, 10209, 10738]
+HN -> [12887, 17218, 18282]
+noma -> [19215, 23067]
+ptosis -> [21186]
+FDD -> [16275]
+ERS -> [12674]
+ALS -> [9161, 9492, 10240, 10957, 11828, 12469, 13908]
+adenocarcinoma -> [19205]
+UTI -> [11615, 12052, 12258]
+RTS -> [13516]
+CAN -> [10259, 12670, 16369, 16458, 17831, 19275]
+carcinoma -> [19210]
+cancer -> [14165, 14385, 16883, 17466, 18021, 18540, 18798, 22344, 22724]
+WS -> [10310, 19018]
+FACE -> [11837]
+DIC -> [9202, 11183, 12873, 12909, 16970, 18071]
+total FP: 50
+Precision: 0.21875 Recall: 0.4375 F1-score: 0.2916666666666667
+id count: 32
+9622975_Abstract.xml
+FN:
+PC=246
+PC=690
+PC=431
+PC=1369
+PC=1617
+PC=1722
+PC=344
+total FN: 7
+FP:
+cancer -> [49, 238]
+CON -> [1156]
+total FP: 3
+Precision: 0.4 Recall: 0.2222222222222222 F1-score: 0.2857142857142857
+id count: 9
+9622975_Methods.xml
+FN:
+PC=97
+PC=912
+total FN: 2
+FP:
+neoplasm -> [560]
+carcinoma -> [573]
+noma -> [578]
+total FP: 3
+Precision: 0.25 Recall: 0.3333333333333333 F1-score: 0.28571428571428575
+id count: 3
+9622975_Discussion.xml
+FN:
+PC=152
+PC=544
+PC=665
+PC=1225
+PC=1568
+PC=1783
+PC=1833
+PC=2713
+PC=3041
+PC=3450
+PC=5484
+PC=6233
+PC=6716
+PC=6804
+PC=6954
+PC=6971
+PC=7062
+PC=7500
+PC=8190
+PC=8542
+PC=8633
+PC=8880
+CANCER=9083
+PC=9191
+PC=9416
+CANCER=9657
+CANCER=9746
+PC=10077
+PC=10307
+PC=10446
+PC=11552
+PC=12260
+PC=13712
+PC=14180
+PC=15577
+PC=17296
+PC=20051
+PC=20148
+PC=21227
+PC=21342
+PC=21913
+PC=21987
+PC=22035
+PC=22195
+PC=22221
+PC=23370
+PC=23632
+PC=23745
+PC=23929
+PC=24043
+PC=24414
+PC=25210
+PC=25811
+PC=27090
+PC=27718
+PC=28797
+PC=29787
+PC=30259
+PC=30419
+total FN: 59
+FP:
+CON -> [8382, 9033]
+noma -> [22134, 22463, 22563, 22975, 23317, 30614]
+ptosis -> [24568]
+FDD -> [9563]
+ALS -> [8413, 9064]
+CM -> [14237, 14604, 15460, 16798, 16998]
+UTI -> [8658, 8703, 8953]
+flu -> [6200, 7938, 12583, 29036]
+CAN -> [9083, 9657, 9746]
+neurotoxicity -> [22805]
+cancer -> [1937, 5906, 5943, 12089, 13630, 14310, 21966, 28225]
+WS -> [9134]
+DIC -> [8455]
+total FP: 38
+Precision: 0.15555555555555556 Recall: 0.10606060606060606 F1-score: 0.12612612612612611
+id count: 66
+9622975_Conclusion.xml
+FN:
+PC=70
+PC=239
+PC=540
+PC=677
+PC=935
+total FN: 5
+FP:
+CON -> [475]
+total FP: 1
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 5
+9622975 done.
+
+6737833_Author Contributions.xml file is empty for DISEASE.
+6737833_Final Remarks.xml
+FN:
+total FN: 0
+FP:
+disease -> [137]
+HL -> [650, 715, 784]
+flu -> [1214, 1337, 1384]
+total FP: 7
+Precision: 0.36363636363636365 Recall: 1.0 F1-score: 0.5333333333333333
+id count: 4
+6737833_Abstract.xml
+FN:
+primary immunodeficiencies=476
+(PID=503
+total FN: 2
+FP:
+PID -> [504]
+agammaglobulinemia -> [1012]
+disease -> [1277, 2298]
+syndrome -> [1330]
+total FP: 5
+Precision: 0.5454545454545454 Recall: 0.75 F1-score: 0.631578947368421
+id count: 8
+6737833_Introduction Rev.xml
+FN:
+XLA=1514
+XLA=1865
+XLA=2098
+XLA=2385
+XLA=2494
+XLA=1837
+XLA=2661
+X-linked ... severe combined immunodeficiency=2765
+XLA=3282
+XLA=4011
+Common variable immunodeficiency=6603
+X-linked lymphoproliferative disease (XLP) type 1=8891
+XLA=9009
+HIES=9054
+XLP-2=8970
+XLP-1=9210
+XLP-2=9217
+XLA=9228
+XLP-1=9319
+leukocyte adhesion deficiency-1=9362
+XLP=11767
+AR HIES=11772
+XLA=11781
+Hepatitis B=19994
+HIV=19980
+Hyper IgE Syndrome=20983
+AD-HIES=21490
+AD HIES=21722
+AR HIES=24365
+HIES=28358
+XLP=31996
+AR HIES=33952
+X-Linked Lymphoproliferative Disease=34213
+XLP-1=34268
+XLP-1=34432
+XLP=35081
+XLP=35152
+XLP-1=35280
+XLP=35340
+XLP=35591
+XLP=35705
+XLP-1=36028
+XLP=36172
+XLP-1=36272
+XLP=36446
+XLP=36588
+XLP=36799
+XLP=36984
+XLP=37485
+XLP=37850
+total FN: 50
+FP:
+IGHM -> [5747]
+agammaglobulinemia -> [1494]
+hypogammaglobulinemia -> [34296, 36003]
+X-linked hyper-IgM syndrome -> [3312]
+NS1 -> [8248]
+chronic mucocutaneous candidiasis -> [26489]
+SCID -> [3112]
+CFS -> [10493]
+cutaneous candidiasis -> [26501]
+pneumonia -> [21117]
+syndrome -> [3331, 6413, 11546, 20139]
+mononucleosis -> [36485]
+hyper IgM syndrome -> [6403]
+candidiasis -> [26511]
+infectious mononucleosis -> [36474]
+CF -> [5789, 10493]
+disease -> [312, 453, 4881, 5160, 8920, 10304, 11825, 19645, 20111, 26129, 31915, 35318, 36360]
+lymphoma -> [34361]
+GO -> [7639, 7730, 9726]
+leukocyte adhesion deficiency -> [9362]
+PID -> [12973, 20796]
+CM -> [17983, 18101, 21900, 22455, 23261, 23446, 24666, 25048, 28560, 35644]
+histiocytosis -> [36544]
+autoimmune disease -> [20100]
+flu -> [4332, 5086, 10102, 10429, 10461, 10631, 31055]
+RB -> [9692]
+XP3 -> [8761, 9029]
+HIV infection -> [4409, 4738, 4911, 5600]
+ADA -> [6124]
+lymphopenia -> [2876]
+combined immunodeficiency -> [2809, 32303]
+total FP: 71
+Precision: 0.36036036036036034 Recall: 0.4444444444444444 F1-score: 0.3980099502487562
+id count: 90
+6737833 done.
+
+9006883_Introduction.xml
+FN:
+Hepatocellular carcinoma=1
+HCC=27
+HCC=703
+HCC=772
+HCC=899
+HCC=2063
+HCC=2452
+HCC=2653
+total FN: 8
+FP:
+cancer -> [1506, 1556]
+carcinoma -> [16]
+noma -> [21]
+rectal cancer -> [1549]
+total FP: 5
+Precision: 0.5 Recall: 0.38461538461538464 F1-score: 0.4347826086956522
+id count: 13
+9006883_Data Availability Statement.xml file is empty for DISEASE.
+9006883_Discussion.xml
+FN:
+HCC=110
+HCC=377
+HCC=1010
+HCC=1041
+HCC=1124
+HCC=1461
+Retinoblastoma=1799
+HCC=1882
+HCC=2011
+HCC=2101
+HCC=2350
+HCC=2410
+HCC=3287
+HCC=2896
+HCC=3742
+HCC=3926
+HCC=4036
+HCC=4604
+HCC=4743
+HCC=4855
+HCC=5127
+total FN: 21
+FP:
+RB -> [300, 311, 1410, 1415, 1829, 2053, 2130]
+HL -> [1584]
+hepatitis B -> [2078]
+FHL1 -> [1583]
+cancer -> [1735]
+hepatitis -> [2078]
+blastoma -> [1805]
+total FP: 13
+Precision: 0.13333333333333333 Recall: 0.08695652173913043 F1-score: 0.10526315789473685
+id count: 23
+9006883_Author Contributions.xml file is empty for DISEASE.
+9006883_Publisher’s Note.xml file is empty for DISEASE.
+9006883_Results.xml
+FN:
+HCC=1
+HCC=106
+HCC=268
+HCC=603
+HCC=372
+HCC=645
+HCC=922
+HCC=1006
+HCC=1045
+HCC=1106
+HCC=1386
+HCC=1398
+HCC=2144
+HCC=2156
+HCC=2215
+HCC=2503
+HCC=2981
+HCC=3173
+HCC=3592
+HCC=4488
+HCC=4820
+HCC=5179
+HCC=5191
+HCC=5446
+HCC=5545
+HCC=5823
+HCC=6513
+HCC=7476
+HCC=8363
+HCC=9053
+HCC=9219
+HCC=9458
+HCC=10405
+HCC=11485
+HCC=12310
+HCC=12452
+HCC=13087
+HCC=13331
+HCC=13758
+HCC=13930
+total FN: 40
+FP:
+RB -> [2824, 4766, 4990, 5380, 7049, 7143, 9826, 9857, 9891, 10897]
+HL -> [10165, 10832]
+hepatitis B -> [179]
+carcinoma -> [226]
+noma -> [231]
+FHL1 -> [10164, 10831]
+cancer -> [11459]
+HD -> [3444, 3624, 3634]
+hepatitis -> [179]
+CHD -> [3443]
+total FP: 23
+Precision: 0.14814814814814814 Recall: 0.09090909090909091 F1-score: 0.11267605633802817
+id count: 44
+9006883_Abstract.xml
+FN:
+Hepatocellular Carcinoma=59
+Hepatocellular carcinoma=95
+HCC=121
+HCC=252
+HCC=475
+HCC=574
+HCC=816
+HCC=1087
+total FN: 8
+FP:
+RB -> [745, 757]
+carcinoma -> [110]
+noma -> [79, 115]
+total FP: 5
+Precision: 0.2857142857142857 Recall: 0.2 F1-score: 0.23529411764705882
+id count: 10
+9006883_Funding.xml
+FN:
+Cancer=171
+total FN: 1
+FP:
+total FP: 0
+Precision: NaN Recall: 0.0 F1-score: NaN
+id count: 1
+9006883_Methods.xml
+FN:
+Hepatocellular Carcinoma=106
+HCC=132
+Cancer=182
+HCC=563
+HCC=575
+HCC=678
+HCC=1052
+HCC=1066
+HCC=2452
+HCC=3643
+HCC=3985
+HCC=4055
+total FN: 12
+FP:
+cancer -> [1311, 1427]
+noma -> [126]
+total FP: 3
+Precision: 0.25 Recall: 0.07692307692307693 F1-score: 0.11764705882352941
+id count: 13
+9006883_Conflict of Interest.xml file is empty for DISEASE.
+9006883 done.
+
+8791029_Publisher’s Note.xml file is empty for DISEASE.
+8791029_Author Contributions.xml file is empty for DISEASE.
+8791029_Results.xml
+FN:
+FTD=375
+Cancer=11779
+total FN: 2
+FP:
+disease -> [8400, 8487, 8592, 12448]
+ptosis -> [17376]
+ERS -> [22145, 22930]
+GO -> [14048, 14152, 15180, 15256, 15590, 15736, 16222, 16411, 17649, 27378, 27560, 29013]
+SDSL -> [4904]
+flu -> [27021, 27072]
+RB -> [16592, 19001, 22266]
+KIN -> [18266, 18332]
+mental retardation -> [6272]
+RP1 -> [16755, 21241]
+GD2 -> [4059, 5783, 7419]
+TMN -> [5549]
+RP2 -> [16761, 21421]
+syndrome -> [6877]
+total FP: 37
+Precision: 0.02631578947368421 Recall: 0.3333333333333333 F1-score: 0.048780487804878044
+id count: 3
+8791029_Abstract.xml
+FN:
+total FN: 0
+FP:
+neurodegenerative disease -> [291]
+disease -> [309, 378]
+ptosis -> [649]
+dementia -> [237]
+flu -> [42, 774]
+degenerative disease -> [296]
+total FP: 8
+Precision: 0.1111111111111111 Recall: 1.0 F1-score: 0.19999999999999998
+id count: 1
+8791029_Conflict of Interest.xml file is empty for DISEASE.
+8791029_Introduction.xml
+FN:
+Alzheimer’s Disease=1433
+FTD=764
+NCL=1851
+NCL=1892
+FTD=1336
+FTD=1924
+FTD=2022
+FTD=2096
+Alzheimer’s disease=2913
+Parkinson’s disease=3009
+FTD=6624
+FTD=7225
+FTD=7323
+total FN: 13
+FP:
+sarcoma -> [6185]
+disease -> [19, 1316, 1617, 2763, 2925, 3021, 3497, 6092, 7405]
+ALS -> [6343]
+encephalopathy -> [1171, 1225]
+blastoma -> [4897]
+flu -> [3728, 4145]
+neurotoxicity -> [5328]
+cerebral ischemia -> [3300]
+dementia -> [619]
+lateral sclerosis -> [1083]
+degenerative disease -> [6, 3484]
+total FP: 22
+Precision: 0.35294117647058826 Recall: 0.48 F1-score: 0.4067796610169491
+id count: 25
+8791029_Materials and Methods.xml file is empty for DISEASE.
+8791029_Data Availability Statement.xml file is empty for DISEASE.
+8791029_Discussion.xml file is empty for DISEASE.
+8791029 done.
+
+9888429_Results.xml
+FN:
+Huntington’s disease=2224
+Parkinson’s disease=2277
+total FN: 2
+FP:
+disease -> [862, 1692, 1716, 1815, 2215, 2237, 2289, 3130, 6837]
+DSS -> [4657, 5092, 5391, 5568, 6014, 6391, 6731, 7100]
+noma -> [4791]
+primary bacterial infectious disease -> [1786]
+nervous system cancer -> [1746]
+GO -> [705]
+IBD -> [2648]
+flu -> [6902, 6970]
+adenoma -> [4788]
+infectious disease -> [1804]
+intestinal disease -> [6826]
+central nervous system cancer -> [1738]
+cancer -> [1566]
+total FP: 29
+Precision: 0.3958333333333333 Recall: 0.9047619047619048 F1-score: 0.5507246376811594
+id count: 21
+9888429_Ethics statement.xml file is empty for DISEASE.
+9888429_Abstract.xml
+FN:
+Inflammatory bowel disease=115
+total FN: 1
+FP:
+disease -> [96, 134, 223, 520]
+flu -> [841]
+total FP: 5
+Precision: 0.6875 Recall: 0.9166666666666666 F1-score: 0.7857142857142857
+id count: 12
+9888429_Materials and methods.xml
+FN:
+total FN: 0
+FP:
+DSS -> [3617, 3638, 3660, 3842, 3857]
+ERS -> [2579]
+GO -> [1035]
+DOS -> [1143]
+IBD -> [1286]
+flu -> [5044, 5063, 5617, 7095]
+total FP: 13
+Precision: 0.35 Recall: 1.0 F1-score: 0.5185185185185185
+id count: 7
+9888429_Conclusion.xml
+FN:
+total FN: 0
+FP:
+total FP: 0
+Precision: 1.0 Recall: 1.0 F1-score: 1.0
+id count: 3
+9888429_Data availability statement.xml file is empty for DISEASE.
+9888429_Author contributions.xml file is empty for DISEASE.
+9888429_Discussion.xml
+FN:
+Crohn’s disease=83
+Cancer=1203
+total FN: 2
+FP:
+colitis -> [71]
+disease -> [22, 91, 668, 1436, 3857, 4797]
+HL -> [5064]
+DSS -> [1576, 3085]
+noma -> [1811, 1957, 4106]
+rectal cancer -> [147, 4405, 4519]
+IBD -> [3323, 3361]
+flu -> [4684]
+adenoma -> [1808, 1954]
+cancer -> [154, 1355, 4084, 4147, 4170, 4412, 4526]
+total FP: 28
+Precision: 0.5757575757575758 Recall: 0.95 F1-score: 0.7169811320754716
+id count: 40
+9888429_Introduction.xml
+FN:
+total FN: 0
+FP:
+disease -> [44, 121, 1820, 2258, 2879]
+arthritis -> [2297]
+rectal cancer -> [513, 644, 754]
+cancer -> [520, 651, 761]
+CM -> [1990]
+autoimmune disease -> [110]
+total FP: 14
+Precision: 0.6216216216216216 Recall: 1.0 F1-score: 0.7666666666666667
+id count: 23
+9888429 done.
+
+8184989_Materials and methods.xml
+FN:
+Scoliosis=2444
+MPNST=2497
+total FN: 2
+FP:
+mental retardation -> [2196]
+fibroma -> [2488, 2625, 2652]
+optic nerve glioma -> [2333]
+neurofibroma -> [2620, 2647]
+total FP: 7
+Precision: 0.7741935483870968 Recall: 0.9230769230769231 F1-score: 0.8421052631578947
+id count: 26
+8184989_Discussion.xml
+FN:
+MPNST=4083
+total FN: 1
+FP:
+fibroma -> [7076, 8067]
+disease -> [1078, 4284, 4326, 4603, 5670, 7039]
+NF1 -> [6801]
+neurofibroma -> [7071, 8062]
+flu -> [5952]
+plexiform neurofibroma -> [8052]
+total FP: 13
+Precision: 0.8142857142857143 Recall: 0.9827586206896551 F1-score: 0.8906250000000001
+id count: 58
+8184989_Conclusions.xml
+FN:
+total FN: 0
+FP:
+malignant tumor -> [181]
+disease -> [148]
+total FP: 2
+Precision: 0.5 Recall: 1.0 F1-score: 0.6666666666666666
+id count: 2
+8184989_Results.xml
+FN:
+Scoliosis=1739
+MPNST=1946
+total FN: 2
+FP:
+fibroma -> [1878, 2077, 2103, 2135]
+neurofibroma -> [2098, 2130]
+total FP: 6
+Precision: 0.6666666666666666 Recall: 0.8571428571428571 F1-score: 0.75
+id count: 14
+8184989_Abstract.xml
+FN:
+neurofibromatosis type 1=72
+Neurofibromatosis type 1=138
+MPNST=1118
+total FN: 3
+FP:
+fibroma -> [77, 143, 1038, 1073]
+disease -> [463, 1281]
+neurofibromatosis -> [72]
+neurofibroma -> [72, 1068]
+malignant tumor -> [1325]
+total FP: 10
+Precision: 0.375 Recall: 0.6666666666666666 F1-score: 0.4800000000000001
+id count: 9
+8184989_Introduction.xml
+FN:
+Neurofibromatosis type-1=1
+MPNST=851
+Neurofibromatosis=1415
+total FN: 3
+FP:
+fibroma -> [6, 530, 737, 1420, 1568]
+disease -> [48]
+central nervous system tumor -> [607]
+central nervous system tumors -> [607]
+neurofibroma -> [525, 732, 1563]
+malignant tumor -> [589, 889, 1263]
+flu -> [1300]
+plexiform neurofibroma -> [722]
+total FP: 16
+Precision: 0.4482758620689655 Recall: 0.8125 F1-score: 0.5777777777777777
+id count: 16
+8184989 done.
+
+5833457_Introduction.xml
+FN:
+MPS IIIB=1219
+MPS IIIB=1386
+MPS IIIB=1471
+MPS IIIB=2599
+MPS IIIB=2793
+MPS IIIB=2911
+MPS IIIB=3139
+MPS IIIB=3279
+MPS IIIB=3373
+MPS IIIB=4092
+total FN: 10
+FP:
+mental retardation -> [934]
+NAGLU deficiency -> [4019]
+disease -> [65, 119, 1079, 1635, 3166, 3390, 3577, 4101]
+metabolic disease -> [55]
+hypertension -> [2985]
+total FP: 12
+Precision: 0.2 Recall: 0.23076923076923078 F1-score: 0.21428571428571427
+id count: 13
+5833457_Abstract.xml
+FN:
+lysosomal disease=58
+mucopolysaccharidosis IIIB=138
+Mucopolysaccharidosis (MPS) IIIB=176
+MPS IIIB=529
+cardiac disease=547
+MPS IIIB=688
+MPS IIIB=1650
+MPS IIIB=2013
+cardiac disease=2022
+total FN: 9
+FP:
+mucopolysaccharidosis -> [138]
+mucopolysaccharidosis III -> [138]
+mucopolysaccharidosis I -> [138]
+disease -> [68, 243, 555, 726, 2030]
+mucopolysaccharidosis II -> [138]
+total FP: 9
+Precision: 0.1 Recall: 0.1 F1-score: 0.10000000000000002
+id count: 10
+5833457_Materials and methods.xml file is empty for DISEASE.
+5833457_Results.xml
+FN:
+MPS IIIB=133
+cardiac disease=114
+MPS IIIB=733
+MPS IIIB=3878
+MPS IIIB=3984
+cardiac disease=4001
+MPS IIIB=10409
+MPS IIIB=10533
+MPS IIIB=10869
+MPS IIIB=16500
+total FN: 10
+FP:
+flu -> [1304, 4211, 10213, 15123]
+NAGLU deficiency -> [6037]
+disease -> [122, 180, 3887, 4009, 10542]
+total FP: 10
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 10
+5833457_Discussion.xml
+FN:
+MPS IIIB=81
+MPS IIIB=286
+MPS IIIB=473
+MPS IIIB=1190
+MPS IIIB=1762
+MPS IIIB=2018
+MPS IIIIB=3229
+MPS IIIB=4544
+MPS IIIB=7017
+MPS IIIB=8168
+MPS IIIB=6649
+total FN: 11
+FP:
+disease -> [1199, 1771, 6930, 7112, 7571, 7858, 8216]
+total FP: 7
+Precision: 0.2222222222222222 Recall: 0.15384615384615385 F1-score: 0.18181818181818185
+id count: 13
+5833457 done.
+
+8232996_Conclusions.xml file is empty for DISEASE.
+8232996_Discussion.xml
+FN:
+total FN: 0
+FP:
+SCN5 -> [2285, 2320]
+disease -> [1253, 1988, 2074, 2665]
+syndrome -> [2006]
+ptosis -> [1563, 4098]
+CM -> [3739, 3985, 4457]
+cardiac arrest -> [4395, 4843]
+flu -> [5308]
+Naxos disease -> [1982]
+Carvajal syndrome -> [1997]
+total FP: 17
+Precision: 0.45161290322580644 Recall: 1.0 F1-score: 0.6222222222222222
+id count: 14
+8232996_Case presentation.xml
+FN:
+total FN: 0
+FP:
+SCN5 -> [2955]
+anxiety -> [426, 532]
+generalized anxiety disorder -> [520]
+CM -> [1356, 2049]
+anxiety disorder -> [532]
+stroke -> [627]
+total FP: 8
+Precision: 0.2 Recall: 1.0 F1-score: 0.33333333333333337
+id count: 2
+8232996_Introduction.xml
+FN:
+Arrhythmogenic right ventricular dysplasia=1
+total FN: 1
+FP:
+total FP: 0
+Precision: 1.0 Recall: 0.6666666666666666 F1-score: 0.8
+id count: 3
+8232996_Abstract.xml
+FN:
+Arrhythmogenic right ventricular dysplasia=140
+total FN: 1
+FP:
+cardiac arrest -> [1500]
+ptosis -> [400]
+total FP: 2
+Precision: 0.75 Recall: 0.8571428571428571 F1-score: 0.7999999999999999
+id count: 7
+8232996 done.
+
+9719507_Introduction.xml
+FN:
+Bipolar disorder=1
+BD=19
+BD=167
+BD type I=221
+BD ... type II=221
+BD=358
+BD=565
+BD=768
+BD=949
+BD=1124
+BD=1245
+BD=1259
+BD=2259
+BD=2445
+BD=2619
+total FN: 15
+FP:
+Parkinson's disease 1 -> [2090]
+disease -> [2102]
+HN -> [2037, 3324]
+ptosis -> [865]
+NF1 -> [2038, 3325]
+autism -> [2118]
+flu -> [1931]
+total FP: 9
+Precision: 0.25 Recall: 0.16666666666666666 F1-score: 0.2
+id count: 18
+9719507_Material and methods.xml
+FN:
+type I BD=232
+BD=456
+BD=4811
+total FN: 3
+FP:
+NF1 -> [2269, 3086, 4770]
+CCA -> [3103, 3117, 3225, 3235, 3288, 3302, 3335, 4218, 4270, 4563]
+disease -> [973, 5209, 5493]
+HN -> [2268, 3085, 4769]
+total FP: 19
+Precision: 0.05 Recall: 0.25 F1-score: 0.08333333333333334
+id count: 4
+9719507_Supplementary Information.xml file is empty for DISEASE.
+9719507_Abstract.xml
+FN:
+Bipolar disorder=97
+BD=115
+BD=319
+BD=595
+BD=1087
+BD=1176
+total FN: 6
+FP:
+NF1 -> [450, 548]
+HN -> [449, 547]
+total FP: 4
+Precision: 0.2 Recall: 0.14285714285714285 F1-score: 0.16666666666666666
+id count: 7
+9719507_Discussion.xml
+FN:
+BD=123
+BD=525
+BD=577
+BD=810
+BD=891
+BD=1120
+BD=1233
+BD=1512
+BD II=1639
+BD I=1751
+BD ... II=1751
+BD II=1802
+BD=1913
+BD=2085
+BD=2316
+BD=2614
+BD=3181
+BD=3279
+total FN: 18
+FP:
+NF1 -> [1186, 1969]
+disease -> [3497]
+HN -> [1185, 1968]
+flu -> [425, 2064]
+ptosis -> [200, 989]
+total FP: 9
+Precision: 0.18181818181818182 Recall: 0.1 F1-score: 0.12903225806451613
+id count: 20
+9719507_Results.xml
+FN:
+BD=735
+BD=1660
+BD=2789
+BD=3249
+BD=3094
+BD=3640
+BD=4209
+total FN: 7
+FP:
+NF1 -> [984, 1248, 1838, 2581, 2741, 3283, 5269]
+bipolar disorder -> [4108]
+disease -> [1752, 5053]
+HN -> [983, 1247, 1837, 2580, 2740, 3282, 5268]
+total FP: 17
+Precision: 0.05555555555555555 Recall: 0.125 F1-score: 0.07692307692307691
+id count: 8
+9719507 done.
+
+4302655_Discussion.xml
+FN:
+total FN: 0
+FP:
+disease -> [2464, 2800, 2933]
+total FP: 3
+Precision: 0.5714285714285714 Recall: 1.0 F1-score: 0.7272727272727273
+id count: 4
+4302655_Results.xml
+FN:
+total FN: 0
+FP:
+CF -> [622, 1817, 3041]
+total FP: 3
+Precision: 0.4 Recall: 1.0 F1-score: 0.5714285714285715
+id count: 2
+4302655_Materials and methods.xml file is empty for DISEASE.
+4302655_Abstract.xml
+FN:
+total FN: 0
+FP:
+arthritis -> [207, 574]
+hypersensitivity -> [937]
+total FP: 3
+Precision: 0.4 Recall: 1.0 F1-score: 0.5714285714285715
+id count: 2
+4302655_Introduction.xml
+FN:
+Rheumatoid arthritis=1104
+RA=1126
+RA=1342
+RA=1593
+total FN: 4
+FP:
+hypersensitivity -> [874]
+disease -> [1094, 1458]
+arthritis -> [1115, 1539]
+autoimmune disease -> [1083]
+total FP: 6
+Precision: 0.4 Recall: 0.5 F1-score: 0.4444444444444445
+id count: 8
+4302655 done.
+
+7564071_5. Conclusions.xml
+FN:
+total FN: 0
+FP:
+cancer -> [574]
+total FP: 1
+Precision: 0.5 Recall: 1.0 F1-score: 0.6666666666666666
+id count: 1
+7564071_Abstract.xml
+FN:
+total FN: 0
+FP:
+total FP: 0
+Precision: 1.0 Recall: 1.0 F1-score: 1.0
+id count: 2
+7564071_3. Materials and Methods.xml file is empty for DISEASE.
+7564071_2. Results.xml
+FN:
+total FN: 0
+FP:
+HL -> [4792, 5002, 8692]
+WEE -> [3850, 3906, 4040, 4575]
+flu -> [7698, 9939, 10861, 15851, 17031]
+PCA -> [22424, 22517, 22690]
+AD2 -> [3130, 4860, 5822, 6204]
+total FP: 19
+Precision: 0.05 Recall: 1.0 F1-score: 0.09523809523809523
+id count: 1
+7564071_4. Discussion.xml file is empty for DISEASE.
+7564071_1. Introduction.xml
+FN:
+total FN: 0
+FP:
+ataxia telangiectasia -> [1918]
+telangiectasia -> [1925]
+flu -> [4270, 4775]
+AD2 -> [2861]
+total FP: 5
+Precision: 0.2857142857142857 Recall: 1.0 F1-score: 0.4444444444444445
+id count: 2
+7564071 done.
+
+3775523_MATERIALS AND METHODS.xml
+FN:
+HCC=446
+total FN: 1
+FP:
+CCA -> [1070, 1107, 1110, 1187, 1190, 2363, 2409, 2471, 2962, 4912, 4916, 4980, 5377, 6798, 6848, 7111, 7139, 7187]
+carcinoma -> [31, 193, 415, 466]
+noma -> [36, 198, 420, 471, 1702]
+adenocarcinoma -> [26]
+total FP: 28
+Precision: 0.125 Recall: 0.8 F1-score: 0.21621621621621623
+id count: 5
+3775523_INTRODUCTION Rev.xml
+FN:
+PCa=1
+PCa=379
+PCa=651
+PCa=713
+PCa=1365
+PCa=1440
+PCa=1612
+PCa=1731
+PCa=1898
+PCa=1962
+total FN: 10
+FP:
+RP1 -> [1330]
+cancer -> [15]
+hepatitis -> [2691]
+hepatitis B -> [2691]
+obesity -> [311]
+total FP: 5
+Precision: 0.2857142857142857 Recall: 0.16666666666666666 F1-score: 0.2105263157894737
+id count: 12
+3775523_RESULTS.xml
+FN:
+PCa=55
+PCa=740
+PCa=1196
+total FN: 3
+FP:
+CCA -> [1740, 4472]
+total FP: 2
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 3
+3775523_Abstract.xml
+FN:
+PCa=191
+PCa=436
+total FN: 2
+FP:
+CCA -> [1165]
+cancer -> [205]
+flu -> [1564]
+total FP: 3
+Precision: 0.4 Recall: 0.5 F1-score: 0.4444444444444445
+id count: 4
+3775523_DISCUSSION Rev.xml
+FN:
+PCa=178
+PCa=715
+PCa=1455
+PCa=2821
+HCC=2951
+HCC=3164
+PCa=3172
+PCa=4463
+HCC=4471
+HCC=4515
+HCC=4720
+PCa=5045
+HCC=5502
+PCa=5840
+HCC=5848
+total FN: 15
+FP:
+cancer -> [4533, 5140]
+hepatitis -> [4739]
+hepatitis B -> [4739]
+flu -> [5755]
+total FP: 5
+Precision: 0.4444444444444444 Recall: 0.21052631578947367 F1-score: 0.2857142857142857
+id count: 19
+3775523 done.
+
+8508478_Abstract.xml
+FN:
+Hyperuricemia=73
+Hyperuricemia=193
+Hyperuricemia=752
+total FN: 3
+FP:
+disease -> [252, 329]
+type 2 diabetes -> [270]
+vascular disease -> [320]
+diabetes mellitus -> [277]
+diabetes -> [277]
+total FP: 6
+Precision: 0.5384615384615384 Recall: 0.7 F1-score: 0.608695652173913
+id count: 10
+8508478_1. Introduction.xml
+FN:
+Hyperuricemia=1
+total FN: 1
+FP:
+disease -> [142, 455]
+kidney disease -> [448]
+stroke -> [548]
+flu -> [1940]
+hyperuricemia -> [1247]
+metabolic acidosis -> [977, 2530]
+vascular disease -> [133]
+syndrome -> [172]
+diabetes -> [212]
+total FP: 11
+Precision: 0.56 Recall: 0.9333333333333333 F1-score: 0.7000000000000001
+id count: 15
+8508478_3. Results.xml
+FN:
+total FN: 0
+FP:
+hyperuricemia -> [2220, 2328]
+total FP: 2
+Precision: 0.7777777777777778 Recall: 1.0 F1-score: 0.8750000000000001
+id count: 7
+8508478_5. Conclusions.xml
+FN:
+total FN: 0
+FP:
+total FP: 0
+Precision: 1.0 Recall: 1.0 F1-score: 1.0
+id count: 2
+8508478_4. Discussion.xml
+FN:
+total FN: 0
+FP:
+disease -> [4835]
+type 2 diabetes -> [3769]
+vascular disease -> [4826]
+syndrome -> [1463]
+gout -> [1817]
+diabetes mellitus -> [3776]
+diabetes -> [3776, 4066]
+total FP: 8
+Precision: 0.6923076923076923 Recall: 1.0 F1-score: 0.8181818181818181
+id count: 18
+8508478_2. Methods.xml
+FN:
+Hyperuricemia=2569
+Hyperuricemia=2583
+total FN: 2
+FP:
+hyperuricemia -> [3438]
+disease -> [317, 779, 833]
+vascular disease -> [770]
+total FP: 5
+Precision: 0.2857142857142857 Recall: 0.5 F1-score: 0.36363636363636365
+id count: 4
+8508478 done.
+
+9718849_Supplementary information.xml file is empty for DISEASE.
+9718849_Introduction.xml
+FN:
+Schizophrenia=1
+Schizophrenia=1273
+total FN: 2
+FP:
+disease -> [162, 936, 1401]
+total FP: 3
+Precision: 0.8695652173913043 Recall: 0.9090909090909091 F1-score: 0.888888888888889
+id count: 22
+9718849_Materials and methods.xml file is empty for DISEASE.
+9718849_Discussion.xml
+FN:
+Schizophrenia=1
+total FN: 1
+FP:
+disease -> [3218, 3243, 3384]
+schizophrenia -> [1528, 3976]
+metabolic disease -> [3208, 3374]
+insulin resistance -> [3279]
+total FP: 8
+Precision: 0.6666666666666666 Recall: 0.9411764705882353 F1-score: 0.7804878048780487
+id count: 17
+9718849_Abstract.xml
+FN:
+Schizophrenia=148
+total FN: 1
+FP:
+total FP: 0
+Precision: 1.0 Recall: 0.875 F1-score: 0.9333333333333333
+id count: 8
+9718849_Results.xml
+FN:
+total FN: 0
+FP:
+AD2 -> [4097, 5077, 5237, 5362, 5530]
+schizophrenia -> [11768]
+total FP: 6
+Precision: 0.6666666666666666 Recall: 1.0 F1-score: 0.8
+id count: 12
+9718849 done.
+
+8247374_Introduction.xml
+FN:
+Colorectal cancer=1
+CRC=20
+CRC=124
+CRC=293
+CRC=363
+CRC=615
+CRC=833
+glioma=1308
+CRC=2006
+CRC=2635
+CRC=2926
+CRC=3103
+CRC=3155
+CRC=3243
+CRC=3551
+total FN: 15
+FP:
+sarcoma -> [1143]
+carcinoma -> [1879]
+noma -> [1884]
+rectal cancer -> [5]
+cancer -> [12, 1157, 1176, 2523, 2790]
+flu -> [203]
+total FP: 10
+Precision: 0.47368421052631576 Recall: 0.375 F1-score: 0.4186046511627907
+id count: 24
+8247374_Abstract.xml
+FN:
+total FN: 0
+FP:
+cancer -> [61, 167, 406, 553, 744, 1240, 1346]
+rectal cancer -> [54, 160, 399, 546, 737, 1233, 1339]
+total FP: 14
+Precision: 0.3333333333333333 Recall: 1.0 F1-score: 0.5
+id count: 7
+8247374_Materials and Methods.xml
+FN:
+total FN: 0
+FP:
+CCA -> [731, 817, 906, 927, 993, 1014]
+PSS -> [6000]
+SPS -> [5999]
+rectal cancer -> [48, 1465]
+cancer -> [55, 1472]
+CM -> [424]
+total FP: 13
+Precision: 0.1875 Recall: 1.0 F1-score: 0.3157894736842105
+id count: 3
+8247374_Results.xml
+FN:
+CRC=251
+CRC=422
+CRC=491
+CRC=619
+CRC=921
+CRC=1105
+CRC=1125
+CRC=2090
+CRC=2145
+CRC=2705
+CRC=2851
+total FN: 11
+FP:
+cancer -> [77, 1014, 2908, 3033, 3407, 4447, 4509, 4596, 4875, 6043, 6300, 6366, 7514]
+rectal cancer -> [70, 1007, 2901, 3026, 3400, 4440, 4502, 4589, 4868, 6036, 6293, 6359, 7507]
+total FP: 26
+Precision: 0.3333333333333333 Recall: 0.5416666666666666 F1-score: 0.4126984126984126
+id count: 24
+8247374_Discussion.xml
+FN:
+CRC=70
+CRC=489
+CRC=951
+CRC=1051
+CRC=1072
+CRC=1483
+CRC=1576
+CRC=1707
+CRC=1812
+CRC=1940
+CRC=3143
+CRC=3442
+CRC=3519
+CRC=3750
+CRC=3949
+CRC=4075
+CRC=4197
+CRC=4457
+CRC=4559
+CRC=4714
+CRC=4822
+CRC=5051
+CRC=5095
+CRC=5503
+CRC=5592
+total FN: 25
+FP:
+cancer -> [2023, 2046, 2132]
+rectal cancer -> [2125]
+total FP: 4
+Precision: 0.5 Recall: 0.13793103448275862 F1-score: 0.2162162162162162
+id count: 29
+8247374 done.
+
+9789017_Prostate Cancer.xml
+FN:
+PC=203
+PC=267
+PC=330
+PC=653
+PC=937
+Prostate Cancer=1000
+PC=1206
+Prostate Cancer=1444
+PC=1641
+PC=1810
+PC=2371
+PC=2693
+PC=2780
+PC=2854
+PC=3078
+PC=3502
+PC=5111
+PC=5208
+PC=6368
+PC=6784
+PC=7049
+PC=7335
+PC=7448
+PC=8093
+PC=8271
+PC=8434
+PC=8589
+PC=8877
+PC=9294
+PC=9705
+PC=9742
+PC=10696
+PC=10821
+T2DM=10855
+PC=10947
+T2DM=11140
+PC=11149
+T2DM=11219
+PC=11340
+PC=11456
+PC=11563
+Obesity=11567
+PC=11658
+PC=11700
+PC=11870
+PC=11928
+PC=12004
+PC=12153
+PC=12261
+PC=12847
+PC=12946
+PC=13049
+PC=13113
+PC=13227
+Obesity=13291
+PC=13369
+PC=13487
+total FN: 57
+FP:
+hypogonadism -> [11072]
+disease -> [5992, 6934, 12893, 12930]
+syndrome -> [10668, 13274]
+cancer -> [23, 6990, 7660, 9955, 10335]
+flu -> [4976, 8918, 11979]
+obesity -> [10876]
+total FP: 16
+Precision: 0.4074074074074074 Recall: 0.16176470588235295 F1-score: 0.23157894736842105
+id count: 68
+9789017_Screening of prostate cancer.xml
+FN:
+PC=1
+PC=174
+PC=243
+PC=553
+PC=705
+PC=939
+PC=1106
+PC=1495
+Prostate Cancer=1658
+PC=1859
+PC=3090
+total FN: 11
+FP:
+flu -> [304]
+ERS -> [1675]
+total FP: 2
+Precision: 0.7777777777777778 Recall: 0.3888888888888889 F1-score: 0.5185185185185185
+id count: 18
+9789017_Prostate health in men with TRT.xml
+FN:
+PC=1054
+PC=1114
+PC=1354
+PC=1428
+PC=1607
+PC=1827
+PC=2029
+PC=2137
+PC=2374
+PC=2469
+PC=2649
+PC=2892
+PC=3460
+PC=3805
+PC=3913
+PC=4000
+PC=4292
+PC=4473
+PC=4683
+PC=4889
+PC=5149
+PC=5298
+PC=6028
+PC=6381
+PC=6559
+PC=6755
+PC=6914
+PC=7002
+PC=7210
+PC=7074
+PC=7284
+total FN: 31
+FP:
+prostate cancer -> [3299]
+cancer -> [952, 3308, 6927]
+disease -> [5365]
+flu -> [567]
+total FP: 6
+Precision: 0.25 Recall: 0.06060606060606061 F1-score: 0.0975609756097561
+id count: 33
+9789017_Benign prostate hyperplasia (BPH).xml
+FN:
+cardiovascular disease=1942
+T2DM=1986
+T2DM=2132
+total FN: 3
+FP:
+disease -> [1957, 3446, 4046, 4691]
+glucose intolerance -> [1862]
+hyperestrogenism -> [1710]
+flu -> [503, 3405]
+vascular disease -> [1948]
+syndrome -> [1653, 1749]
+HD -> [2209]
+dyslipidemia -> [1461, 1901]
+diabetes -> [1976]
+total FP: 15
+Precision: 0.3181818181818182 Recall: 0.7 F1-score: 0.4375
+id count: 10
+9789017_Abstract.xml
+FN:
+PC=359
+PC=766
+total FN: 2
+FP:
+cancer -> [351]
+flu -> [422]
+total FP: 2
+Precision: 0.5 Recall: 0.5 F1-score: 0.5
+id count: 4
+9789017_Potential role of selective androgen receptor modulators (SARMs) in prostate health.xml
+FN:
+PC=35
+PC=746
+PC=1023
+PC=1051
+PC=1385
+total FN: 5
+FP:
+osteoporosis -> [1133]
+syndrome -> [1120]
+total FP: 2
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 5
+9789017_Introduction.xml
+FN:
+PC=1271
+PC=1410
+total FN: 2
+FP:
+sexual dysfunction -> [399]
+hypogonadism -> [116]
+disease -> [970, 1523]
+cancer -> [1263]
+flu -> [1167, 1487]
+prostate disease -> [961, 1514]
+total FP: 9
+Precision: 0.1 Recall: 0.3333333333333333 F1-score: 0.15384615384615383
+id count: 3
+9789017_Summary.xml
+FN:
+PC=271
+PC=966
+PC=1055
+PC=1180
+PC=1307
+PC=1702
+PC=1724
+PC=1750
+total FN: 8
+FP:
+cancer -> [1861]
+syndrome -> [806]
+flu -> [290]
+total FP: 3
+Precision: 0.5 Recall: 0.2727272727272727 F1-score: 0.3529411764705882
+id count: 11
+9789017 done.
+
+7345849_1. Introduction.xml
+FN:
+cardiovascular disease=850
+total FN: 1
+FP:
+disease -> [595, 832, 865, 980, 3373]
+liver disease -> [974]
+fatty liver disease -> [968]
+non-alcoholic fatty liver -> [954]
+vascular disease -> [856]
+alcoholic fatty liver -> [958]
+diabetes -> [934]
+insulin resistance -> [904]
+total FP: 12
+Precision: 0.29411764705882354 Recall: 0.8333333333333334 F1-score: 0.4347826086956522
+id count: 6
+7345849_2. Materials and Methods.xml file is empty for DISEASE.
+7345849_3. Results.xml file is empty for DISEASE.
+7345849_Abstract.xml
+FN:
+total FN: 0
+FP:
+total FP: 0
+Precision: 1.0 Recall: 1.0 F1-score: 1.0
+id count: 1
+7345849_4. Discussion.xml
+FN:
+total FN: 0
+FP:
+obesity -> [1118]
+total FP: 1
+Precision: 0.5 Recall: 1.0 F1-score: 0.6666666666666666
+id count: 1
+7345849_5. Conclusions.xml file is empty for DISEASE.
+7345849 done.
+
+9886470_Abstract.xml
+FN:
+Lymphoma=84
+total FN: 1
+FP:
+lymphedema -> [1267]
+lymphoma -> [877]
+total FP: 2
+Precision: 0.8 Recall: 0.8888888888888888 F1-score: 0.8421052631578948
+id count: 9
+9886470_4. Discussion Rev.xml
+FN:
+Lymphoma=3225
+NHL=5503
+Lymphoma=7561
+total FN: 3
+FP:
+HL -> [5504]
+carcinoma -> [7441]
+lymphedema -> [7049]
+noma -> [7426, 7446]
+lymphoma -> [4322, 8868]
+ptosis -> [3908, 4258, 10146]
+flu -> [2095]
+total FP: 11
+Precision: 0.7962962962962963 Recall: 0.9347826086956522 F1-score: 0.8599999999999999
+id count: 46
+9886470_3. Results.xml
+FN:
+Lymphoma=907
+Lymphoma=1985
+Lymphoma=3072
+Lymphoma=3834
+Lymphoma=4756
+Lymphoma=5624
+total FN: 6
+FP:
+lymphedema -> [9483]
+lymphoma -> [4550, 6928]
+disease -> [1264, 1299]
+total FP: 5
+Precision: 0.8275862068965517 Recall: 0.8 F1-score: 0.8135593220338982
+id count: 30
+9886470_1. Introduction.xml
+FN:
+Lymphoma=1
+NHL=162
+NHL=221
+NHL=1283
+NHL=2780
+total FN: 5
+FP:
+HL -> [163, 222, 1284, 2781]
+lymphoma -> [122, 152, 280, 303, 416]
+ptosis -> [1180, 2197]
+Hodgkin lymphoma -> [144]
+total FP: 12
+Precision: 0.5714285714285714 Recall: 0.7619047619047619 F1-score: 0.6530612244897959
+id count: 21
+9886470_2. Subjects and Methods.xml
+FN:
+Lymphoma=614
+Atherosclerosis=1371
+Lymphoma=2776
+diffuse large B cell lymphoma=3522
+MZL=4265
+total FN: 5
+FP:
+leukemia -> [3829]
+CLL -> [2028, 2035, 2089]
+HL -> [3693]
+hepatitis C -> [2691]
+lymphoma -> [3543, 4255]
+hepatitis -> [2691]
+flu -> [4141]
+PSS -> [7771]
+SPS -> [7770]
+total FP: 12
+Precision: 0.6363636363636364 Recall: 0.8076923076923077 F1-score: 0.7118644067796609
+id count: 26
+9886470 done.
+
+5672786_Materials and methods.xml
+FN:
+Periodontitis=801
+total FN: 1
+FP:
+CCA -> [7975]
+PDD -> [2833]
+RP1 -> [5607]
+CF -> [1308, 2132, 3022, 3469, 4000]
+disease -> [152]
+periodontitis -> [2706]
+RP11 -> [5607]
+flu -> [2249]
+PCA -> [7490, 7606]
+total FP: 14
+Precision: 0.125 Recall: 0.6666666666666666 F1-score: 0.21052631578947367
+id count: 3
+5672786_Discussion.xml
+FN:
+total FN: 0
+FP:
+CF -> [1757, 4214, 5964, 6961, 7318, 8893, 9456]
+gingivitis -> [5328]
+disease -> [421, 586, 2838, 5061, 6031, 6144, 7747]
+periodontitis -> [4065, 4765, 9898]
+aggressive periodontitis -> [6405]
+flu -> [7576, 8358, 9863, 9960]
+total FP: 23
+Precision: 0.54 Recall: 1.0 F1-score: 0.7012987012987013
+id count: 27
+5672786_Introduction.xml
+FN:
+Periodontitis=1
+Periodontitis=245
+total FN: 2
+FP:
+CF -> [3530]
+disease -> [50, 357, 382, 717, 1288, 1667, 1889, 2121, 2267, 2525]
+periodontal disease -> [2109]
+flu -> [3522]
+periodontitis -> [2641]
+total FP: 14
+Precision: 0.48148148148148145 Recall: 0.8666666666666667 F1-score: 0.6190476190476191
+id count: 15
+5672786_Abstract.xml
+FN:
+total FN: 0
+FP:
+flu -> [580]
+CF -> [588, 973, 1074]
+total FP: 4
+Precision: 0.6 Recall: 1.0 F1-score: 0.7499999999999999
+id count: 6
+5672786_Author contributions.xml file is empty for DISEASE.
+5672786_Results.xml
+FN:
+total FN: 0
+FP:
+flu -> [5322, 18100]
+CF -> [27, 117, 1261, 1391, 1927, 1974, 2241, 2570, 2897, 3517, 3625, 3792, 3894]
+periodontitis -> [550, 1149, 2264, 3645, 4406, 4572]
+total FP: 21
+Precision: 0.43243243243243246 Recall: 1.0 F1-score: 0.6037735849056604
+id count: 16
+5672786 done.
+
+9992796_Materials and methods.xml
+FN:
+OM=876
+OM=1298
+total FN: 2
+FP:
+PSS -> [7793]
+CM -> [2932]
+otitis externa -> [2283]
+SPS -> [7792]
+total FP: 4
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 2
+9992796_Results.xml
+FN:
+OM=1167
+OM=1371
+OM=1517
+OM=1645
+OM=1766
+OM=2411
+OM=3031
+OM=3876
+OM=5030
+OM=6256
+total FN: 10
+FP:
+total FP: 0
+Precision: NaN Recall: 0.0 F1-score: NaN
+id count: 10
+9992796_Abstract.xml
+FN:
+Otitis media=145
+OM=159
+OM=535
+OM=1724
+OM=2090
+total FN: 5
+FP:
+disease -> [197]
+total FP: 1
+Precision: 0.5 Recall: 0.16666666666666666 F1-score: 0.25
+id count: 6
+9992796_Conclusion.xml
+FN:
+OM=474
+total FN: 1
+FP:
+total FP: 0
+Precision: NaN Recall: 0.0 F1-score: NaN
+id count: 1
+9992796_Introduction.xml
+FN:
+Otitis media=1
+OM=15
+OM=235
+OM=721
+OM=1140
+OM=2708
+total FN: 6
+FP:
+disease -> [129, 2413]
+arthritis -> [2335]
+infectious disease -> [118]
+meningitis -> [303]
+autoimmune disease -> [2402]
+flu -> [505]
+total FP: 7
+Precision: 0.125 Recall: 0.14285714285714285 F1-score: 0.13333333333333333
+id count: 7
+9992796_Discussion.xml
+FN:
+OM=1
+OM=138
+OM=513
+OM=608
+OM=734
+OM=1023
+OM=1931
+OM=2644
+OM=3162
+OM=3272
+OM=3361
+OM=3520
+OM=3926
+OM=4252
+OM=4486
+OM=4684
+OM=4827
+OM=4928
+OM=6221
+total FN: 19
+FP:
+influenza -> [1894]
+disease -> [41, 1824, 3721, 4309, 4467, 4665, 4763, 4817]
+pneumonia -> [1878]
+arthritis -> [1271, 2453]
+infectious disease -> [30, 4654]
+flu -> [1896]
+total FP: 15
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 19
+9992796 done.
+
+7217914_Abstract.xml
+FN:
+HCC=545
+HCC=641
+HCC=740
+HCC=901
+HCC=985
+HCC=1349
+HCC=1463
+HCC=1598
+HCC=1632
+total FN: 9
+FP:
+cancer -> [463]
+carcinoma -> [43, 534]
+noma -> [48, 539]
+ptosis -> [891]
+total FP: 6
+Precision: 0.3333333333333333 Recall: 0.25 F1-score: 0.28571428571428575
+id count: 12
+7217914_Results.xml
+FN:
+HCC=68
+HCC=108
+HCC=384
+HCC=472
+HCC=648
+HCC=795
+HCC=1764
+HCC=1871
+HCC=2019
+HCC=2098
+HCC=2182
+HCC=2904
+HCC=3031
+HCC=3153
+HCC=3345
+HCC=5033
+HCC=5126
+HCC=5938
+HCC=6020
+HCC=6423
+HCC=7923
+HCC=8032
+HCC=9022
+HCC=9111
+HCC=9739
+HCC=9971
+HCC=10163
+HCC=10688
+HCC=10802
+HCC=11252
+HCC=11382
+HCC=11643
+HCC=11844
+HCC=12636
+HCC=13932
+HCC=14054
+HCC=14916
+HCC=14977
+HCC=15034
+total FN: 39
+FP:
+cancer -> [245]
+HL -> [570, 2280]
+ptosis -> [4063, 4505, 5550, 6921, 7077, 7192, 8649, 13191, 13377, 14569]
+total FP: 13
+Precision: 0.07142857142857142 Recall: 0.025 F1-score: 0.03703703703703704
+id count: 40
+7217914_Discussion.xml
+FN:
+HCC=24
+oral mucosal melanoma=370
+non-small cell lung cancer=397
+HCC=433
+HCC=659
+HCC=786
+HCC=964
+HCC=1080
+HCC=1146
+HCC=1514
+HCC=1925
+HCC=2066
+HCC=2763
+HCC=2862
+HCC=3049
+HCC=3132
+HCC=3195
+HCC=3352
+HCC=3494
+HCC=3534
+HCC=3755
+total FN: 21
+FP:
+sarcoma -> [357, 1667]
+disease -> [277]
+noma -> [387]
+ptosis -> [1222, 1990]
+melanoma -> [383]
+blastoma -> [1689]
+lung cancer -> [412]
+mucosal melanoma -> [375]
+cancer -> [340, 417, 490, 2336]
+malignant tumor -> [85]
+total FP: 15
+Precision: 0.2857142857142857 Recall: 0.2222222222222222 F1-score: 0.25
+id count: 27
+7217914_Supplementary information.xml file is empty for DISEASE.
+7217914_Introduction.xml
+FN:
+HCC=81
+HCC=346
+HCC=662
+HCC=808
+HCC=931
+HCC=1008
+HCC=1057
+non-small cell lung cancer=2099
+HCC=2302
+HCC=2349
+HCC=2932
+HCC=3031
+HCC=3146
+HCC=3266
+HCC=3470
+total FN: 15
+FP:
+lung cancer -> [2114]
+sarcoma -> [1960, 1984]
+disease -> [1715, 2705]
+hepatitis B -> [376]
+carcinoma -> [70]
+noma -> [75]
+cancer -> [1859, 2119, 2876]
+hepatitis -> [376]
+total FP: 12
+Precision: 0.3684210526315789 Recall: 0.3181818181818182 F1-score: 0.3414634146341463
+id count: 22
+7217914_Materials and methods.xml
+FN:
+HCC=514
+total FN: 1
+FP:
+HL -> [602]
+ptosis -> [3157, 3282]
+total FP: 3
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 1
+7217914 done.
+
+5009375_Results Rev.xml
+FN:
+HCC=54
+HCC=106
+HCC=181
+HCC=269
+HCC=361
+HCC=401
+HCC=715
+HCC=763
+HCC=841
+HCC=920
+HCC=1318
+HCC=2008
+HCC=2078
+HCC=2134
+HCC=2564
+HCC=2713
+HCC=2825
+HCC=2912
+HCC=2972
+HCC=3023
+HCC=3317
+HCC=3421
+HCC=3502
+HCC=3535
+HCC=3794
+HCC=3869
+HCC=4099
+HCC=4245
+HCC=5011
+HCC=5108
+HCC=5172
+HCC=5868
+HCC=6254
+HCC=6418
+HCC=6515
+HCC=7552
+HCC=7678
+HCC=7771
+HCC=8174
+total FN: 39
+FP:
+ptosis -> [4480, 4748, 5032]
+total FP: 3
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 39
+5009375_Additional Information.xml
+FN:
+total FN: 0
+FP:
+carcinoma -> [105, 144]
+noma -> [110, 149]
+total FP: 4
+Precision: 0.3333333333333333 Recall: 1.0 F1-score: 0.5
+id count: 2
+5009375_Materials and Methods.xml
+FN:
+HCC=582
+HCC=772
+Cancer=6916
+HCC=7111
+total FN: 4
+FP:
+PSS -> [6821, 6841]
+LIH -> [6990]
+BSS -> [5652, 5747]
+ptosis -> [3308]
+SPS -> [6820, 6840]
+total FP: 8
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 4
+5009375_Discussion.xml
+FN:
+HCC=164
+HCC=232
+HCC=476
+HCC=551
+HCC=1810
+HCC=2147
+HCC=2624
+HCC=2751
+HCC=2820
+HCC=2927
+HCC=3057
+HCC=3173
+HCC=3307
+total FN: 13
+FP:
+prostate cancer -> [1686]
+cancer -> [1760]
+disease -> [101]
+ptosis -> [2684]
+total FP: 4
+Precision: 0.3333333333333333 Recall: 0.13333333333333333 F1-score: 0.19047619047619044
+id count: 15
+5009375_Abstract.xml
+FN:
+Hepatocellular carcinoma=174
+HCC=200
+HCC=306
+HCC=363
+HCC=603
+HCC=689
+HCC=752
+HCC=1140
+HCC=1230
+HCC=1338
+HCC=1376
+HCC=1458
+total FN: 12
+FP:
+carcinoma -> [93, 132, 189]
+noma -> [98, 137, 194]
+total FP: 6
+Precision: 0.3333333333333333 Recall: 0.2 F1-score: 0.25
+id count: 15
+5009375 done.
+
+9587286_Abstract.xml
+FN:
+total FN: 0
+FP:
+cancer -> [117, 329, 454, 540, 1217, 1358]
+HD -> [8, 158, 182, 314, 479, 525, 655, 802, 1154, 1258]
+ADA -> [1024, 1269]
+total FP: 18
+Precision: 0.25 Recall: 1.0 F1-score: 0.4
+id count: 6
+9587286_Discussion.xml
+FN:
+total FN: 0
+FP:
+cancer -> [99, 258, 773, 876, 4009, 4081, 4314, 4802, 5056, 5400, 5463, 6212, 6713, 6815]
+HD -> [29, 142, 243, 362, 418, 429, 717, 800, 909, 965, 1084, 1316, 1379, 1830, 2052, 2180, 2272, 2413, 3087, 3284, 3511, 3849, 3906, 3969, 4172, 4232, 4339, 4614, 4758, 5802, 6167, 6282, 6289, 6434, 6692]
+ADA -> [534, 602, 5827, 5870, 6001, 6173, 6449]
+total FP: 56
+Precision: 0.2112676056338028 Recall: 1.0 F1-score: 0.3488372093023256
+id count: 15
+9587286_Materials and methods.xml
+FN:
+Cancer=71
+Cancer=199
+Cancer=326
+total FN: 3
+FP:
+CCA -> [1532, 1834, 1868, 7857, 7861, 7946, 7954, 8001, 8037, 8041, 8045, 8084, 8129, 8133, 8137, 8398, 8446, 8540]
+cancer -> [25, 132, 557, 2020, 3136, 6724, 10693]
+CM -> [5170]
+HD -> [1620, 1642, 1779, 1820, 1854, 2585, 6394, 7788, 7833, 8880, 9172, 9570, 9791, 9810, 10629]
+ADA -> [1466, 5567, 6233, 9890, 10189]
+flu -> [3809, 5202]
+total FP: 48
+Precision: 0.12727272727272726 Recall: 0.7 F1-score: 0.2153846153846154
+id count: 10
+9587286_Results.xml
+FN:
+total FN: 0
+FP:
+colon cancer -> [4064, 7332, 7743]
+AD17 -> [6494]
+cancer -> [36, 190, 296, 542, 981, 1832, 1945, 2040, 2675, 3917, 4070, 5357, 5496, 7110, 7338, 7749, 7992, 12954, 13220, 20978, 21102, 21212, 21289, 21847, 22161, 22341, 22434, 22501, 22872]
+CM -> [6606]
+HD -> [10, 129, 449, 488, 684, 749, 874, 959, 1045, 1397, 1470, 1561, 1723, 1817, 1919, 2006, 2151, 2291, 2475, 2512, 2584, 2653, 2839, 2979, 3054, 3097, 3351, 3521, 3556, 3878, 4019, 4327, 4383, 4862, 5111, 5240, 5315, 5407, 5457, 5652, 5678, 6174, 6292, 6387, 6556, 6813, 6863, 6927, 7037, 7591, 7835, 7954, 8043, 8445, 8492, 8595, 8803, 8810, 8909, 9196, 10138, 10408, 10479, 10629, 11258, 11411, 11582, 11753, 11880, 11966, 12203, 12389, 12572, 12869, 13010, 13336, 13988, 14032, 14161, 14189, 14351, 14513, 14598, 14712, 14884, 14955, 15080, 15095, 15122, 15233, 15325, 15481, 15563, 15618, 15759, 15838, 15923, 16050, 16067, 16312, 17164, 17725, 18055, 18214, 20054, 20135, 20221, 20821, 20952, 21015, 21191, 21374, 21634, 21758, 22029, 22095, 22291, 22408, 22563, 23011, 23401]
+ADA -> [3969, 5539, 6328, 6446, 6522, 7225, 7261, 7379, 7468, 7610, 7698, 7787, 7884, 8035, 8100, 8128, 8318, 8415, 8541, 8614, 8680, 8771, 8966, 9059, 9437, 9958, 10513, 10765, 10935, 11790, 12162, 13047, 13195, 22145, 23301]
+flu -> [14040]
+total FP: 191
+Precision: 0.11981566820276497 Recall: 1.0 F1-score: 0.2139917695473251
+id count: 26
+9587286_Introduction.xml
+FN:
+Colon cancer=1
+total FN: 1
+FP:
+TAM -> [390, 465, 595]
+colorectal cancer -> [3322]
+noma -> [1266]
+rectal cancer -> [3326]
+cancer -> [7, 248, 635, 808, 1755, 1946, 3333, 3564, 4223, 5038, 5110, 5652]
+HD -> [959, 1137, 1195, 1279, 1447, 1514, 1736, 1895, 4983, 5063, 5190, 5368, 5375, 5513]
+malignant tumor -> [26]
+ADA -> [2557, 3299, 5270]
+flu -> [5436]
+total FP: 37
+Precision: 0.24489795918367346 Recall: 0.9230769230769231 F1-score: 0.3870967741935484
+id count: 13
+9587286_Supplementary information.xml file is empty for DISEASE.
+9587286 done.
+
+9576726_Abstract.xml
+FN:
+Renal fibrosis=151
+ureter obstruction=619
+total FN: 2
+FP:
+kidney disease -> [233]
+disease -> [240]
+total FP: 2
+Precision: 0.7142857142857143 Recall: 0.7142857142857143 F1-score: 0.7142857142857143
+id count: 7
+9576726_Discussion.xml
+FN:
+Renal fibrosis=694
+kidney fibrosis=2161
+total FN: 2
+FP:
+disease -> [773, 1492, 3930, 4452]
+ptosis -> [4571]
+nephropathy -> [2441]
+kidney disease -> [766]
+CM -> [3463]
+renal fibrosis -> [422, 561, 6037]
+ischemia -> [1839, 4522]
+total FP: 13
+Precision: 0.5666666666666667 Recall: 0.8947368421052632 F1-score: 0.6938775510204083
+id count: 19
+9576726_Background.xml
+FN:
+Chronic kidney disease=1
+total FN: 1
+FP:
+disease -> [16, 2351]
+syndrome -> [2675]
+acute respiratory distress syndrome -> [2648]
+kidney disease -> [9]
+total FP: 5
+Precision: 0.7368421052631579 Recall: 0.9333333333333333 F1-score: 0.8235294117647058
+id count: 15
+9576726_Supplementary information.xml file is empty for DISEASE.
+9576726_Results.xml
+FN:
+total FN: 0
+FP:
+renal fibrosis -> [1598]
+CM -> [2319, 3871, 5726, 5837, 5953, 6318, 6656, 6885, 7322, 7477, 10397, 10461, 10571, 10686, 11454, 11760, 11916, 12059, 12995, 13477]
+flu -> [3635, 13084]
+total FP: 23
+Precision: 0.28125 Recall: 1.0 F1-score: 0.43902439024390244
+id count: 9
+9576726_Materials and methods.xml file is empty for DISEASE.
+9576726 done.
+
+9604124_2. Results.xml
+FN:
+HCC=99
+HCC=145
+HCC=494
+HCC=790
+HCC=983
+HCC=1871
+HCC=2273
+HCC=2588
+Liver Cirrhosis=2596
+Liver Cirrhosis=3309
+HCC=3300
+HCC=3414
+total FN: 12
+FP:
+ILD -> [1731]
+Cirrhosis -> [2602, 3315]
+disease -> [1957]
+HD -> [746, 2430]
+insulin resistance -> [629, 2348, 2835]
+liver cirrhosis -> [2295]
+flu -> [1331]
+total FP: 11
+Precision: 0.26666666666666666 Recall: 0.25 F1-score: 0.2580645161290323
+id count: 16
+9604124_3. Discussion.xml
+FN:
+HCC=21
+Liver cirrhosis=179
+HCC=249
+HCC=363
+HCC=455
+HCC=602
+HCC=783
+HCC=1351
+HCC=1766
+HCC=2635
+HCC=3397
+HCC=3469
+nonalcoholic steatohepatitis=4654
+HCC=4888
+HCC=4952
+HCC=5038
+HCC=5243
+HCC=5304
+HCC=5755
+HCC=5936
+HCC=6118
+HCC=6367
+HCC=7974
+HCC=8860
+HCC=9303
+HCC=9541
+HCC=9686
+HCC=10350
+HCC=10977
+HCC=11278
+HCC=11365
+total FN: 31
+FP:
+leukemia -> [2334, 4185]
+disease -> [825, 3561]
+ptosis -> [4255]
+hepatitis -> [4673]
+flu -> [5029]
+cancer -> [2749, 3461]
+HD -> [995, 4615, 8568, 8847, 8974, 9154, 9244]
+dyslipidemia -> [933, 8720]
+insulin resistance -> [909, 3229]
+primary liver cancer -> [2735, 3447]
+total FP: 22
+Precision: 0.5416666666666666 Recall: 0.45614035087719296 F1-score: 0.4952380952380952
+id count: 57
+9604124_4. Materials and Methods.xml
+FN:
+HCC=1563
+HCC=2383
+HCC=2661
+HCC=2856
+HCC=3974
+HCC=4337
+HCC=4482
+HCC=4808
+HCC=7712
+HCC=7802
+HCC=11430
+total FN: 11
+FP:
+morbid obesity -> [7288]
+disease -> [1140, 2594, 2885, 2903, 2920, 3849, 7737]
+uterine disease -> [2895]
+blood disorder -> [2488]
+kidney disease -> [2913]
+liver cirrhosis -> [11445]
+flu -> [8137, 8186]
+PSS -> [9850]
+SPS -> [9849]
+HD -> [6077, 7412]
+schistosomiasis -> [2538]
+insulin resistance -> [7515]
+obesity -> [7249, 7295]
+total FP: 22
+Precision: 0.15384615384615385 Recall: 0.26666666666666666 F1-score: 0.1951219512195122
+id count: 15
+9604124_Abstract.xml
+FN:
+Hepatocellular Carcinoma=130
+HCC=206
+HCC=334
+HCC=462
+HCC=682
+HCC=763
+HCC=933
+HCC=1251
+HCC=1446
+HCC=1674
+HCC=1990
+total FN: 11
+FP:
+carcinoma -> [195]
+hepatitis C -> [294]
+noma -> [150, 200]
+hepatitis -> [294]
+insulin resistance -> [1508]
+total FP: 6
+Precision: 0.5714285714285714 Recall: 0.42105263157894735 F1-score: 0.48484848484848486
+id count: 19
+9604124_5. Conclusions.xml
+FN:
+HCC=99
+HCC=257
+HCC=410
+HCC=531
+HCC=652
+total FN: 5
+FP:
+insulin resistance -> [598]
+total FP: 1
+Precision: 0.6666666666666666 Recall: 0.2857142857142857 F1-score: 0.4
+id count: 7
+9604124_1. Introduction.xml
+FN:
+Liver cancer=13
+HCC=66
+HCC=236
+HCC=288
+HCC=344
+HCC=462
+HCC=522
+HCC=773
+HCC=805
+HCC=904
+HCC=1057
+HCC=1202
+HCC=3099
+HCC=3278
+HCC=3318
+HCC=3570
+HCC=3726
+HCC=3810
+total FN: 18
+FP:
+disease -> [399]
+lupus erythematosus -> [2723]
+hepatitis C -> [554]
+noma -> [60]
+hepatitis -> [554]
+lupus -> [2723]
+arthritis -> [2693]
+carcinoma -> [55]
+cancer -> [19, 185, 252]
+primary liver cancer -> [171]
+total FP: 12
+Precision: 0.5 Recall: 0.4 F1-score: 0.4444444444444445
+id count: 30
+9604124 done.
+
+6707240_Introduction.xml
+FN:
+Osteosarcoma=1
+total FN: 1
+FP:
+malignant bone tumour -> [41]
+cancer -> [927, 954]
+sarcoma -> [6, 1180, 1383]
+bone tumour -> [51]
+total FP: 7
+Precision: 0.2222222222222222 Recall: 0.6666666666666666 F1-score: 0.3333333333333333
+id count: 3
+6707240_Results.xml
+FN:
+total FN: 0
+FP:
+HS4 -> [2486, 5455, 6129, 6509]
+OHS -> [2485, 5454, 6128, 6508]
+sarcoma -> [132, 884, 2020, 3623, 3896, 3982, 4287, 5401, 7924]
+SCID -> [10333, 12445, 16959]
+osteosarcoma -> [3618]
+flu -> [3850, 4222, 16801, 17652]
+total FP: 25
+Precision: 0.24242424242424243 Recall: 1.0 F1-score: 0.3902439024390244
+id count: 8
+6707240_Abstract.xml
+FN:
+Osteosarcoma=136
+total FN: 1
+FP:
+sarcoma -> [117, 141, 322, 511, 1030, 1455]
+total FP: 6
+Precision: 0.45454545454545453 Recall: 0.8333333333333334 F1-score: 0.5882352941176471
+id count: 6
+6707240_Methods.xml
+FN:
+total FN: 0
+FP:
+OHS -> [442]
+sarcoma -> [44]
+SCID -> [4111]
+flu -> [4549]
+combined immunodeficiency -> [4084]
+total FP: 5
+Precision: 0.16666666666666666 Recall: 1.0 F1-score: 0.2857142857142857
+id count: 1
+6707240_Discussion.xml
+FN:
+total FN: 0
+FP:
+sarcoma -> [69, 161, 907, 988, 2287, 2603, 2734, 3388, 4472, 4515, 5025, 5266, 5405, 5869, 6323, 6712, 6891, 7025]
+DHF -> [2088, 2324]
+RCC -> [2003]
+flu -> [1502, 1711, 1939]
+total FP: 24
+Precision: 0.45454545454545453 Recall: 1.0 F1-score: 0.625
+id count: 20
+6707240_Supplementary information.xml file is empty for DISEASE.
+6707240 done.
+
+8276170_Introduction.xml
+FN:
+BCC=396
+BCC=463
+BCC=652
+BCC=749
+BCC=855
+BCC=1347
+BCC=1576
+BCC=2598
+PTCH1=2682
+BCC=2758
+BCC=2997
+BCC=3356
+BCC=3573
+colon ... carcinoma=3953
+pancreatic ... carcinoma=3967
+esophageal adenocarcinoma=4129
+BCC=4413
+esophageal ... cancer=5344
+BCC=5927
+BCC=6115
+BCC=6025
+BCC=6281
+BCC=6528
+total FN: 23
+FP:
+sarcoma -> [355]
+myosarcoma -> [352]
+noma -> [390, 3996, 4150]
+epithelial cancer -> [489]
+adenocarcinoma -> [4140]
+blastoma -> [325, 1261, 4109, 4258, 5503]
+carcinoma -> [385, 3991, 4145]
+cancer -> [500, 542, 4400, 5373]
+HD -> [3275]
+total FP: 20
+Precision: 0.3548387096774194 Recall: 0.3235294117647059 F1-score: 0.3384615384615384
+id count: 34
+8276170_Author Contributions.xml file is empty for DISEASE.
+8276170_Discussion.xml
+FN:
+BCC=533
+BCC=572
+BCC=946
+BCC=1382
+BCC=1452
+BCC=1559
+BCC=2146
+BCC=2223
+BCC=2560
+BCC=2664
+BCC=2787
+BCC=2937
+BCC=3046
+BCC=3203
+esophageal adenocarcinoma=3450
+BCC=3933
+total FN: 16
+FP:
+GANT -> [3636]
+sarcoma -> [3730]
+myosarcoma -> [3727]
+noma -> [3471]
+ptosis -> [1781, 2484]
+adenocarcinoma -> [3461]
+blastoma -> [346, 3384, 3534]
+carcinoma -> [3466]
+cancer -> [205, 231]
+total FP: 13
+Precision: 0.35 Recall: 0.30434782608695654 F1-score: 0.3255813953488372
+id count: 23
+8276170_Disclaimer.xml file is empty for DISEASE.
+8276170_Abstract.xml
+FN:
+Basal Cell Carcinoma=22
+Basal cell carcinoma=100
+BCC=122
+BCC=231
+BCC=261
+BCC=451
+BCC=528
+BCC=589
+BCC=652
+BCC=704
+BCC=834
+BCC=1192
+total FN: 12
+FP:
+epithelial cancer -> [149]
+carcinoma -> [111]
+noma -> [38, 116]
+total FP: 4
+Precision: 0.2 Recall: 0.07692307692307693 F1-score: 0.1111111111111111
+id count: 13
+8276170_Results.xml
+FN:
+BCC=45
+BCC=102
+BCC=252
+BCC=430
+BCC=659
+BCC=1365
+BCC=1425
+BCC=1548
+BCC=1848
+BCC=1975
+BCC=2125
+BCC=2207
+BCC=2391
+BCC=2460
+BCC=2608
+BCC=3336
+BCC=3441
+BCC=3564
+BCC=4701
+BCC=5302
+BCC=3589
+BCC=2578
+total FN: 22
+FP:
+RB -> [1250]
+flu -> [1592]
+ptosis -> [3151]
+total FP: 3
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 22
+8276170_Ethics Statement.xml file is empty for DISEASE.
+8276170_Funding.xml file is empty for DISEASE.
+8276170_Materials and Methods.xml
+FN:
+BCC=562
+BCC=1216
+BCC=3777
+BCC=4723
+total FN: 4
+FP:
+RB -> [209, 1185]
+flu -> [1976, 5174]
+CF -> [1607]
+total FP: 5
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 4
+8276170_Data Availability Statement.xml file is empty for DISEASE.
+8276170_Conflict of Interest.xml file is empty for DISEASE.
+8276170 done.
+
+5996034_Ethics Statement.xml file is empty for DISEASE.
+5996034_Introduction.xml
+FN:
+Inflammatory bowel disease=2581
+total FN: 1
+FP:
+disease -> [2600]
+DSS -> [3264]
+carcinoma -> [2326]
+noma -> [2331]
+ptosis -> [2275]
+total FP: 5
+Precision: 0.5454545454545454 Recall: 0.8571428571428571 F1-score: 0.6666666666666665
+id count: 7
+5996034_Discussion.xml
+FN:
+UC=2463
+UC=6734
+UC=6955
+UC=7350
+UC=2276
+total FN: 5
+FP:
+cancer -> [7218]
+colitis -> [2267]
+DSS -> [379, 632, 2117, 2407, 2686, 3041, 3827, 3968, 4169, 4695, 5311, 5386, 6610, 6903]
+flu -> [3331]
+total FP: 17
+Precision: 0.5277777777777778 Recall: 0.7916666666666666 F1-score: 0.6333333333333333
+id count: 24
+5996034_Author Contributions.xml file is empty for DISEASE.
+5996034_Results.xml
+FN:
+Colitis=39
+Colitis=2941
+Colitis=4798
+Colitis=1832
+total FN: 4
+FP:
+DSS -> [1847, 1901, 2207, 2391, 2487, 2702, 2757, 4023, 4245, 4316, 4416, 4616, 4955, 5106, 5544, 5736, 5894, 6237, 6385, 6582, 6992, 7405, 7481, 7604, 7784]
+total FP: 25
+Precision: 0.3902439024390244 Recall: 0.8 F1-score: 0.5245901639344263
+id count: 20
+5996034_Conflict of Interest Statement.xml file is empty for DISEASE.
+5996034_Materials and Methods.xml
+FN:
+total FN: 0
+FP:
+DSS -> [1014, 1094, 1941]
+total FP: 3
+Precision: 0.5 Recall: 1.0 F1-score: 0.6666666666666666
+id count: 3
+5996034_Abstract Rev.xml
+FN:
+Colitis=65
+total FN: 1
+FP:
+disease -> [739]
+DSS -> [910, 1194, 1560, 1903, 2162]
+flu -> [2057]
+total FP: 7
+Precision: 0.4166666666666667 Recall: 0.8333333333333334 F1-score: 0.5555555555555556
+id count: 6
+5996034 done.
+
+4844106_Abstract.xml
+FN:
+Spinal Muscular Atrophy=78
+SMA=481
+SMA=1549
+total FN: 3
+FP:
+muscular atrophy -> [242]
+disease -> [1563]
+total FP: 2
+Precision: 0.3333333333333333 Recall: 0.25 F1-score: 0.28571428571428575
+id count: 4
+4844106_Introduction.xml
+FN:
+SMA=2096
+SMA=2422
+SMA=2522
+SMA=2786
+Parkinson’s disease=2918
+cardiovascular disease=3160
+Parkinson’s disease=3513
+total FN: 7
+FP:
+disease -> [1123, 2120, 2845, 2930, 3175, 3206, 3525]
+vascular disease -> [3166]
+muscular atrophy -> [2078]
+lateral sclerosis -> [2954]
+genetic disease -> [1115, 2112]
+degenerative disease -> [3193]
+total FP: 13
+Precision: 0.23529411764705882 Recall: 0.36363636363636365 F1-score: 0.2857142857142857
+id count: 11
+4844106_Results.xml
+FN:
+SMA=14090
+SMA=14259
+Parkinson’s disease=25005
+total FN: 3
+FP:
+CCA -> [18629]
+disease -> [25017]
+HN -> [1123, 1191, 1328]
+ALD -> [23998]
+CM -> [18780]
+TIA -> [22682, 22801, 22875, 23059]
+flu -> [11443]
+total FP: 12
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 3
+4844106_Conclusion.xml file is empty for DISEASE.
+4844106_Materials and Methods.xml
+FN:
+Parkinson’s disease=393
+total FN: 1
+FP:
+disease -> [405]
+TSS -> [4856]
+HN -> [16152]
+neuroblastoma -> [19035]
+ALD -> [18744]
+XPB -> [12025, 19799]
+TIA -> [14549, 14626]
+blastoma -> [19040]
+flu -> [1802, 2836, 5438, 13279]
+total FP: 14
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 1
+4844106_Discussion.xml
+FN:
+SMA=155
+total FN: 1
+FP:
+CF -> [2709]
+disease -> [10868]
+TIA -> [8393, 8493]
+flu -> [10722]
+total FP: 5
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 1
+4844106 done.
+
+7953906_Conflict of Interest.xml file is empty for DISEASE.
+7953906_Abstract.xml
+FN:
+Influenza=70
+TB=1125
+PTB=1366
+PTB=1615
+PTB=2200
+PTB=2509
+total FN: 6
+FP:
+disease -> [972, 1073]
+tuberculosis -> [1111]
+flu -> [72, 621, 1320, 1461, 1577, 1662, 1746, 2026, 2162, 2275, 2454, 2486]
+virus infection -> [2048]
+total FP: 16
+Precision: 0.5675675675675675 Recall: 0.7777777777777778 F1-score: 0.65625
+id count: 27
+7953906_Discussion.xml
+FN:
+PTB=836
+PTB=960
+TB=2732
+PTB=9997
+PTB=10214
+total FN: 5
+FP:
+influenza -> [5180, 6119, 6297, 7012, 7547, 8244, 8304, 9719]
+disease -> [68, 889, 2291, 4657, 6185, 8957, 9592]
+infectious disease -> [2280]
+pulmonary fibrosis -> [2108]
+tuberculosis -> [2796]
+SARS-CoV-2 infection -> [8887]
+SARS -> [3145, 3674, 4611, 4886, 5579, 5591, 5691, 5708, 5760, 8887]
+flu -> [585, 689, 944, 1080, 3113, 3299, 3662, 3991, 4382, 4874, 5182, 5311, 5458, 6001, 6121, 6228, 6299, 6748, 6880, 7014, 7276, 7549, 8246, 8306, 8617, 9368, 9487, 9527, 9631, 9721]
+total FP: 59
+Precision: 0.42718446601941745 Recall: 0.8979591836734694 F1-score: 0.5789473684210527
+id count: 49
+7953906_Funding.xml file is empty for DISEASE.
+7953906_Ethics Statement.xml file is empty for DISEASE.
+7953906_Results.xml
+FN:
+Influenza=1109
+PTB=1221
+Diabetes=2321
+PTB=15622
+PTB=15820
+Influenza=16395
+Influenza=18731
+PTB=19885
+PTB=19953
+PTB=20139
+PTB=20242
+Influenza=22716
+PTB=26788
+Influenza=27481
+total FN: 14
+FP:
+obstructive sleep apnea -> [14284]
+influenza -> [15164, 16918, 20331, 20828, 23822, 23954, 24874, 27632, 27725, 28102]
+disease -> [610, 13918, 16141, 19580, 20532]
+SARS-CoV-2 infection -> [18669]
+SARS -> [17802, 18669, 19017]
+CM -> [12916, 13973]
+flu -> [68, 189, 379, 520, 834, 1111, 14866, 15001, 15166, 15431, 15536, 15696, 15853, 15979, 16167, 16397, 16718, 16856, 16920, 17264, 17631, 18226, 18657, 18733, 19004, 19171, 19713, 20017, 20219, 20333, 20830, 20964, 21466, 21552, 21777, 21968, 22069, 22325, 22643, 22718, 22790, 22830, 23022, 23227, 23347, 23824, 23956, 24086, 24740, 24876, 26158, 26548, 26872, 27483, 27634, 27727, 27886, 28104, 28304, 28347, 28519]
+KIN -> [26926, 27256]
+syndrome -> [14308]
+obstructive sleep apnea syndrome -> [14284]
+HD -> [19213, 19329]
+sleep apnea -> [14296]
+hypertension -> [14444]
+total FP: 91
+Precision: 0.4583333333333333 Recall: 0.8461538461538461 F1-score: 0.5945945945945945
+id count: 91
+7953906_Author Contributions.xml file is empty for DISEASE.
+7953906_Data Availability Statement.xml file is empty for DISEASE.
+7953906_Materials and Methods.xml
+FN:
+PTB=1202
+Tuberculosis=1233
+PTB=1299
+Influenza=3011
+total FN: 4
+FP:
+disease -> [6919]
+noma -> [3292]
+lung adenocarcinoma -> [3277]
+SARS -> [1082, 1968]
+adenocarcinoma -> [3282]
+CM -> [1013, 5318]
+flu -> [121, 188, 335, 364, 550, 574, 786, 1810, 2983, 3013, 3608, 3850, 4352, 6703, 6940]
+virus infection -> [142]
+MNS -> [1014, 5319]
+carcinoma -> [3287]
+total FP: 27
+Precision: 0.4 Recall: 0.8181818181818182 F1-score: 0.537313432835821
+id count: 22
+7953906_Introduction.xml
+FN:
+PTB=1296
+kidney injury=1771
+PTB=2526
+total FN: 3
+FP:
+disease -> [1218]
+syndrome -> [1098]
+tuberculosis -> [1282]
+flu -> [1141, 1419, 1595, 1667, 1953, 2068, 2200, 2339, 2458]
+total FP: 12
+Precision: 0.5555555555555556 Recall: 0.8333333333333334 F1-score: 0.6666666666666667
+id count: 18
+7953906_Conclusions.xml
+FN:
+PTB=201
+total FN: 1
+FP:
+SARS -> [682]
+flu -> [133, 292, 468, 588]
+total FP: 5
+Precision: 0.5454545454545454 Recall: 0.8571428571428571 F1-score: 0.6666666666666665
+id count: 7
+7953906 done.
+
+8923756_4. Result.xml
+FN:
+BF=102
+Breast cancer=273
+BF=839
+BC=846
+BF=1129
+BC=1136
+BF=1352
+BC=1359
+BF=1457
+BC=1464
+BC=1609
+BF=1648
+BC=1688
+BC=1776
+BF=1892
+BC=2008
+BF=2122
+total FN: 17
+FP:
+cancer -> [280]
+total FP: 1
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 17
+8923756_3. Statistics Analysis.xml file is empty for DISEASE.
+8923756_Abstract.xml
+FN:
+Breast Fibroadenoma=73
+Breast Cancer=97
+Fibroadenoma of the breast=155
+BF=496
+BC=519
+FB=821
+BC=828
+BF=1092
+BC=1099
+BF=1177
+BC=1184
+BF=1293
+BC=1300
+total FN: 13
+FP:
+adenomas -> [291]
+adenoma -> [85, 160, 291, 487]
+noma -> [88, 163, 294, 490]
+fibroadenoma -> [286, 482]
+cancer -> [361, 511]
+total FP: 13
+Precision: 0.1875 Recall: 0.1875 F1-score: 0.1875
+id count: 16
+8923756_1. Introduction.xml
+FN:
+Cancer=308
+Breast cancer=666
+BF=1234
+BC=1257
+BF=1416
+BC=1423
+BF=1506
+BC=1513
+total FN: 8
+FP:
+disease -> [994, 1113]
+adenoma -> [1225]
+noma -> [1228]
+fibroadenoma -> [1220]
+cancer -> [673, 873, 1249]
+breast disease -> [1106]
+malignant tumor -> [637]
+total FP: 10
+Precision: 0.3333333333333333 Recall: 0.38461538461538464 F1-score: 0.3571428571428571
+id count: 13
+8923756_2. Materials and Methods.xml
+FN:
+BF=267
+FC=286
+total FN: 2
+FP:
+CCA -> [1420]
+breast disease -> [60, 523]
+disease -> [67, 530]
+malignant tumor -> [497]
+total FP: 6
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 2
+8923756_5. Conclusion.xml
+FN:
+BF=228
+BC=235
+BF=318
+BC=325
+BF=453
+BC=460
+BC=802
+BF=809
+BC=1540
+BF=1613
+BF=1992
+BC=1999
+total FN: 12
+FP:
+disease -> [1312]
+noma -> [1114]
+cancer -> [1202]
+breast disease -> [1305]
+flu -> [553, 628]
+total FP: 6
+Precision: 0.3333333333333333 Recall: 0.2 F1-score: 0.25
+id count: 15
+8923756 done.
+
+5650339_DISCUSSION.xml
+FN:
+colorectal cancers=444
+OS=588
+OS=841
+OS=1418
+OS=1470
+OS=1634
+papillary thyroid carcinoma=1739
+nasopharyngeal carcinoma=2060
+OS=2281
+OS=2628
+OS=2711
+OS=2768
+OS=2870
+OS=695
+OS=913
+OS=2214
+OS=2473
+total FN: 17
+FP:
+colorectal cancer -> [444]
+carcinoma -> [1361, 1757, 2075]
+noma -> [1366, 1762, 2080]
+ptosis -> [1857]
+rectal cancer -> [448, 1782]
+cancer -> [98, 308, 337, 433, 455, 1187, 1287, 1721, 1789, 1953]
+total FP: 20
+Precision: 0.3103448275862069 Recall: 0.34615384615384615 F1-score: 0.32727272727272727
+id count: 26
+5650339_MATERIALS AND METHODS.xml
+FN:
+OS=11
+OS=1865
+OS=2130
+OS=2320
+OS=2716
+OS=351
+OS=1226
+OS=1484
+total FN: 8
+FP:
+PSS -> [2891]
+SPS -> [2890]
+total FP: 2
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 8
+5650339_Abstract.xml
+FN:
+OS=323
+OS=765
+OS=1083
+OS=1151
+OS=1472
+OS=1368
+OS=438
+total FN: 7
+FP:
+sarcoma -> [41, 314]
+total FP: 2
+Precision: 0.5 Recall: 0.2222222222222222 F1-score: 0.30769230769230765
+id count: 9
+5650339_INTRODUCTION.xml
+FN:
+Osteosarcoma=1
+OS=15
+OS=274
+OS=462
+OS=590
+OS=654
+thyroid cancer=1063
+NK/T cell lymphoma=1801
+castration-resistant prostate cancer=1851
+non-small cell lung cancer=2017
+OS=2523
+OS=2600
+OS=2689
+OS=2841
+OS=2909
+OS=3168
+total FN: 16
+FP:
+leukemia -> [1534]
+sarcoma -> [6]
+disease -> [765]
+noma -> [1165, 1442, 1929, 1962, 2001]
+lymphoma -> [1811]
+ptosis -> [1504, 2261]
+lung cancer -> [2032]
+prostate cancer -> [1872]
+carcinoma -> [1924, 1957, 1996]
+neoplasm -> [58]
+cancer -> [994, 1015, 1071, 1614, 1836, 1881, 2037]
+bone neoplasm -> [53]
+squamous cell carcinoma -> [1910]
+total FP: 26
+Precision: 0.35 Recall: 0.4666666666666667 F1-score: 0.4
+id count: 30
+5650339_RESULT.xml
+FN:
+OS=46
+OS=110
+OS=261
+OS=322
+OS=447
+OS=601
+OS=655
+OS=783
+OS=951
+OS=1078
+OS=1284
+OS=1580
+OS=1711
+OS=1946
+OS=2000
+OS=2418
+OS=4957
+OS=5055
+OS=5142
+OS=5218
+OS=5237
+OS=5332
+OS=5472
+OS=5894
+OS=6341
+OS=6428
+OS=7270
+OS=7392
+OS=7531
+OS=7608
+OS=7671
+OS=7812
+OS=7877
+OS=8039
+OS=8466
+OS=9124
+OS=9217
+OS=9223
+OS=9408
+OS=9549
+OS=9617
+total FN: 41
+FP:
+total FP: 0
+Precision: 1.0 Recall: 0.06818181818181818 F1-score: 0.1276595744680851
+id count: 44
+5650339 done.
+
+2913650_DISCUSSION.xml
+FN:
+total FN: 0
+FP:
+mutism -> [2456, 2907, 2954, 3306, 3449, 4567]
+disease -> [3923]
+syndrome -> [25, 1866, 2996, 3668]
+demyelinating disorder -> [4258]
+total FP: 12
+Precision: 0.7 Recall: 1.0 F1-score: 0.8235294117647058
+id count: 28
+2913650_THE CASE.xml
+FN:
+oral thrush=1361
+Pulmonary tuberculosis=1413
+total FN: 2
+FP:
+mutism -> [822, 2892, 3669]
+anaemia -> [2301]
+tuberculosis -> [1423]
+thrush -> [1366]
+flu -> [3372]
+total FP: 7
+Precision: 0.5 Recall: 0.7777777777777778 F1-score: 0.6086956521739131
+id count: 9
+2913650_INTRODUCTION.xml
+FN:
+Progressive multifocal leucoencephalopathy=1
+leukaemia=257
+total FN: 2
+FP:
+mutism -> [698]
+disease -> [171, 248]
+Hodgkin disease -> [240]
+demyelinating disorder -> [60]
+encephalopathy -> [29]
+total FP: 6
+Precision: 0.625 Recall: 0.8333333333333334 F1-score: 0.7142857142857143
+id count: 12
+2913650_Abstract.xml
+FN:
+Progressive multifocal leucoencephalopathy=8
+Progressive multifocal leucoencephalopathy=125
+total FN: 2
+FP:
+mutism -> [399, 635, 666]
+encephalopathy -> [36, 153]
+total FP: 5
+Precision: 0.5833333333333334 Recall: 0.7777777777777778 F1-score: 0.6666666666666666
+id count: 9
+2913650 done.
+
+3984243_Results.xml
+FN:
+total FN: 0
+FP:
+cancer -> [49, 185, 409, 527, 932, 1568, 1836, 2034, 2434, 2505, 2672, 3582, 3624, 4734]
+total FP: 14
+Precision: 0.3 Recall: 1.0 F1-score: 0.4615384615384615
+id count: 6
+3775523_INTRODUCTION Rev.xml
+FN:
+PCa=1
+PCa=379
+PCa=651
+PCa=713
+PCa=1365
+PCa=1440
+PCa=1612
+PCa=1731
+PCa=1898
+PCa=1962
+total FN: 10
+FP:
+RP1 -> [1330]
+cancer -> [15]
+hepatitis -> [2691]
+hepatitis B -> [2691]
+obesity -> [311]
+total FP: 5
+Precision: 0.2857142857142857 Recall: 0.16666666666666666 F1-score: 0.2105263157894737
+id count: 12
+3984243_Materials and Methods.xml
+FN:
+adenocarcinoma of the stomach=103
+adenocarcinoma of the ... gastroesophageal junction=103
+adenocarcinoma of the ... esophagus=103
+total FN: 3
+FP:
+CCA -> [4599, 5579, 6038, 8567, 8571]
+RB -> [9326]
+adenocarcinoma -> [103]
+carcinoma -> [108]
+noma -> [113]
+total FP: 9
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 3
+3984243_Abstract.xml
+FN:
+Gastric cancer=121
+total FN: 1
+FP:
+cancer -> [48, 129, 376, 592, 1399, 1500]
+disease -> [457]
+total FP: 7
+Precision: 0.46153846153846156 Recall: 0.8571428571428571 F1-score: 0.6
+id count: 7
+3775523_DISCUSSION Rev.xml
+FN:
+PCa=178
+PCa=715
+PCa=1455
+PCa=2821
+HCC=2951
+HCC=3164
+PCa=3172
+PCa=4463
+HCC=4471
+HCC=4515
+HCC=4720
+PCa=5045
+HCC=5502
+PCa=5840
+HCC=5848
+total FN: 15
+FP:
+cancer -> [4533, 5140]
+hepatitis -> [4739]
+hepatitis B -> [4739]
+flu -> [5755]
+total FP: 5
+Precision: 0.4444444444444444 Recall: 0.21052631578947367 F1-score: 0.2857142857142857
+id count: 19
+3984243 done.
+
+5023968_Discussion.xml
+FN:
+total FN: 0
+FP:
+autism -> [1447]
+flu -> [1791]
+total FP: 2
+Precision: 0.6666666666666666 Recall: 1.0 F1-score: 0.8
+id count: 4
+5023968_Methods.xml file is empty for DISEASE.
+5023968_Additional information.xml file is empty for DISEASE.
+5023968_Results.xml file is empty for DISEASE.
+5023968_Abstract.xml
+FN:
+total FN: 0
+FP:
+autism -> [364]
+total FP: 1
+Precision: 0.6666666666666666 Recall: 1.0 F1-score: 0.8
+id count: 2
+5023968 done.
+
+3320601_Materials and Methods.xml file is empty for DISEASE.
+3320601_ABSTRACT.xml file is empty for DISEASE.
+3320601_Introduction.xml file is empty for DISEASE.
+3320601_Discussion.xml file is empty for DISEASE.
+3320601_Results.xml file is empty for DISEASE.
+3320601 done.
+
+9067626_Results.xml
+FN:
+RA=839
+total FN: 1
+FP:
+AIP -> [5698]
+disease -> [147, 1310, 1471, 2083, 2256, 3532, 3819, 5832]
+arthritis -> [32, 300, 3588]
+GS2 -> [4743]
+total FP: 13
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 1
+9067926_Abstract.xml
+FN:
+RA=423
+RA=668
+RA=1927
+RA=2482
+total FN: 4
+FP:
+disease -> [796, 1007, 1470, 1583, 1654, 1887]
+arthritis -> [412, 438, 458, 1765]
+total FP: 10
+Precision: 0.23076923076923078 Recall: 0.42857142857142855 F1-score: 0.3
+id count: 7
+9067626_Introduction.xml
+FN:
+Rheumatoid arthritis=1
+RA=23
+RA=149
+RA=462
+RA=570
+RA=2107
+OA=2196
+RA=3310
+RA=3526
+RA=4269
+RA=4478
+total FN: 11
+FP:
+arthropathy -> [53]
+disease -> [4012, 4220]
+arthritis -> [12, 2124, 2185, 3816]
+total FP: 7
+Precision: 0.36363636363636365 Recall: 0.26666666666666666 F1-score: 0.30769230769230765
+id count: 15
+9067626_Discussion Rev.xml
+FN:
+RA=117
+RA=2426
+RA=2694
+RA=3091
+RA=5126
+OA=5209
+OA=5433
+OA=5490
+RA=5905
+total FN: 9
+FP:
+arthritis -> [6615, 8399]
+arthropathy -> [4659]
+disease -> [728, 1095]
+total FP: 5
+Precision: 0.5833333333333334 Recall: 0.4375 F1-score: 0.5
+id count: 16
+9067626_Methods and Materials.xml
+FN:
+RA=5371
+Rheumatoid Arthritis=5395
+total FN: 2
+FP:
+ESS -> [3006]
+CF -> [4866, 5055, 6002]
+total FP: 4
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 2
+9067626 done.
+
+9251272_Currently Treatment.xml
+FN:
+Constipation=1060
+total FN: 1
+FP:
+spinal stenosis -> [2400]
+ADA -> [3936, 3985]
+flu -> [5923]
+total FP: 4
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 1
+9251272_Conflict of Interests.xml file is empty for DISEASE.
+9251272_Conclusion and Future Perspective.xml file is empty for DISEASE.
+9251272_Biotherapy.xml file is empty for DISEASE.
+9251272_Introduction.xml
+FN:
+total FN: 0
+FP:
+CM -> [2001, 2037]
+ptosis -> [2842, 2970]
+total FP: 4
+Precision: 0.2 Recall: 1.0 F1-score: 0.33333333333333337
+id count: 1
+9251272_Abstract.xml
+FN:
+total FN: 0
+FP:
+CM -> [560]
+ptosis -> [464]
+total FP: 2
+Precision: 0.3333333333333333 Recall: 1.0 F1-score: 0.5
+id count: 1
+9251272_Surgical Treatment.xml file is empty for DISEASE.
+9251272 done.
+
+4636297_Introduction.xml
+FN:
+CRC=253
+CRC=509
+CRC=604
+CRC=2539
+total FN: 4
+FP:
+lung cancer -> [2711]
+CF -> [794, 3438]
+adenoma -> [1062]
+noma -> [1065, 2960]
+rectal cancer -> [238]
+cancer -> [245, 2716]
+total FP: 9
+Precision: 0.5263157894736842 Recall: 0.7142857142857143 F1-score: 0.6060606060606061
+id count: 14
+4636297_Materials and Methods.xml
+FN:
+colon ... cancer=1002
+l ... ung cancer=7452
+total FN: 2
+FP:
+lung cancer -> [7452]
+CF -> [4383]
+carcinoma -> [1072, 1122, 7371]
+noma -> [1077, 1127, 7376]
+epithelial cancer -> [1008]
+adenocarcinoma -> [1117]
+cancer -> [1019, 7430, 7457]
+flu -> [125, 1572]
+total FP: 15
+Precision: 0.25 Recall: 0.7142857142857143 F1-score: 0.37037037037037035
+id count: 7
+4636297_Results.xml
+FN:
+CRC=199
+CRC=1461
+non-small cell lung cancer=8223
+total FN: 3
+FP:
+lung cancer -> [8238]
+cancer -> [73, 261, 448, 794, 1273, 1684, 2004, 6993, 7302, 8116, 8243, 8336, 8395]
+CF -> [3900, 4012, 4054, 4209, 4302, 5654, 5772, 5974, 6337]
+flu -> [3252]
+total FP: 24
+Precision: 0.3684210526315789 Recall: 0.8235294117647058 F1-score: 0.509090909090909
+id count: 17
+4636297_Abstract.xml
+FN:
+total FN: 0
+FP:
+cancer -> [305, 783, 1404, 1598, 1655]
+CF -> [1229]
+total FP: 6
+Precision: 0.5 Recall: 1.0 F1-score: 0.6666666666666666
+id count: 6
+4636297_Discussion.xml
+FN:
+CRC=4127
+colon ... cancer=5388
+lung ... cancer=5405
+total FN: 3
+FP:
+cancer -> [1091, 1292, 2164, 5084, 5417]
+CF -> [2623, 3323, 3492, 4974, 5543]
+total FP: 10
+Precision: 0.696969696969697 Recall: 0.8846153846153846 F1-score: 0.7796610169491526
+id count: 26
+4636297 done.
+
+9980199_Methods.xml
+FN:
+GSD1b=1675
+GSD1b=2847
+total FN: 2
+FP:
+RB -> [58]
+total FP: 1
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 2
+9980199_Abstract.xml
+FN:
+Glycogen Storage Disease 1b=32
+Glycogen Storage Disease type 1b=90
+GSD1b=124
+GSD1b=625
+GSD1b=687
+GSD1b=1128
+GSD1b=1370
+GSD1b=1456
+total FN: 8
+FP:
+neutropenia -> [203, 1490]
+disease -> [141]
+hypoglycemia -> [164]
+total FP: 4
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 8
+9980199_Conclusion.xml
+FN:
+GSD1b=125
+GSD1b=430
+GSD1b=537
+GSD1b=716
+total FN: 4
+FP:
+neutropenia -> [298]
+disease -> [787]
+flu -> [389]
+total FP: 3
+Precision: 0.25 Recall: 0.2 F1-score: 0.22222222222222224
+id count: 5
+9980199_Results.xml
+FN:
+GSD1b=44
+GSD1b=298
+GSD1b=480
+GSD1b=512
+GSD1b=676
+GSD1b=760
+GSD1b=2263
+GSD1b=2682
+GSD1b=2818
+GSD1b=3244
+GSD1b=3770
+GSD1b=4405
+GSD1b=4656
+GSD1b=4810
+GSD1b=4934
+GSD1b=5062
+GSD1b=5494
+GSD1b=5538
+GGD1b=5723
+GSD1b=5798
+GSD1b=5907
+GSD1b=6416
+GSD1b=6860
+GSD1b=6989
+GSD1b=7329
+GSD1b=7876
+GSD1b=8208
+total FN: 27
+FP:
+neutropenia -> [384]
+IL-7R -> [6677]
+MDS -> [1936, 4370]
+GD1 -> [5724]
+total FP: 5
+Precision: 0.2857142857142857 Recall: 0.06896551724137931 F1-score: 0.1111111111111111
+id count: 29
+9980199_Introduction.xml
+FN:
+Glycogen Storage Disease type 1=1
+GSD1=34
+Von Gierke disease=55
+GSD1=233
+GSD1=346
+GSD1a=395
+GSD1b=566
+GSD1=1130
+GSD1b=1325
+Crohn’s disease=1394
+GSD1b=1469
+GSD1b=1683
+GSD1b=2257
+GSD1a=2275
+GSD1b=2431
+GSD1b=2771
+GSD1b=2869
+total FN: 17
+FP:
+disease -> [66, 106, 1362, 1402]
+delayed puberty -> [1189]
+ptosis -> [1819]
+hypoglycemia -> [153, 859]
+deficiency of glucose-6-phosphatase -> [506]
+neutropenia -> [1563, 1668, 1884]
+lymphopenia -> [2228]
+total FP: 13
+Precision: 0.13333333333333333 Recall: 0.10526315789473684 F1-score: 0.11764705882352941
+id count: 19
+9980199_Discussion.xml
+FN:
+GSD1b=109
+GSD1b=258
+GSD1b=333
+GSD1b=597
+GSD1b=776
+GSD1b=1018
+GSD1b=1457
+GSD1b=1491
+GSD1b=1730
+GSD1b=1929
+GSD1b=2800
+GSD1b=2915
+GSD1b=3368
+GSD1b=3575
+GSD1b=3801
+GSD1b=3889
+GSD1b=4342
+GSD1b=4484
+GSD1b=4692
+GSD1a=4755
+GSD1b=5033
+GSD1b=5120
+GSD1b=5304
+total FN: 23
+FP:
+XPH -> [2310, 4074]
+HL -> [2558, 2575]
+ptosis -> [1119]
+hypoglycemia -> [4582, 4834]
+neutropenia -> [4867]
+lymphopenia -> [1671]
+total FP: 9
+Precision: 0.1 Recall: 0.041666666666666664 F1-score: 0.058823529411764705
+id count: 24
+9980199 done.
+
+7765946_1. Introduction.xml
+FN:
+Breast cancer=1
+BC=16
+BC=299
+BC=425
+total FN: 4
+FP:
+lung cancer -> [2475]
+CF -> [4450]
+primary breast cancer -> [4344]
+disease -> [119]
+DA4 -> [3561]
+ALD -> [3796, 4559]
+cancer -> [8, 2741, 3047, 3426, 4174, 4359]
+HS5 -> [3445, 4156]
+SCID -> [2607]
+total FP: 16
+Precision: 0.36 Recall: 0.6923076923076923 F1-score: 0.47368421052631576
+id count: 13
+7765946_Abstract.xml
+FN:
+Breast Cancer=58
+Cancer=190
+BC=681
+total FN: 3
+FP:
+cancer -> [673]
+disease -> [223]
+total FP: 2
+Precision: 0.7142857142857143 Recall: 0.625 F1-score: 0.6666666666666666
+id count: 8
+7765946_2. Results.xml
+FN:
+BC=2387
+BC=3624
+BC=6037
+total FN: 3
+FP:
+ALD -> [4338, 4377, 4546, 4612, 4790, 4935]
+cancer -> [218, 315, 3241, 4452, 5066]
+HS5 -> [353, 707, 1830, 2005, 2402, 3223, 3633, 4993, 6070, 6250, 7770, 7955, 8581]
+CF -> [4147]
+total FP: 25
+Precision: 0.13793103448275862 Recall: 0.5714285714285714 F1-score: 0.2222222222222222
+id count: 7
+7765946_3. Discussion.xml
+FN:
+BC=85
+BC=2040
+BC=3894
+BC=5110
+total FN: 4
+FP:
+CF -> [1175]
+disease -> [9032]
+noma -> [1058, 1297, 1334, 1392, 8148, 8488]
+epithelial cancer -> [8261]
+adenocarcinoma -> [1324, 8138]
+HS5 -> [2394, 2806]
+SCID -> [7512]
+ductal adenocarcinoma -> [1317, 8131]
+carcinoma -> [1329, 8143]
+ALD -> [2971, 3290, 3465, 3803]
+cancer -> [362, 2504]
+total FP: 24
+Precision: 0.4146341463414634 Recall: 0.8095238095238095 F1-score: 0.5483870967741935
+id count: 21
+7765946_4. Materials and Methods.xml
+FN:
+total FN: 0
+FP:
+ALD -> [7040, 7081, 7471]
+cancer -> [432, 838, 2103]
+HS5 -> [814, 1957, 2425]
+flu -> [7275, 7710, 8801]
+total FP: 12
+Precision: 0.2 Recall: 1.0 F1-score: 0.33333333333333337
+id count: 3
+7765946 done.
+
+6340956_Results.xml
+FN:
+Cancer=3263
+glioma=8861
+total FN: 2
+FP:
+glioblastoma -> [8645]
+carcinoma -> [477]
+noma -> [482]
+adenocarcinoma -> [472]
+cancer -> [519, 3494, 3546, 6233, 7112, 7677, 8597, 13635, 13668, 20520, 20545]
+CM -> [14655]
+blastoma -> [450, 1003, 8506, 8649, 8689]
+flu -> [6683, 19117]
+total FP: 23
+Precision: 0.39473684210526316 Recall: 0.8823529411764706 F1-score: 0.5454545454545454
+id count: 17
+6340956_Experimental.xml
+FN:
+non-small cell lung adenocarcinoma=718
+total FN: 1
+FP:
+carcinoma -> [743]
+noma -> [748]
+lung adenocarcinoma -> [733]
+adenocarcinoma -> [738]
+cancer -> [769]
+CM -> [470, 3063]
+blastoma -> [699]
+flu -> [1393, 1403, 1789, 2245, 2423, 4531, 5094]
+total FP: 15
+Precision: 0.0625 Recall: 0.5 F1-score: 0.1111111111111111
+id count: 2
+6340956_Abstract.xml
+FN:
+total FN: 0
+FP:
+carcinoma -> [891]
+blastoma -> [742]
+noma -> [896]
+total FP: 3
+Precision: 0.7 Recall: 1.0 F1-score: 0.8235294117647058
+id count: 7
+6340956_Discussion.xml
+FN:
+Cancer=6799
+total FN: 1
+FP:
+glioblastoma -> [13294]
+carcinoma -> [10787, 13323]
+lung carcinoma -> [13318]
+noma -> [10792, 13328]
+cancer -> [416, 2584, 3646, 3848, 3866, 6247, 8372, 8410, 8492, 8813, 8880, 9445, 9965, 13091, 13361]
+CM -> [1020]
+blastoma -> [10748, 12979, 13069, 13298, 14371]
+flu -> [875, 2925, 3069, 3154, 4055, 4483, 6194]
+total FP: 34
+Precision: 0.46875 Recall: 0.967741935483871 F1-score: 0.631578947368421
+id count: 31
+6340956_Introduction.xml
+FN:
+glioma=2019
+glioma=2897
+glioma=3091
+total FN: 3
+FP:
+malignant glioma -> [3081]
+cancer -> [1875, 3575]
+flu -> [1338, 2304, 3535]
+total FP: 6
+Precision: 0.7142857142857143 Recall: 0.8333333333333334 F1-score: 0.7692307692307692
+id count: 18
+6340956 done.
+
+3979708_Discussion.xml
+FN:
+PDAC=547
+IPMN=569
+IPMN=591
+PDAC=703
+PDAC=1209
+PDAC=1286
+PDAC=1501
+PDAC=2453
+IPMN=2475
+IPMN=2494
+IPMN=2511
+IPMN=2574
+IPMN=2724
+IPMN=2768
+IPMN=2914
+PDAC=3023
+IPMN=3048
+PDAC=3066
+IPMN=3088
+PDAC=3141
+IPMN=3215
+IPMN=3258
+IPMN=3551
+IPMN=3624
+IPMN=3825
+IPMN=3849
+IPMN=3897
+IPMN=3921
+IPMN=3952
+IPMN=4000
+IPMN=4191
+PDAC=4311
+IPMN=4342
+PDAC=4433
+IPMN=4464
+PDAC=4530
+IPMN=4578
+PDAC=4603
+IPMN=4662
+IPMN=4863
+PDAC=5634
+IPMN=5653
+IPMN=5675
+IPMN=5695
+total FN: 44
+FP:
+pancreatic neoplasm -> [323, 519, 1139, 2116, 2637, 2839, 5838, 6142]
+noma -> [3682]
+neoplasm -> [334, 530, 1150, 2127, 2290, 2648, 2850, 5849, 6153]
+cancer -> [880]
+flu -> [71]
+total FP: 20
+Precision: 0.13043478260869565 Recall: 0.06382978723404255 F1-score: 0.0857142857142857
+id count: 47
+3979708_Abstract.xml
+FN:
+PDAC=248
+intraductal papillary mucinous neoplasms=258
+IPMN=300
+PDAC=490
+IPMN=559
+IPMN=642
+PDAC=685
+IPMN=768
+PDAC=1665
+IPMN=1704
+IPMN=1743
+total FN: 11
+FP:
+pancreatic neoplasm -> [21, 411, 1591, 1879]
+ductal adenocarcinoma -> [225]
+carcinoma -> [237]
+noma -> [242]
+adenocarcinoma -> [232]
+neoplasm -> [32, 289, 422, 1602, 1890]
+total FP: 13
+Precision: 0.13333333333333333 Recall: 0.15384615384615385 F1-score: 0.14285714285714288
+id count: 13
+3979708_Introduction.xml
+FN:
+PDAC=49
+PDAC=212
+IPMN=343
+intraductal papillary mucinous neoplasm=301
+IPMN=483
+IPMN=624
+IPMN=655
+IPMN=861
+IPMN=902
+IPMN=939
+PDAC=985
+IPMN=1065
+IPMN=1141
+IPMN=1214
+IPMN=1300
+PDAC=1869
+IPMN=1932
+IPMN=2105
+PDAC=2318
+IPMN=2389
+total FN: 20
+FP:
+pancreatic neoplasm -> [1784]
+ductal adenocarcinoma -> [26]
+carcinoma -> [38]
+WT1 -> [1561]
+noma -> [43]
+adenocarcinoma -> [33]
+neoplasm -> [283, 332, 516, 688, 1795]
+total FP: 11
+Precision: 0.21428571428571427 Recall: 0.13043478260869565 F1-score: 0.16216216216216214
+id count: 23
+3979708_Materials and Methods.xml
+FN:
+PDAC=1023
+total FN: 1
+FP:
+ISM -> [2362]
+pancreatic tumor -> [4618]
+carcinoma -> [29, 78]
+noma -> [34, 83]
+adenocarcinoma -> [73]
+total FP: 7
+Precision: 0.2222222222222222 Recall: 0.6666666666666666 F1-score: 0.3333333333333333
+id count: 3
+3979708_Results.xml
+FN:
+PDAC=56
+PDAC=295
+PDAC=1243
+IPMN=1265
+IPMN=1287
+PDAC=1353
+IPMN=1595
+IPMN=1819
+PDAC=2557
+IPMN=2593
+IPMN=2622
+IPMN=2641
+IPMN=2945
+IPMN=3102
+IPMN=3205
+PDAC=3214
+IPMN=3297
+IPMN=3433
+IPMN=3539
+PDAC=3548
+IPMN=3587
+PDAC=3642
+IPMN=3705
+IPMN=3834
+IPMN=3906
+IPMN=3966
+IPMN=3992
+PDAC=4510
+IPMN=4610
+IPMN=4704
+IPMN=4807
+Carcinoma=4924
+IPMN=5027
+IPMN=5238
+PDAC=5609
+IPMN=5649
+PDAC=6331
+IPMN=6339
+PDAC=6367
+IPMN=6375
+PDAC=6403
+IPMN=6411
+PDAC=6439
+IPMN=7197
+IPMN=7208
+IPMN=7236
+IPMN=7247
+IPMN=7275
+IPMN=8104
+IPMN=8115
+IPMN=8143
+IPMN=9004
+PDAC=9726
+IPMN=9734
+PDAC=9762
+IPMN=9770
+PDAC=9798
+IPMN=9806
+PDAC=9834
+IPMN=10632
+IPMN=10643
+IPMN=10671
+IPMN=10682
+IPMN=10710
+IPMN=11541
+IPMN=11552
+IPMN=11580
+IPMN=12440
+PDAC=13160
+IPMN=13168
+PDAC=13196
+IPMN=13204
+PDAC=13268
+IPMN=14078
+IPMN=14089
+IPMN=14117
+IPMN=14128
+IPMN=14156
+IPMN=14985
+IPMN=14996
+IPMN=15024
+IPMN=15889
+PDAC=16745
+IPMN=16785
+intraductal papillary mucinous neoplasm=16791
+IPMN=16832
+IPMN=16857
+IPMN=16863
+IPMN=16869
+IPMN=16889
+IPMN=16895
+IPMN=16917
+PDAC=17404
+IPMN=17443
+IPMN=17499
+IPMN=17680
+IPMN=17719
+PDAC=18716
+IPMN=18741
+IPMN=18795
+PDAC=18963
+PDAC=18988
+PDAC=19115
+PDAC=19200
+PDAC=19225
+PDAC=19352
+PDAC=19437
+PDAC=19462
+PDAC=19589
+PDAC=19674
+PDAC=19699
+PDAC=19826
+PDAC=19911
+PDAC=19936
+PDAC=20063
+PDAC=20148
+PDAC=20173
+PDAC=20300
+PDAC=20385
+PDAC=20410
+PDAC=20537
+PDAC=20622
+PDAC=20647
+PDAC=20774
+PDAC=20859
+PDAC=20884
+PDAC=21012
+PDAC=21097
+PDAC=21122
+PDAC=21249
+PDAC=21334
+PDAC=21359
+PDAC=21486
+PDAC=21571
+PDAC=21596
+PDAC=21723
+PDAC=21808
+PDAC=21833
+PDAC=22044
+PDAC=22069
+PDAC=22280
+PDAC=22305
+IPMN=22433
+IPMN=22519
+IPMN=22547
+IPMN=22677
+IPMN=22765
+IPMN=22793
+IPMN=22923
+IPMN=23011
+IPMN=23039
+IPMN=23168
+IPMN=23256
+IPMN=23284
+IPMN=23414
+IPMN=23502
+IPMN=23530
+IPMN=23659
+IPMN=23747
+IPMN=23775
+IPMN=23905
+IPMN=23993
+IPMN=24021
+IPMN=24150
+IPMN=24238
+IPMN=24266
+IPMN=24480
+IPMN=24722
+IPMN=24963
+IPMN=25205
+IPMN=25362
+IPMN=25448
+IPMN=25698
+PDAC=25862
+IPMN=25945
+IPMN=26110
+IPMN=26196
+IPMN=26351
+IPMN=26677
+IPMN=26705
+IPMN=26834
+IPMN=26922
+IPMN=26950
+IPMN=27079
+IPMN=27167
+IPMN=27195
+IPMN=27324
+IPMN=27412
+IPMN=27440
+IPMN=27570
+IPMN=27658
+IPMN=27686
+IPMN=27816
+IPMN=27904
+IPMN=27932
+IPMN=28062
+IPMN=28150
+IPMN=28178
+IPMN=28308
+IPMN=28396
+IPMN=28424
+IPMN=28555
+IPMN=28643
+IPMN=28671
+PDAC=28801
+IPMN=28884
+IPMN=28912
+PDAC=29043
+IPMN=29126
+PDAC=29284
+IPMN=29400
+IPMN=29531
+IPMN=29642
+IPMN=29771
+PDAC=29959
+IPMN=29999
+intraductal papillary mucinous neoplasm=30005
+IPMN=30046
+IPMN=30071
+IPMN=30077
+IPMN=30108
+IPMN=30114
+IPMN=30147
+IPMN=30176
+IPMN=30200
+IPMN=30250
+IPMN=30272
+IPMN=30311
+PDAC=31021
+IPMN=31046
+IPMN=31100
+PDAC=31268
+PDAC=31293
+PDAC=31421
+PDAC=31506
+PDAC=31531
+PDAC=31658
+PDAC=31743
+PDAC=31768
+PDAC=31896
+PDAC=31981
+PDAC=32006
+PDAC=32134
+PDAC=32219
+PDAC=32244
+PDAC=32371
+PDAC=32456
+PDAC=32481
+PDAC=32610
+PDAC=32695
+PDAC=32720
+PDAC=32847
+PDAC=32932
+PDAC=32957
+PDAC=33085
+PDAC=33170
+PDAC=33195
+PDAC=33323
+PDAC=33408
+PDAC=33433
+PDAC=33560
+PDAC=33645
+PDAC=33670
+PDAC=33798
+PDAC=33883
+PDAC=33908
+PDAC=34121
+PDAC=34146
+PDAC=34359
+PDAC=34384
+PDAC=34596
+PDAC=34621
+IPMN=34749
+IPMN=34835
+IPMN=34863
+IPMN=34994
+IPMN=35082
+IPMN=35110
+IPMN=35241
+IPMN=35329
+IPMN=35357
+IPMN=35487
+IPMN=35575
+IPMN=35603
+IPMN=35733
+IPMN=35821
+IPMN=35849
+IPMN=35979
+IPMN=36067
+IPMN=36095
+IPMN=36224
+IPMN=36312
+IPMN=36340
+IPMN=36470
+IPMN=36558
+IPMN=36586
+IPMN=36801
+IPMN=37043
+PDAC=37199
+IPMN=37282
+IPMN=37524
+PDAC=37681
+IPMN=37764
+IPMN=37929
+IPMN=38015
+PDAC=38181
+IPMN=38264
+IPMN=38429
+IPMN=38515
+IPMN=38670
+IPMN=38909
+IPMN=38995
+IPMN=39023
+IPMN=39152
+IPMN=39240
+IPMN=39268
+IPMN=39398
+IPMN=39486
+IPMN=39514
+IPMN=39643
+IPMN=39731
+IPMN=39759
+IPMN=39890
+IPMN=39978
+IPMN=40006
+IPMN=40136
+IPMN=40224
+IPMN=40252
+IPMN=40382
+IPMN=40470
+IPMN=40498
+IPMN=40629
+IPMN=40717
+IPMN=40745
+PDAC=40875
+IPMN=40958
+IPMN=40986
+PDAC=41117
+IPMN=41200
+IPMN=41228
+PDAC=41360
+IPMN=41443
+IPMN=41471
+PDAC=41601
+IPMN=41717
+IPMN=41848
+IPMN=41959
+IPMN=42088
+PDAC=42276
+IPMN=42316
+intraductal papillary mucinous neoplasm=42322
+IPMN=42363
+IPMN=42388
+IPMN=42394
+IPMN=42425
+IPMN=42431
+IPMN=42464
+IPMN=42493
+IPMN=42517
+IPMN=42567
+IPMN=42589
+IPMN=42628
+total FN: 362
+FP:
+ductal adenocarcinoma -> [5626, 16762, 29976, 42293]
+disease -> [3169, 17154, 18027, 18195, 18683, 18833, 30502, 30988, 31138]
+carcinoma -> [5638, 16774, 29988, 42305]
+noma -> [4929, 5643, 16779, 29993, 30170, 42310, 42487]
+adenocarcinoma -> [5633, 16769, 29983, 42300]
+neoplasm -> [3313, 3505, 3721, 5138, 5686, 16822, 30036, 30240, 42353, 42557]
+total FP: 38
+Precision: 0.13636363636363635 Recall: 0.016304347826086956 F1-score: 0.02912621359223301
+id count: 368
+3979708 done.
+
+5147974_Introduction.xml
+FN:
+cardiovascular diseases=485
+HHcy=782
+HHcy=3487
+atherogenesis=3495
+total FN: 4
+FP:
+disease -> [500, 3382]
+vascular disease -> [491]
+ptosis -> [1570]
+total FP: 4
+Precision: 0.75 Recall: 0.75 F1-score: 0.75
+id count: 16
+5147974_Discussion.xml
+FN:
+Atherosclerosis=1174
+HHcy=1536
+HHcy=2483
+HHcy=3676
+HHcy=3778
+total FN: 5
+FP:
+atherosclerosis -> [5976]
+disease -> [5401, 5631]
+vascular disease -> [5392]
+artery disease -> [5624]
+dyslipidemia -> [1459, 5151]
+flu -> [3731]
+total FP: 8
+Precision: 0.42857142857142855 Recall: 0.5454545454545454 F1-score: 0.4799999999999999
+id count: 11
+5147974_Abstract.xml
+FN:
+Hyperhomocysteinemia=8
+Hyperhomocysteinemia=134
+HHcy=156
+cardiovascular disease=196
+HHcy=246
+total FN: 5
+FP:
+disease -> [211]
+vascular disease -> [202]
+total FP: 2
+Precision: 0.6666666666666666 Recall: 0.4444444444444444 F1-score: 0.5333333333333333
+id count: 9
+5147974_Material and Methods.xml
+FN:
+HHcy=444
+total FN: 1
+FP:
+CCA -> [4639]
+CON -> [671]
+HL -> [266]
+MCS -> [7461]
+HD -> [1383]
+monocytic leukemia -> [2852]
+flu -> [4254, 6447, 6961, 8262]
+total FP: 10
+Precision: 0.09090909090909091 Recall: 0.5 F1-score: 0.15384615384615385
+id count: 2
+5147974_Results.xml
+FN:
+Atherosclerosis=42
+HHcy=1080
+HHcy=1167
+HHcy=1145
+HHcy=1241
+HHcy=1341
+HHcy=1391
+HHcy=1690
+HHcy=2083
+HHcy=2146
+HHcy=2280
+HHcy=1958
+Lipid metabolism disorder=2863
+HHcy=5136
+HHcy=5334
+HHcy=5969
+HHcy=8019
+HHcy=8300
+HHcy=8458
+HHcy=10870
+HHcy=11019
+HHcy=11357
+total FN: 22
+FP:
+CON -> [4754, 5837]
+disease -> [80]
+HL -> [1107, 1304, 1582, 1682, 2058, 4941, 5903, 6872, 8365, 10849, 10938]
+HD -> [2992, 4309, 4620, 6017]
+flu -> [9070]
+total FP: 19
+Precision: 0.40625 Recall: 0.37142857142857144 F1-score: 0.3880597014925374
+id count: 35
+5147974 done.
+
+5706903_RESULTS.xml
+FN:
+serous ovarian carcinoma=196
+serous ovarian carcinoma=1033
+serous ovarian cancer=1880
+total FN: 3
+FP:
+ovarian cancer -> [1887]
+carcinoma -> [211, 421, 735, 1048]
+noma -> [216, 426, 740, 1053]
+ptosis -> [7362, 7581, 7838, 7962, 8079]
+ovarian carcinoma -> [203, 1040]
+cancer -> [39, 144, 683, 953, 1480, 1895, 2108, 2160, 2233, 3184, 3592, 4817, 4950, 5037, 6096, 6163, 7087, 8102, 8233, 8317, 8395, 8465, 8554, 9475]
+flu -> [980]
+AD2 -> [8988, 9273]
+total FP: 43
+Precision: 0.36764705882352944 Recall: 0.8928571428571429 F1-score: 0.5208333333333335
+id count: 28
+5706903_MATERIALS AND METHODS.xml
+FN:
+Ovarian cancer=14
+serous ovarian cancer=5145
+Ovarian cancer=6590
+total FN: 3
+FP:
+BRIC -> [6144]
+ovarian cancer -> [5152]
+carcinoma -> [4429]
+noma -> [4434, 5917]
+ptosis -> [6067, 6273, 6363]
+cancer -> [22, 1553, 5160, 6598]
+serous carcinoma -> [4422]
+flu -> [4357]
+total FP: 14
+Precision: 0.2222222222222222 Recall: 0.5714285714285714 F1-score: 0.32
+id count: 7
+5706903_Abstract.xml
+FN:
+total FN: 0
+FP:
+cancer -> [126, 489, 692, 943, 1052, 1150, 1715]
+ptosis -> [218]
+total FP: 8
+Precision: 0.5 Recall: 1.0 F1-score: 0.6666666666666666
+id count: 8
+5706903_DISCUSSION.xml
+FN:
+serous ovarian carcinoma=160
+serous ovarian carcinoma=1018
+mucinous ... carcinoma=1117
+clear cell ... carcinoma=1127
+endometrioid ... carcinoma=1143
+Ovarian cancer=1416
+HCC=1919
+ovarian cancer cell=4025
+total FN: 8
+FP:
+disease -> [1325]
+ovarian cancer -> [4025]
+noma -> [180, 770, 1038, 1161, 1913]
+ptosis -> [4585, 5137, 5186, 6020]
+rectal cancer -> [1793]
+ovarian carcinoma -> [167, 1025]
+blastoma -> [4188, 4339]
+flu -> [249]
+AD2 -> [4553, 5398, 5477]
+BRIC -> [3586, 5831, 6094]
+carcinoma -> [175, 765, 1033, 1156, 1908]
+cancer -> [557, 1099, 1307, 1424, 1721, 1800, 2101, 2249, 2914, 3026, 3476, 3811, 4033, 4139, 4439, 4515, 4801, 5653, 5747, 6182]
+endometrioid carcinoma -> [1143]
+total FP: 49
+Precision: 0.35526315789473684 Recall: 0.7714285714285715 F1-score: 0.48648648648648646
+id count: 35
+5706903_INTRODUCTION.xml
+FN:
+Ovarian cancer=1
+Ovarian cancer=243
+total FN: 2
+FP:
+melanoma -> [2265]
+cancer -> [9, 176, 251, 388, 862, 1713, 2034, 2061, 2327, 2626, 2706, 2849, 3003, 3478]
+ovarian cancer -> [168]
+flu -> [600]
+noma -> [2269]
+ptosis -> [1973]
+total FP: 19
+Precision: 0.36666666666666664 Recall: 0.8461538461538461 F1-score: 0.5116279069767441
+id count: 13
+5706903 done.
+
+4951690_Discussion Rev.xml
+FN:
+lung fibrosis=292
+lung fibrosis=1150
+lung fibrosis=1340
+lung fibrosis=2178
+lung fibrosis=2821
+lung fibrosis=3244
+lung fibrosis=3330
+lung fibrosis=4072
+lung fibrosis=4386
+lung fibrosis=6805
+chronic beryllium disease=7590
+CBD=7617
+chronic beryllium disease=4578
+CBD=7690
+lung fibrosis=8201
+total FN: 15
+FP:
+influenza -> [4007]
+disease -> [4596, 7608]
+pneumonia -> [4017]
+CM -> [668, 3420, 3534, 8014]
+flu -> [1786, 4009]
+influenza pneumonia -> [4007]
+total FP: 11
+Precision: 0.6666666666666666 Recall: 0.5945945945945946 F1-score: 0.6285714285714286
+id count: 37
+4951690_Additional Information.xml
+FN:
+total FN: 0
+FP:
+lung disease -> [143]
+disease -> [148]
+flu -> [92]
+total FP: 3
+Precision: 0.25 Recall: 1.0 F1-score: 0.4
+id count: 1
+4951690_Materials and Methods.xml
+FN:
+Pulmonary fibrosis=488
+lung fibrosis=1345
+total FN: 2
+FP:
+BSS -> [6895, 7578]
+disease -> [2941, 2986, 3156, 3325, 4579, 4737]
+ERS -> [2542, 2838]
+lung disease -> [3151, 4574]
+IPF -> [4641]
+flu -> [1082, 3005, 4143, 4455, 5776, 6654, 10342, 11051, 11288]
+total FP: 22
+Precision: 0.2413793103448276 Recall: 0.7777777777777778 F1-score: 0.368421052631579
+id count: 9
+4951690_Results Rev.xml
+FN:
+lung fibrosis=6353
+total FN: 1
+FP:
+ILD -> [6459]
+CM -> [2067, 2218, 2973, 3142, 4812]
+IPF -> [4779, 5382]
+flu -> [2227, 3909, 4832]
+total FP: 11
+Precision: 0.5217391304347826 Recall: 0.9230769230769231 F1-score: 0.6666666666666667
+id count: 13
+4951690_Abstract.xml
+FN:
+lung fibrosis=551
+lung fibrosis=669
+lung fibrosis=792
+total FN: 3
+FP:
+disease -> [124, 263]
+CM -> [224, 325, 943, 1131, 1516]
+lung disease -> [119, 258]
+IPF -> [1278]
+flu -> [68, 962]
+total FP: 12
+Precision: 0.3333333333333333 Recall: 0.6666666666666666 F1-score: 0.4444444444444444
+id count: 9
+4951690 done.
+
+9570260_4. Materials and Methods.xml file is empty for DISEASE.
+9570260_Abstract.xml
+FN:
+total FN: 0
+FP:
+disease -> [186]
+total FP: 1
+Precision: 0.5 Recall: 1.0 F1-score: 0.6666666666666666
+id count: 1
+9570260_3. Discussion.xml
+FN:
+LD=1
+LD=121
+LD=2900
+LD=3531
+LD=7293
+LD=7827
+total FN: 6
+FP:
+neuroborreliosis -> [3702]
+borreliosis -> [3707]
+ptosis -> [6162, 6233, 6406]
+periodontitis -> [3226]
+endocarditis -> [3241]
+cancer -> [6838]
+cervical cancer -> [6829]
+flu -> [6556]
+total FP: 10
+Precision: 0.09090909090909091 Recall: 0.14285714285714285 F1-score: 0.1111111111111111
+id count: 7
+9570260_2. Results.xml
+FN:
+LD=1968
+total FN: 1
+FP:
+total FP: 0
+Precision: NaN Recall: 0.0 F1-score: NaN
+id count: 1
+9570260_1. Introduction.xml
+FN:
+LD=46
+LD=549
+LD=625
+LD=761
+LD=883
+LD=4144
+total FN: 6
+FP:
+disease -> [37, 80]
+total FP: 2
+Precision: 0.3333333333333333 Recall: 0.14285714285714285 F1-score: 0.2
+id count: 7
+9570260 done.
+
+4058662_Signal Transduction.xml file is empty for DISEASE.
+4058662_Abstract.xml
+FN:
+Anorexia nervosa=817
+AN=835
+BN=860
+AN=1369
+BN=1376
+total FN: 5
+FP:
+anxiety -> [428, 2114]
+eating disorder -> [1241]
+disease -> [1145]
+total FP: 4
+Precision: 0.2 Recall: 0.16666666666666666 F1-score: 0.1818181818181818
+id count: 6
+4058662_Fatty Acid Amide Hydrolase as a Possible Target for Withdrawal Symptoms Treatment_ Pharmacological and Genetic Aspects.xml
+FN:
+drug addiction=4811
+total FN: 1
+FP:
+RB -> [8727, 8789, 9930, 9982]
+anxiety -> [6422]
+flu -> [8650, 9620, 9686]
+total FP: 8
+Precision: 0.1111111111111111 Recall: 0.5 F1-score: 0.1818181818181818
+id count: 2
+4058662_The Endocannabinoid System in Energy Homeostasis and Reward and Addiction Pathways.xml
+FN:
+Drug addiction=8707
+drug ... addiction=12499
+total FN: 2
+FP:
+hyperglycemia -> [1578]
+dyslipidemia -> [1593]
+insulin resistance -> [1610]
+flu -> [3381, 5030]
+gout -> [2179, 4868]
+total FP: 7
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 2
+4058662_Conclusions.xml
+FN:
+drug addiction=2659
+drug ... addiction=2988
+total FN: 2
+FP:
+disease -> [1130, 1876]
+flu -> [284]
+total FP: 3
+Precision: 0.7 Recall: 0.7777777777777778 F1-score: 0.7368421052631577
+id count: 9
+4058662_Potential of ECS-Based Drugs in Eating Disorders.xml
+FN:
+Eating Disorder=25
+Bulimia Nervosa=585
+BN=602
+Anorexia Nervosa=610
+AN=628
+Eating Disorder=639
+BN=1167
+AN=1173
+BN=1205
+AN=1411
+AN=1689
+AN=1751
+AN=1770
+BN=1804
+BN=1876
+BN=1894
+Eating disorder=2826
+AN=3052
+AN=3198
+BN=3205
+AN=3535
+BN=3542
+AN=4161
+AN=5150
+BN=5157
+AN=5618
+BN=5625
+AN=6625
+BN=6681
+AN=6918
+AN=7033
+AN=7182
+AN=7402
+AN=8579
+BN=8586
+AN=9630
+AN=9758
+AN=9781
+AN=9905
+AN=9928
+AN=10560
+BN=10567
+AN=10592
+BN=10614
+AN=10748
+BN=10755
+AN=10912
+AN=11014
+BN=11028
+AN=11218
+BN=11225
+eating disorders=11275
+Eating Disorder=12100
+AN=14793
+AN=15220
+AN=15361
+AN=15884
+AN=16147
+AN=7585
+BN=7592
+total FN: 60
+FP:
+disease -> [343, 2793, 3104, 3146, 3492, 3601, 3763, 3921, 4989, 6349, 7470, 12311]
+flu -> [8295]
+anxiety -> [2480]
+eating disorder -> [2530, 4869, 6638, 7674, 8462, 11275]
+syndrome -> [5662, 13415]
+obesity -> [13756]
+total FP: 23
+Precision: 0.5740740740740741 Recall: 0.34065934065934067 F1-score: 0.42758620689655175
+id count: 91
+4058662_Introduction.xml
+FN:
+total FN: 0
+FP:
+anxiety -> [609]
+disease -> [1177, 1295, 1374]
+Huntington disease -> [1363]
+cancer -> [1346]
+CM -> [2997]
+ADA -> [2093]
+total FP: 8
+Precision: 0.3333333333333333 Recall: 1.0 F1-score: 0.5
+id count: 4
+4058662 done.
+
+7609066_Discussion.xml
+FN:
+CCM=1279
+CCM=1405
+CCM=5504
+CCM=5899
+total FN: 4
+FP:
+CM -> [1280, 1406, 5505, 5900]
+noma -> [145, 1333, 2022, 2389, 4306, 5625]
+total FP: 10
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 4
+7609066_Results.xml
+FN:
+CCM=50
+CCM=119
+CCM=362
+CCM=2322
+CCM=5161
+CCM=5384
+CCM=6218
+CCM=6768
+CCM=8165
+CCM=9382
+CCM=9596
+CCM=11179
+total FN: 12
+FP:
+cerebral cavernous malformation -> [5181]
+GO -> [24180]
+CM -> [51, 120, 363, 2323, 5162, 5385, 5408, 5691, 6219, 6769, 8166, 9383, 9597, 11180, 29122]
+flu -> [15740]
+noma -> [412, 2913, 8759, 9294, 9437, 15636, 16523, 18433, 18525, 21155, 25416, 25562, 25899, 26716, 29594, 29747]
+ptosis -> [6347]
+total FP: 35
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 12
+7609066_Materials and methods.xml
+FN:
+CCM=122
+CCM=307
+CCM=10670
+CCM=11197
+CCM=11327
+total FN: 5
+FP:
+GO -> [16397, 16482]
+CM -> [123, 308, 10172, 10671, 11198, 11328]
+BSS -> [22985]
+disease -> [10979]
+flu -> [1922, 17327, 24489, 28417, 28984, 29265]
+total FP: 16
+Precision: 0.1111111111111111 Recall: 0.2857142857142857 F1-score: 0.16
+id count: 7
+7609066_Introduction.xml
+FN:
+CCM=2878
+CCM=2906
+CCM=3250
+CCM=3319
+CCM=3404
+CCM=3539
+CCM=3706
+CCM=3827
+CCM=3951
+CCM=4043
+CCM=4292
+CCM=4637
+CCM=4776
+CCM=4935
+CCM=5371
+total FN: 15
+FP:
+CM -> [2879, 2907, 3251, 3320, 3405, 3540, 3633, 3642, 3678, 3707, 3828, 3952, 4044, 4293, 4638, 4777, 4936, 5372]
+disease -> [2622, 2828, 4187, 4827]
+genetic disease -> [2820]
+stroke -> [3149]
+noma -> [2936, 3936, 4086, 5202]
+total FP: 28
+Precision: 0.034482758620689655 Recall: 0.0625 F1-score: 0.044444444444444446
+id count: 16
+7609066_Abstract.xml
+FN:
+Cerebral cavernous malformation=116
+CCM=149
+CCM=717
+CCM=795
+CCM=949
+CCM=1110
+CCM=348
+total FN: 7
+FP:
+CM -> [150, 349, 389, 409, 718, 796, 950, 1111]
+disease -> [178, 1114]
+vascular disease -> [169]
+total FP: 11
+Precision: 0.08333333333333333 Recall: 0.125 F1-score: 0.1
+id count: 8
+7609066 done.
+
+7029304_Abstract.xml
+FN:
+Chromophobe Renal Cell Carcinoma=68
+ChRCC=209
+ChRCC=325
+ChRCC=439
+ChRCC=1457
+ChRCC=1544
+total FN: 6
+FP:
+GO -> [612]
+renal cell carcinoma -> [187]
+RCC -> [211, 327, 441, 1459, 1546]
+carcinoma -> [164, 198]
+noma -> [96, 169, 203]
+total FP: 12
+Precision: 0.14285714285714285 Recall: 0.25 F1-score: 0.18181818181818182
+id count: 8
+7029304_3. Results.xml
+FN:
+ChRCC=32
+ChRCC=2078
+ChRCC=2255
+ChRCC=2448
+total FN: 4
+FP:
+GO -> [474, 566]
+cancer -> [1824]
+RCC -> [34, 2080, 2257, 2450]
+total FP: 7
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 4
+7029304_1. Introduction.xml
+FN:
+Chromophobe renal cell carcinoma=1
+ChRCC=35
+ChRCC=247
+ChRCC=293
+ccRCC=383
+ChRCC=428
+ChRCC=560
+ChRCC=662
+ChRCC=786
+ChRCC=957
+ChRCC=977
+ChRCC=1043
+ChRCC=1864
+ChRCC=2213
+ChRCC=2267
+total FN: 15
+FP:
+RB -> [1494, 1504]
+renal cell carcinoma -> [13, 361]
+CF -> [1899]
+disease -> [1998]
+RCC -> [37, 249, 295, 385, 430, 562, 664, 788, 959, 979, 1045, 1866, 2215, 2269]
+carcinoma -> [24, 158, 212, 372]
+noma -> [29, 163, 217, 377, 1033]
+total FP: 29
+Precision: 0.14705882352941177 Recall: 0.25 F1-score: 0.18518518518518517
+id count: 20
+7029304_2. Materials and Methods.xml
+FN:
+ChRCC=1505
+total FN: 1
+FP:
+GO -> [434, 500, 645]
+CAN -> [2109]
+cancer -> [1742, 2207]
+LCA -> [2108]
+disease -> [887]
+RCC -> [1507]
+total FP: 9
+Precision: 0.25 Recall: 0.75 F1-score: 0.375
+id count: 4
+7029304_4. Discussion.xml
+FN:
+ChRCC=10
+ChRCC=192
+ChRCC=239
+ChRCC=335
+ChRCC=939
+glioma=1177
+glioma=1404
+ChRCC=1473
+ChRCC=3159
+ChRCC=3246
+ChRCC=3399
+ChRCC=3580
+total FN: 12
+FP:
+sarcoma -> [2723]
+noma -> [2202, 2758, 2911]
+ptosis -> [1363]
+rectal cancer -> [1253]
+GO -> [631]
+adenocarcinoma -> [2192, 2748]
+flu -> [1008, 1511]
+AD5 -> [2992]
+RCC -> [12, 194, 241, 337, 941, 1475, 3161, 3248, 3401, 3582]
+carcinoma -> [2197, 2753, 2906]
+cancer -> [1260, 1949, 2066, 2290, 2681, 2703, 2831]
+total FP: 32
+Precision: 0.30434782608695654 Recall: 0.5384615384615384 F1-score: 0.3888888888888889
+id count: 26
+7029304 done.
+
+7664851_3. Discussion.xml
+FN:
+AIS=15
+PAIS=158
+PAIS=300
+PAIS=390
+PAIS=891
+AIS=1477
+PAIS=1912
+PAIS=2416
+AIS=5158
+PAIS=5205
+AIS=5379
+total FN: 11
+FP:
+hypospadias -> [406, 763, 2297]
+disease -> [1754, 3859, 4714]
+infertility -> [3077]
+flu -> [3737]
+total FP: 8
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 11
+7664851_2. Results.xml
+FN:
+PAIS=1791
+PAIS=1938
+CAIS=1951
+PAIS=2087
+PAIS=6
+total FN: 5
+FP:
+hypogonadism -> [1733]
+disease -> [3340, 4030]
+hypogonadotropic hypogonadism -> [1716]
+gonadal dysgenesis -> [1653]
+flu -> [3908]
+disorder of sexual development -> [1438]
+total FP: 7
+Precision: 0.0 Recall: 0.0 F1-score: NaN
+id count: 5
+7664851_1. Introduction.xml
+FN:
+AIS=1814
+AIS=2170
+CAIS=2246
+PAIS=2262
+mild androgen insensitivity syndrome=2273
+MAIS=2311
+complete ... androgen insensitivity syndrome=2236
+partial ... androgen insensitivity syndrome=2253
+CAIS=2318
+PAIS=2680
+CAIS=2716
+PAIS=2747
+MAIS=3026
+AIS=3179
+AIS=3245
+CAIS=3323
+PAIS=3342
+AIS=3661
+AIS=3815
+AIS=3895
+AIS=4230
+AIS=4266
+AIS=4373
+AIS=4472
+AIS=4649
+AIS=4765
+PAIS=4895
+total FN: 27
+FP:
+disease -> [4731]
+MLD -> [3554]
+syndrome -> [1804, 1846, 2301]
+gynecomastia -> [3083]
+hypospadias -> [2825, 3528, 4905]
+amenorrhea -> [2664]
+infertility -> [3118]
+androgen insensitivity syndrome -> [2278]
+total FP: 12
+Precision: 0.07692307692307693 Recall: 0.03571428571428571 F1-score: 0.04878048780487805
+id count: 28
+7664851_Abstract.xml
+FN:
+Androgen Insensitivity Syndrome=119
+Androgen insensitivity syndrome=162
+AIS=195
+AIS=382
+AIS=411
+PAIS=562
+PAIS=1104
+AIS=1440
+AIS=1512
+total FN: 9
+FP:
+disease -> [1387]
+syndrome -> [185, 552]
+disorder of sexual development -> [941]
+androgen insensitivity syndrome -> [529]
+total FP: 5
+Precision: 0.16666666666666666 Recall: 0.1 F1-score: 0.125
+id count: 10
+7664851_4. Materials and Methods.xml file is empty for DISEASE.
+7664851 done.
+
+9524383_CASE REPORT.xml
+FN:
+total FN: 0
+FP:
+disease -> [449]
+gastrointestinal stromal tumor -> [460]
+carcinoma -> [57]
+noma -> [62]
+total FP: 4
+Precision: 0.2 Recall: 1.0 F1-score: 0.33333333333333337
+id count: 1
+9524383_INTRODUCTION.xml file is empty for DISEASE.
+9524383_Abstract.xml
+FN:
+total FN: 0
+FP:
+neoplasm -> [98]
+disease -> [741]
+gastrointestinal stromal tumor -> [752, 1002]
+carcinoma -> [583]
+noma -> [588]
+total FP: 6
+Precision: 0.14285714285714285 Recall: 1.0 F1-score: 0.25
+id count: 1
+9524383_DISCUSSION.xml
+FN:
+inflammatory myofibroblast tumor=785
+IMT=819
+total FN: 2
+FP:
+fibroma -> [858, 1912]
+GIST -> [997, 2489]
+CF -> [32, 299, 541, 1008, 1556, 1692, 2285, 2658, 2947]
+disease -> [849, 1774]
+gastrointestinal stromal tumor -> [965]
+fibromyxoid sarcoma -> [940, 2301]
+phlebitis -> [1836]
+blastoma -> [890, 2173]
+myoma -> [829, 1510, 1574]
+total FP: 24
+Precision: 0.2727272727272727 Recall: 0.8181818181818182 F1-score: 0.4090909090909091
+id count: 11
+9524383 done.
+
+5854761_Abstract.xml
+FN:
+ocular hypotony=304
+total FN: 1
+FP:
+iritis -> [481]
+uveitis -> [264, 1096]
+total FP: 3
+Precision: 0.5 Recall: 0.75 F1-score: 0.6
+id count: 4
+5854761_Notes.xml file is empty for DISEASE.
+5854761_Introduction.xml
+FN:
+total FN: 0
+FP:
+optic neuropathy -> [495]
+neuropathy -> [501]
+lens subluxation -> [346]
+total FP: 3
+Precision: 0.5 Recall: 1.0 F1-score: 0.6666666666666666
+id count: 3
+5854761_Discussion.xml
+FN:
+hypotony=1484
+ocular hypotony=2427
+total FN: 2
+FP:
+scotoma -> [1983]
+optic neuropathy -> [1761]
+neuropathy -> [1767]
+uveitis -> [759, 3177]
+flu -> [1538]
+total FP: 6
+Precision: 0.3333333333333333 Recall: 0.6 F1-score: 0.42857142857142855
+id count: 5
+5854761_Case description.xml file is empty for DISEASE.
+5854761 done.
+
+8786523_Abstract.xml
+FN:
+total FN: 0
+FP:
+disease -> [2084]
+RP3 -> [85, 811, 1107, 1487, 1683, 1829]
+syndrome -> [213]
+sleep apnea -> [192]
+flu -> [597]
+total FP: 10
+Precision: 0.23076923076923078 Recall: 1.0 F1-score: 0.375
+id count: 3
+8786523_6. Limitation.xml
+FN:
+total FN: 0
+FP:
+total FP: 0
+Precision: 1.0 Recall: 1.0 F1-score: 1.0
+id count: 2
+8786523_4. Discussion.xml
+FN:
+total FN: 0
+FP:
+OAS -> [4467]
+sleep disorder -> [4264]
+disease -> [228, 395, 3393, 4507]
+RP3 -> [1440, 1497, 1533, 1685, 1960, 2639, 3094, 3271, 3859]
+ptosis -> [725, 1135]
+cognitive disorder -> [145]
+total FP: 18
+Precision: 0.21739130434782608 Recall: 1.0 F1-score: 0.3571428571428571
+id count: 5
+8786523_3. Results.xml file is empty for DISEASE.
+8786523_5. Conclusions.xml file is empty for DISEASE.
+8786523_1. Background.xml
+FN:
+Periodontal disease=690
+total FN: 1
+FP:
+disease -> [492, 610, 702, 957, 1158, 1207, 1240, 1283, 1416, 2091, 2730, 3757, 3812, 4034]
+RP3 -> [1937, 2114, 2156, 2402, 2500, 2539, 2633, 3845]
+vascular disease -> [483, 1231]
+syndrome -> [34]
+periodontitis -> [1001, 1492]
+sleep apnea -> [13, 95]
+total FP: 29
+Precision: 0.30952380952380953 Recall: 0.9285714285714286 F1-score: 0.46428571428571436
+id count: 14
+8786523_2. Materials and Methods.xml file is empty for DISEASE.
+8786523 done.
+
+9565127_3. Results.xml
+FN:
+total FN: 0
+FP:
+disease -> [1601, 1824, 2414, 2542]
+vascular disease -> [2533]
+heart disease -> [2408]
+total FP: 6
+Precision: 0.7391304347826086 Recall: 1.0 F1-score: 0.85
+id count: 17
+9565127_4. Discussion.xml
+FN:
+Parkinson’s disease=4697
+sepsis=7347
+total FN: 2
+FP:
+disease -> [2120, 2366, 2725, 4571, 4709, 5158, 5898, 6710, 7331, 7443]
+vascular disease -> [2111, 2357, 7434]
+infectious disease -> [7320]
+neoplasm -> [2032]
+flu -> [1544, 2830, 4268]
+total FP: 18
+Precision: 0.7631578947368421 Recall: 0.9666666666666667 F1-score: 0.8529411764705883
+id count: 60
+9565127_5. Conclusions.xml
+FN:
+total FN: 0
+FP:
+total FP: 0
+Precision: 1.0 Recall: 1.0 F1-score: 1.0
+id count: 6
+9565127_2. Materials and Methods.xml
+FN:
+Alzheimer’s disease=2290
+total FN: 1
+FP:
+disease -> [155, 2136, 2184, 2220, 2302, 2373]
+vascular disease -> [2211]
+infectious disease -> [2362]
+hypertensive disease -> [2123]
+heart disease -> [2178]
+neoplasm -> [2240]
+CM -> [495]
+COPD -> [2485]
+total FP: 13
+Precision: 0.43478260869565216 Recall: 0.9090909090909091 F1-score: 0.5882352941176471
+id count: 11
+9565127_1. Introduction.xml
+FN:
+coronavirus disease 2019=37
+total FN: 1
+FP:
+disease -> [49, 130, 2125]
+total FP: 3
+Precision: 0.8928571428571429 Recall: 0.9615384615384616 F1-score: 0.9259259259259259
+id count: 26
+9565127_Abstract.xml
+FN:
+Chronic Obstructive Pulmonary Disease=29
+total FN: 1
+FP:
+COVID-19 -> [1347]
+disease -> [249]
+total FP: 2
+Precision: 0.8823529411764706 Recall: 0.9375 F1-score: 0.9090909090909091
+id count: 16
+9565127 done.
+
+5773598_Introduction.xml
+FN:
+Astroblastoma=1
+Astroblastoma=457
+ependymoma=751
+CNS-PNET (primitive neuroectodermal tumour) 1=809
+CNS-PNET=1365
+CNS neuroblastoma with  FOXR2  activation=1749
+CNS NB- FOXR2=1792
+Astroblastoma=1020
+total FN: 8
+FP:
+sarcoma -> [1819]
+disease -> [2510, 2684]
+AT/RT -> [763]
+neuroblastoma -> [1753]
+blastoma -> [6, 462, 1007, 1025, 1758, 2262, 2371, 2596]
+total FP: 13
+Precision: 0.35 Recall: 0.4666666666666667 F1-score: 0.4
+id count: 15
+5773598_Results.xml
+FN:
+rhabdoid papillary meningioma=1053
+HGG=11695
+ependymoma=11882
+HGG=11940
+total FN: 4
+FP:
+meningioma -> [1072, 5558]
+CF -> [7361, 7750]
+AT/RT -> [11933]
+XPA -> [8020, 8759]
+NS4 -> [6514]
+blastoma -> [1160, 2449, 6534, 11955]
+flu -> [8593]
+RB -> [7658]
+astroblastoma -> [2444]
+total FP: 15
+Precision: 0.34782608695652173 Recall: 0.6666666666666666 F1-score: 0.4571428571428571
+id count: 12
+5773598_Materials and Methods.xml
+FN:
+total FN: 0
+FP:
+CCA -> [5232]
+RP1 -> [6187, 6200, 6250, 6263]
+CPP -> [5752]
+CF -> [3199]
+RP11 -> [6187, 6200, 6250, 6263]
+XPA -> [3526]
+NS4 -> [5328]
+total FP: 13
+Precision: 0.07142857142857142 Recall: 1.0 F1-score: 0.13333333333333333
+id count: 1
+5773598_Abstract Rev.xml
+FN:
+Astroblastoma=145
+total FN: 1
+FP:
+disease -> [1038]
+blastoma -> [150, 711, 1515]
+total FP: 4
+Precision: 0.42857142857142855 Recall: 0.75 F1-score: 0.5454545454545454
+id count: 4
+5773598_Discussion.xml
+FN:
+glioma=4348
+glioma=4506
+ependymoma=4582
+total FN: 3
+FP:
+disease -> [2996]
+blastoma -> [175, 271, 759, 1194, 1467]
+total FP: 6
+Precision: 0.5 Recall: 0.6666666666666666 F1-score: 0.5714285714285715
+id count: 9
+5773598 done.
+
+5302952_RESULTS.xml
+FN:
+Prostate cancer=2971
+total FN: 1
+FP:
+cancer -> [55, 367, 619, 839, 1247, 2170, 2980, 6964, 8273, 15963]
+HD -> [5165, 5337, 5450, 5569, 5800, 5878, 5966, 6227, 6261, 6310, 6522, 6598, 6679, 6780, 6852, 6924, 7074, 7243, 7321, 7486, 7524, 7731, 7835, 7959, 8037, 8060, 8195, 8313, 8738, 8900, 9063, 9086, 9309, 9621, 9662, 9698, 9758, 9850, 9931, 10141, 11404, 11610, 11619, 11866, 11878, 12028, 12147, 12217, 12481, 12619, 12690, 12766, 12852, 12965, 13008, 13056, 13096, 13106, 13382, 13631, 13663, 13785, 13930, 14763, 14811, 14935, 15095, 15164, 15178, 15272, 15371, 15722, 15756]
+ptosis -> [24, 759, 1171, 1423, 1625, 2075, 2271, 2347, 2414, 2540, 2628, 2948, 3428, 3600, 3833, 3957, 4003, 4440, 4960, 5073, 6051, 6178, 6727, 7194, 7347, 8248, 8696, 8994, 9102, 9371, 9976, 10230, 11255, 11329, 11456, 12813, 13830, 14623, 15924]
+total FP: 122
+Precision: 0.07575757575757576 Recall: 0.9090909090909091 F1-score: 0.13986013986013987
+id count: 11
+5302952_Abstract.xml
+FN:
+total FN: 0
+FP:
+cancer -> [113, 411, 497, 1197, 1284]
+HD -> [50, 639, 662, 809, 1134]
+ptosis -> [31, 741, 1112]
+total FP: 13
+Precision: 0.2777777777777778 Recall: 1.0 F1-score: 0.4347826086956522
+id count: 5
+5302952_MATERIALS AND METHODS.xml file is empty for DISEASE.
+5302952_DISCUSSION.xml
+FN:
+Prostate cancer=1
+total FN: 1
+FP:
+disease -> [655]
+vascular disease -> [646]
+ptosis -> [1171, 1761, 2261, 2531, 2701, 3786, 4102, 4294, 4568, 4681, 4873]
+cancer -> [10, 266, 1064, 4506, 5123]
+HD -> [1324, 1659, 1811, 1918, 2022, 2203, 2296, 2303, 2313, 2501, 2580, 2660, 2812, 2941, 3023, 3981, 4027, 4187, 4373, 4767, 4911, 5029]
+total FP: 40
+Precision: 0.2982456140350877 Recall: 0.9444444444444444 F1-score: 0.45333333333333325
+id count: 18
+5302952_INTRODUCTION.xml
+FN:
+Prostate cancer=1
+Prostate cancer=330
+total FN: 2
+FP:
+prostate cancer -> [2099]
+cancer -> [10, 255, 339, 366, 596, 722, 886, 1002, 1355, 1845, 1944, 2108, 4876]
+HD -> [2309, 2380, 2513, 2605, 2612, 2664, 2748, 2884, 3067, 3244, 3318, 3965, 4037, 4044, 4166, 4306, 4576, 4770, 4807, 5220]
+ptosis -> [3600, 4339, 4509, 4715, 4929]
+total FP: 39
+Precision: 0.2909090909090909 Recall: 0.8888888888888888 F1-score: 0.4383561643835616
+id count: 18
+5302952 done.
+
+5896876_Introduction.xml file is empty for DISEASE.
+5896876_Discussion.xml file is empty for DISEASE.
+5896876_Results.xml file is empty for DISEASE.
+5896876_Abstract.xml
+FN:
+total FN: 0
+FP:
+total FP: 0
+Precision: 1.0 Recall: 1.0 F1-score: 1.0
+id count: 1
+5896876_Materials and methods.xml file is empty for DISEASE.
+5896876 done.
+
+7409151_5. Conclusions.xml
+FN:
+total FN: 0
+FP:
+cancer -> [190, 374, 468, 597]
+total FP: 4
+Precision: 0.5 Recall: 1.0 F1-score: 0.6666666666666666
+id count: 4
+7409151_1. Introduction.xml
+FN:
+Breast cancer=1861
+Breast cancer=2703
+total FN: 2
+FP:
+cancer -> [1788, 1868, 2285, 2710, 3386, 3672]
+carcinoma -> [1699, 1745]
+flu -> [3825]
+noma -> [1704, 1750]
+total FP: 11
+Precision: 0.5 Recall: 0.8461538461538461 F1-score: 0.6285714285714286
+id count: 13
+7409151_3. Discussion.xml
+FN:
+total FN: 0
+FP:
+breast cancer -> [6033, 8140]
+cancer -> [137, 295, 437, 622, 834, 1494, 1758, 2057, 2805, 3291, 3738, 3840, 4812, 4927, 5344, 5490, 5771, 6015, 6040, 6188, 6410, 6807, 7011, 7427, 7637, 8147, 8319]
+breast tumor -> [966, 2964]
+malignant tumor -> [29]
+total FP: 32
+Precision: 0.4482758620689655 Recall: 1.0 F1-score: 0.6190476190476191
+id count: 26
+7409151_Abstract.xml
+FN:
+Breast Cancer=154
+total FN: 1
+FP:
+cancer -> [313, 408, 1027, 1661]
+breast tumor -> [1149]
+total FP: 5
+Precision: 0.4444444444444444 Recall: 0.8 F1-score: 0.5714285714285714
+id count: 5
+7409151_4. Materials and Methods.xml
+FN:
+Cancer=144
+Cancer=740
+total FN: 2
+FP:
+breast cancer -> [7487]
+cancer -> [262, 7494, 7996]
+breast tumor -> [363, 1458, 2045, 3947, 5650, 5751, 7332]
+flu -> [3555, 5475, 6282]
+total FP: 14
+Precision: 0.125 Recall: 0.5 F1-score: 0.2
+id count: 4
+7409151_2. Results.xml
+FN:
+Breast Cancer=44
+Breast Cancer=1189
+Breast Cancer=3153
+total FN: 3
+FP:
+GO -> [4633, 4955, 6124, 6178, 7332]
+breast cancer -> [2440, 3024]
+cancer -> [108, 1326, 2447, 3031, 3431, 4403, 5781, 6985]
+breast tumor -> [1620, 7653]
+total FP: 17
+Precision: 0.2916666666666667 Recall: 0.7 F1-score: 0.4117647058823529
+id count: 10
+7409151 done.
+
+
+Final Result:
+Total Score: Precision: 0.3463085898209616 Recall: 0.4849295774647887 F1-score: 0.40406055627273796
+total id count: 7100

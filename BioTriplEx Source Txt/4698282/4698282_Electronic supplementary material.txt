@@ -1,0 +1,251 @@
+
+           ESM_1_Description_studies.pdf  Description of 37 Breast Cancer Association Consortium studies included in this analysis 
+ 
+             
+               
+           
+             
+        
+
+           ESM_2_List_genes.pdf  List of 133 candidate genes relevant to the immunosuppression pathway by chromosomal position 
+ 
+             
+               
+           
+             
+        
+
+           ESM_3_QQPlot.tif  Quantile–quantile plot for genotyped SNPs included in this analysis for associations with overall breast cancer risk (excluding SNPs located within  TGFBR2  and  CCND1 ) 
+ 
+             
+               
+           
+             
+        
+
+           ESM_4_Association_SNPs.pdf  Associations with overall breast cancer risk for 3595 SNPs in the immunosuppression pathway genes 
+ 
+             
+               
+           
+             
+        
+
+           ESM_5_TopSNPs_ERstatus.pdf  Associations of  TGFBR2 ,  CCND1  and  STAT3  SNPs with overall breast cancer risk as well as stratified by ER status 
+ 
+             
+               
+           
+             
+        
+
+           ESM_6_LDplot_PTRF.tif  Linkage disequilibrium plot for 19 SNPs at  PTRF 
+ 
+ 
+             
+               
+           
+             
+        
+
+           ESM_7_ForestPlot_rs1905339.tif  Forest plot showing meta-analysis of study-wise estimates for the association of rs1905339 with breast cancer risk 
+ 
+             
+               
+           
+             
+        
+
+           ESM_8_ForestPlot_rs8074296.tif  Forest plot showing meta-analysis of study-wise estimates for the association of rs8074296 with breast cancer risk 
+ 
+             
+               
+           
+             
+        
+
+           ESM_9_ForestPlot_rs146170568.tif  Forest plot showing meta-analysis of study-wise estimates for the association of rs146170568 with breast cancer risk 
+ 
+             
+               
+           
+             
+        
+
+           ESM_10_ForestPlot_rs141732716.tif  Forest plot showing meta-analysis of study-wise estimates for the association of rs141732716 with breast cancer risk 
+ 
+             
+               
+           
+             
+        
+
+           ESM_11_ForestPlot_rs138391971.tif  Forest plot showing meta-analysis of study-wise estimates for the association of rs138391971 with breast cancer risk 
+ 
+             
+               
+           
+             
+        
+
+           ESM_12_ForestPlot_rs12952342.tif  Forest plot showing meta-analysis of study-wise estimates for the association of rs12952342 with breast cancer risk 
+ 
+             
+               
+           
+             
+        
+
+           ESM_13_ForestPlot_rs190765034.tif  Forest plot showing meta-analysis of study-wise estimates for the association of rs190765034 with breast cancer risk 
+ 
+             
+               
+           
+             
+        
+
+           ESM_14_ForestPlot_rs190137766.tif  Forest plot showing meta-analysis of study-wise estimates for the association of rs190137766 with breast cancer risk 
+ 
+             
+               
+           
+             
+        
+
+           ESM_15_ForestPlot_chr17_40607850_I.tif  Forest plot showing meta-analysis of study-wise estimates for the association of chr17:40607850:I with breast cancer risk 
+ 
+             
+               
+           
+             
+        
+
+           ESM_16_ForestPlot_rs77942990.tif  Forest plot showing meta-analysis of study-wise estimates for the association of rs77942990 with breast cancer risk 
+ 
+             
+               
+           
+             
+        
+
+           ESM_17_Gene_level_associations.pdf  Gene-level associations with breast cancer risk for 133 candidate genes in the immunosuppression pathway 
+ 
+             
+               
+           
+             
+        
+
+           ESM_18_LDplot_IL5.tif  Linkage disequilibrium plot for seven SNPs at  IL5 
+ 
+ 
+             
+               
+           
+             
+        
+
+           ESM_19_LDplot_GM-CSF.tif  Linkage disequilibrium plot for nine SNPs at  GM - CSF 
+ 
+ 
+             
+               
+           
+             
+        
+
+           ESM_20_Boxplot_STAT3.tif  Box plot showing gene expression levels of  STAT3  in normal breast tissue as well as tumor breast tissue 
+ 
+             
+               
+           
+             
+        
+
+           ESM_21_Boxplot_IL5.tif  Box plot showing gene expression levels of  IL5  in normal breast tissue as well as tumor breast tissue 
+ 
+             
+               
+           
+             
+        
+
+           ESM_22_Boxplot_PTRF.tif  Box plot showing gene expression levels of  PTRF  in normal breast tissue as well as tumor breast tissue 
+ 
+             
+               
+           
+             
+        
+
+           ESM_23_Boxplot_CSF2.tif  Box plot showing gene expression levels of  GM - CSF  in normal breast tissue as well as tumor breast tissue 
+ 
+             
+               
+           
+             
+        
+
+           ESM_24_eQTL_rs1905339_STAT3.tif  Associations of rs1905339 genotypes with  STAT3  expression within 183 breast tissue samples 
+ 
+             
+               
+           
+             
+        
+
+           ESM_25_eQTL_rs8074296_STAT3.tif  Associations of rs8074296 genotypes with  STAT3  expression within 183 breast tissue samples 
+ 
+             
+               
+           
+             
+        
+
+           ESM_26_eQTL_rs77942990_STAT3.tif  Associations of rs8074296 genotypes with  STAT3  expression within 183 breast tissue samples 
+ 
+             
+               
+           
+             
+        
+
+           ESM_27_eQTL_rs1905339_PTRF.tif  Associations of rs1905339 genotypes with  PTRF  expression within 183 breast tissue samples 
+ 
+             
+               
+           
+             
+        
+
+           ESM_28_eQTL_rs8074296_PTRF.tif  Associations of rs8074296 genotypes with  PTRF  expression within 183 breast tissue samples 
+ 
+             
+               
+           
+             
+        
+
+           ESM_29_eQTL_rs77942990_PTRF.tif  Associations of rs77942990 genotypes with  PTRF  expression within 183 breast tissue samples 
+ 
+             
+               
+           
+             
+        
+
+           ESM_30_eQTL_rs1905339_TUBG2.tif  Associations of rs1905339 genotypes with  TUBG2  expression within 183 breast tissue samples 
+ 
+             
+               
+           
+             
+        
+
+           ESM_31_eQTL_rs8074296_ TUBG2.tif  Associations of rs8074296 genotypes with  TUBG2  expression within 183 breast tissue samples 
+ 
+             
+               
+           
+             
+        
