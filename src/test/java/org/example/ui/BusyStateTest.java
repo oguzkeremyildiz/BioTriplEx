@@ -33,13 +33,11 @@ public class BusyStateTest {
             SwingUtilities.invokeAndWait(() -> invoke(busy, frame, true, "working"));
             assertFalse(button(frame, "extractButton").isEnabled(), "a running job has to disable Extract");
             assertFalse(button(frame, "loadButton").isEnabled(), "a running job has to disable Open XML");
-            assertTrue(button(frame, "cancelButton").isEnabled(), "a running job has to offer Cancel");
             SwingUtilities.invokeAndWait(() -> invoke(finish, frame, (Runnable) () -> {
                 throw new IllegalStateException("handler blew up");
             }, "idle"));
             assertTrue(button(frame, "extractButton").isEnabled(), "Extract must come back after a failed handler");
             assertTrue(button(frame, "loadButton").isEnabled(), "Open XML must come back after a failed handler");
-            assertFalse(button(frame, "cancelButton").isEnabled(), "Cancel must switch off again");
         } finally {
             SwingUtilities.invokeAndWait(frame::dispose);
         }

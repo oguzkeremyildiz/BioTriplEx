@@ -37,7 +37,6 @@ public class BioTriplExFrame extends JFrame {
     private final JComboBox<Pipeline.Method> methodBox;
     private final JButton loadButton;
     private final JButton extractButton;
-    private final JButton cancelButton;
     private final JLabel status;
     private final JProgressBar progress;
     private final JTextPane textPane;
@@ -49,7 +48,6 @@ public class BioTriplExFrame extends JFrame {
     private final JTabbedPane tabs;
     private final EnumMap<Pipeline.Method, Pipeline> pipelines;
     private Xml loadedDocument;
-    private Thread worker;
     private boolean running;
 
     /**
@@ -59,7 +57,6 @@ public class BioTriplExFrame extends JFrame {
         this.methodBox = new JComboBox<>(Pipeline.Method.values());
         this.loadButton = new JButton("Open XML...");
         this.extractButton = new JButton("Extract");
-        this.cancelButton = new JButton("Cancel");
         this.status = new JLabel("Ready.");
         this.progress = new JProgressBar();
         this.textPane = new JTextPane();
@@ -70,7 +67,7 @@ public class BioTriplExFrame extends JFrame {
         this.graphPanel = new GraphPanel();
         this.tabs = new JTabbedPane();
         this.pipelines = new EnumMap<>(Pipeline.Method.class);
-        setTitle("BioTriplEx, BioNER and Knowledge Graph Extraction");
+        setTitle("BioTriplEx");
         setSize(1180, 820);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setLayout(new BorderLayout(8, 8));
@@ -91,13 +88,10 @@ public class BioTriplExFrame extends JFrame {
         panel.setBorder(BorderFactory.createEmptyBorder(4, 6, 0, 6));
         loadButton.addActionListener(e -> chooseFile());
         extractButton.addActionListener(e -> runExtraction());
-        cancelButton.addActionListener(e -> cancel());
-        cancelButton.setEnabled(false);
         panel.add(new JLabel("Entity extraction:"));
         panel.add(methodBox);
         panel.add(loadButton);
         panel.add(extractButton);
-        panel.add(cancelButton);
         return panel;
     }
 
@@ -290,7 +284,6 @@ public class BioTriplExFrame extends JFrame {
         this.running = running;
         extractButton.setEnabled(!running);
         loadButton.setEnabled(!running);
-        cancelButton.setEnabled(running);
         progress.setVisible(running);
         progress.setIndeterminate(running);
         status.setText(message);
@@ -321,33 +314,15 @@ public class BioTriplExFrame extends JFrame {
     }
 
     /**
-     * Asks the running job to stop. The pipeline checks the interrupt between sections, so a corpus run gives up at
-     * the next section rather than at the next document set.
-     */
-    private void cancel() {
-        Thread worker = this.worker;
-        if (worker != null && worker.isAlive()) {
-            worker.interrupt();
-            log("Cancelling " + worker.getName() + "...");
-            status.setText("Cancelling...");
-        }
-    }
-
-    /**
-     * Starts a background job, keeping a handle on it so that it can be cancelled.
-     * @param name Name of the thread, shown when cancelling.
-     * @param job Work to run off the event dispatch thread.
+     * Starts a background job off the event dispatch thread.
+     * @param name Name of the thread.
+     * @param job Work to run.
      */
     private void start(String name, Runnable job) {
-        worker = new Thread(job, name);
-        worker.start();
+        new Thread(job, name).start();
     }
 
     private void fail(Exception e) {
-        if (e instanceof InterruptedException) {
-            SwingUtilities.invokeLater(() -> busy(false, "Cancelled."));
-            return;
-        }
         e.printStackTrace();
         SwingUtilities.invokeLater(() -> {
             log("ERROR: " + e);
